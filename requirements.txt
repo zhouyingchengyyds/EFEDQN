@@ -1,4 +1,4 @@
-torch>=1.8.0
+torch==2.4.1+cu118 --extra-index-url https://download.pytorch.org/whl/cu118
 numpy
 networkx
 pandas

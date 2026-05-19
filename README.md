@@ -2,8 +2,6 @@
 
 This repository provides the official PyTorch implementation of the **EFEDQN** algorithm, designed to solve the Asymmetric Time-Varying Steiner Traveling Salesman Problem with Road Access Restrictions (STSP-TVRAR). 
 
-To ensure full reproducibility and facilitate the double-blind review process, this repository contains the complete algorithmic framework, synthetic graph generation modules, and training/evaluation scripts.
-
 ## 1. Key Features
 - **Explicit Edge Embedding & Step-Wise Re-Encoding:** The `Net.py` implements a bespoke Graph Attention framework that refreshes spatio-temporal features step-by-step, naturally avoiding the pitfalls of static problem reduction.
 - **Decoupled Architecture:** Separates graph representation learning from sequential pathfinding logic using a highly optimized Multi-Head Attention decoder.

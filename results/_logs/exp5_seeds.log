@@ -1,0 +1,1210 @@
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\_jobs\exp5_seeds\instances (100 个)
+方法: ['Full model[seed1]', 'Full model[seed2]', 'Full model[seed3]', 'Plain MLP decoder[seed1]', 'Plain MLP decoder[seed2]', 'Plain MLP decoder[seed3]', 'Uniform replay[seed1]', 'Uniform replay[seed2]', 'Uniform replay[seed3]', 'w/o gating[seed1]', 'w/o gating[seed2]', 'w/o gating[seed3]'] | 设备: cpu
+[100n_64tw] abl_i000 Full model[seed1]: feasible=1 cost=1891.0 steps=101 t=6755ms
+[100n_64tw] abl_i000 Full model[seed2]: feasible=1 cost=1741.0 steps=94 t=6486ms
+[100n_64tw] abl_i000 Full model[seed3]: feasible=1 cost=1742.0 steps=97 t=6777ms
+[100n_64tw] abl_i000 w/o gating[seed1]: feasible=1 cost=1813.0 steps=89 t=5928ms
+[100n_64tw] abl_i000 w/o gating[seed2]: feasible=1 cost=1836.0 steps=89 t=5947ms
+[100n_64tw] abl_i000 w/o gating[seed3]: feasible=1 cost=1848.0 steps=95 t=6442ms
+[100n_64tw] abl_i000 Plain MLP decoder[seed1]: feasible=1 cost=1875.0 steps=99 t=6850ms
+[100n_64tw] abl_i000 Plain MLP decoder[seed2]: feasible=1 cost=1863.0 steps=105 t=7295ms
+[100n_64tw] abl_i000 Plain MLP decoder[seed3]: feasible=1 cost=1825.0 steps=98 t=6785ms
+[100n_64tw] abl_i000 Uniform replay[seed1]: feasible=1 cost=1757.0 steps=92 t=6402ms
+[100n_64tw] abl_i000 Uniform replay[seed2]: feasible=1 cost=1860.0 steps=98 t=6729ms
+[100n_64tw] abl_i000 Uniform replay[seed3]: feasible=1 cost=1834.0 steps=93 t=6277ms
+[100n_64tw] abl_i001 Full model[seed1]: feasible=1 cost=1610.0 steps=93 t=6282ms
+[100n_64tw] abl_i001 Full model[seed2]: feasible=1 cost=1281.0 steps=81 t=5388ms
+[100n_64tw] abl_i001 Full model[seed3]: feasible=1 cost=1287.0 steps=72 t=4914ms
+[100n_64tw] abl_i001 w/o gating[seed1]: feasible=1 cost=1343.0 steps=102 t=6714ms
+[100n_64tw] abl_i001 w/o gating[seed2]: feasible=0 cost=2087.0 steps=200 t=13139ms
+[100n_64tw] abl_i001 w/o gating[seed3]: feasible=1 cost=1557.0 steps=84 t=5589ms
+[100n_64tw] abl_i001 Plain MLP decoder[seed1]: feasible=1 cost=1620.0 steps=99 t=6916ms
+[100n_64tw] abl_i001 Plain MLP decoder[seed2]: feasible=1 cost=1376.0 steps=83 t=5809ms
+[100n_64tw] abl_i001 Plain MLP decoder[seed3]: feasible=0 cost=2261.0 steps=200 t=13721ms
+[100n_64tw] abl_i001 Uniform replay[seed1]: feasible=1 cost=1343.0 steps=87 t=5918ms
+[100n_64tw] abl_i001 Uniform replay[seed2]: feasible=1 cost=1498.0 steps=77 t=5294ms
+[100n_64tw] abl_i001 Uniform replay[seed3]: feasible=1 cost=1407.0 steps=78 t=5341ms
+[100n_64tw] abl_i002 Full model[seed1]: feasible=1 cost=1637.0 steps=92 t=6150ms
+[100n_64tw] abl_i002 Full model[seed2]: feasible=1 cost=1369.0 steps=76 t=5163ms
+[100n_64tw] abl_i002 Full model[seed3]: feasible=1 cost=1532.0 steps=86 t=5921ms
+[100n_64tw] abl_i002 w/o gating[seed1]: feasible=1 cost=1395.0 steps=83 t=5610ms
+[100n_64tw] abl_i002 w/o gating[seed2]: feasible=1 cost=1569.0 steps=89 t=5868ms
+[100n_64tw] abl_i002 w/o gating[seed3]: feasible=1 cost=1258.0 steps=76 t=4952ms
+[100n_64tw] abl_i002 Plain MLP decoder[seed1]: feasible=1 cost=1456.0 steps=88 t=6106ms
+[100n_64tw] abl_i002 Plain MLP decoder[seed2]: feasible=1 cost=1449.0 steps=86 t=5866ms
+[100n_64tw] abl_i002 Plain MLP decoder[seed3]: feasible=1 cost=1262.0 steps=70 t=4760ms
+[100n_64tw] abl_i002 Uniform replay[seed1]: feasible=1 cost=1713.0 steps=103 t=7051ms
+[100n_64tw] abl_i002 Uniform replay[seed2]: feasible=1 cost=1621.0 steps=98 t=6762ms
+[100n_64tw] abl_i002 Uniform replay[seed3]: feasible=1 cost=1475.0 steps=83 t=5708ms
+[100n_64tw] abl_i003 Full model[seed1]: feasible=1 cost=1357.0 steps=73 t=5013ms
+[100n_64tw] abl_i003 Full model[seed2]: feasible=1 cost=1357.0 steps=73 t=4985ms
+[100n_64tw] abl_i003 Full model[seed3]: feasible=1 cost=1473.0 steps=79 t=5614ms
+[100n_64tw] abl_i003 w/o gating[seed1]: feasible=1 cost=1702.0 steps=119 t=7832ms
+[100n_64tw] abl_i003 w/o gating[seed2]: feasible=1 cost=1416.0 steps=74 t=4967ms
+[100n_64tw] abl_i003 w/o gating[seed3]: feasible=1 cost=1547.0 steps=84 t=5637ms
+[100n_64tw] abl_i003 Plain MLP decoder[seed1]: feasible=1 cost=1303.0 steps=77 t=5372ms
+[100n_64tw] abl_i003 Plain MLP decoder[seed2]: feasible=1 cost=1442.0 steps=76 t=5283ms
+[100n_64tw] abl_i003 Plain MLP decoder[seed3]: feasible=1 cost=1362.0 steps=73 t=5067ms
+[100n_64tw] abl_i003 Uniform replay[seed1]: feasible=0 cost=2002.0 steps=200 t=14258ms
+[100n_64tw] abl_i003 Uniform replay[seed2]: feasible=1 cost=1771.0 steps=120 t=8449ms
+[100n_64tw] abl_i003 Uniform replay[seed3]: feasible=1 cost=1479.0 steps=87 t=6031ms
+[100n_64tw] abl_i004 Full model[seed1]: feasible=1 cost=1494.0 steps=78 t=5369ms
+[100n_64tw] abl_i004 Full model[seed2]: feasible=1 cost=1422.0 steps=84 t=5791ms
+[100n_64tw] abl_i004 Full model[seed3]: feasible=1 cost=1378.0 steps=81 t=5652ms
+[100n_64tw] abl_i004 w/o gating[seed1]: feasible=1 cost=1459.0 steps=66 t=4440ms
+[100n_64tw] abl_i004 w/o gating[seed2]: feasible=1 cost=1445.0 steps=80 t=5343ms
+[100n_64tw] abl_i004 w/o gating[seed3]: feasible=1 cost=1469.0 steps=81 t=5368ms
+[100n_64tw] abl_i004 Plain MLP decoder[seed1]: feasible=1 cost=1425.0 steps=85 t=5865ms
+[100n_64tw] abl_i004 Plain MLP decoder[seed2]: feasible=1 cost=1504.0 steps=79 t=5469ms
+[100n_64tw] abl_i004 Plain MLP decoder[seed3]: feasible=1 cost=1571.0 steps=87 t=6009ms
+[100n_64tw] abl_i004 Uniform replay[seed1]: feasible=1 cost=1663.0 steps=84 t=5937ms
+[100n_64tw] abl_i004 Uniform replay[seed2]: feasible=1 cost=1665.0 steps=80 t=5526ms
+[100n_64tw] abl_i004 Uniform replay[seed3]: feasible=1 cost=1648.0 steps=80 t=5539ms
+[100n_64tw] abl_i005 Full model[seed1]: feasible=1 cost=1542.0 steps=77 t=5298ms
+[100n_64tw] abl_i005 Full model[seed2]: feasible=1 cost=1792.0 steps=86 t=5920ms
+[100n_64tw] abl_i005 Full model[seed3]: feasible=1 cost=1462.0 steps=76 t=5204ms
+[100n_64tw] abl_i005 w/o gating[seed1]: feasible=1 cost=1650.0 steps=88 t=5885ms
+[100n_64tw] abl_i005 w/o gating[seed2]: feasible=1 cost=1611.0 steps=80 t=5369ms
+[100n_64tw] abl_i005 w/o gating[seed3]: feasible=1 cost=1467.0 steps=75 t=4973ms
+[100n_64tw] abl_i005 Plain MLP decoder[seed1]: feasible=0 cost=992.0 steps=200 t=13896ms
+[100n_64tw] abl_i005 Plain MLP decoder[seed2]: feasible=1 cost=1470.0 steps=75 t=5174ms
+[100n_64tw] abl_i005 Plain MLP decoder[seed3]: feasible=1 cost=1620.0 steps=106 t=7331ms
+[100n_64tw] abl_i005 Uniform replay[seed1]: feasible=1 cost=1480.0 steps=78 t=5426ms
+[100n_64tw] abl_i005 Uniform replay[seed2]: feasible=1 cost=1845.0 steps=85 t=5919ms
+[100n_64tw] abl_i005 Uniform replay[seed3]: feasible=1 cost=1492.0 steps=75 t=5243ms
+[100n_64tw] abl_i006 Full model[seed1]: feasible=1 cost=1862.0 steps=112 t=7700ms
+[100n_64tw] abl_i006 Full model[seed2]: feasible=1 cost=1625.0 steps=77 t=5358ms
+[100n_64tw] abl_i006 Full model[seed3]: feasible=1 cost=1596.0 steps=68 t=4681ms
+[100n_64tw] abl_i006 w/o gating[seed1]: feasible=1 cost=1603.0 steps=67 t=4430ms
+[100n_64tw] abl_i006 w/o gating[seed2]: feasible=1 cost=1581.0 steps=69 t=4668ms
+[100n_64tw] abl_i006 w/o gating[seed3]: feasible=1 cost=1658.0 steps=81 t=5619ms
+[100n_64tw] abl_i006 Plain MLP decoder[seed1]: feasible=1 cost=1587.0 steps=79 t=5507ms
+[100n_64tw] abl_i006 Plain MLP decoder[seed2]: feasible=1 cost=1825.0 steps=93 t=6446ms
+[100n_64tw] abl_i006 Plain MLP decoder[seed3]: feasible=1 cost=1744.0 steps=86 t=6011ms
+[100n_64tw] abl_i006 Uniform replay[seed1]: feasible=1 cost=1701.0 steps=74 t=5186ms
+[100n_64tw] abl_i006 Uniform replay[seed2]: feasible=1 cost=1586.0 steps=67 t=4619ms
+[100n_64tw] abl_i006 Uniform replay[seed3]: feasible=1 cost=1697.0 steps=83 t=5852ms
+[100n_64tw] abl_i007 Full model[seed1]: feasible=1 cost=1383.0 steps=68 t=4833ms
+[100n_64tw] abl_i007 Full model[seed2]: feasible=1 cost=1380.0 steps=76 t=5430ms
+[100n_64tw] abl_i007 Full model[seed3]: feasible=1 cost=1528.0 steps=88 t=6092ms
+[100n_64tw] abl_i007 w/o gating[seed1]: feasible=1 cost=1553.0 steps=73 t=4864ms
+[100n_64tw] abl_i007 w/o gating[seed2]: feasible=1 cost=1595.0 steps=72 t=4970ms
+[100n_64tw] abl_i007 w/o gating[seed3]: feasible=1 cost=1454.0 steps=70 t=4771ms
+[100n_64tw] abl_i007 Plain MLP decoder[seed1]: feasible=1 cost=1379.0 steps=67 t=4744ms
+[100n_64tw] abl_i007 Plain MLP decoder[seed2]: feasible=0 cost=1742.0 steps=200 t=14071ms
+[100n_64tw] abl_i007 Plain MLP decoder[seed3]: feasible=1 cost=1590.0 steps=96 t=6699ms
+[100n_64tw] abl_i007 Uniform replay[seed1]: feasible=1 cost=1304.0 steps=66 t=4496ms
+[100n_64tw] abl_i007 Uniform replay[seed2]: feasible=1 cost=1614.0 steps=89 t=6072ms
+[100n_64tw] abl_i007 Uniform replay[seed3]: feasible=1 cost=1559.0 steps=73 t=5190ms
+[100n_64tw] abl_i008 Full model[seed1]: feasible=1 cost=1551.0 steps=87 t=6076ms
+[100n_64tw] abl_i008 Full model[seed2]: feasible=0 cost=2388.0 steps=200 t=14059ms
+[100n_64tw] abl_i008 Full model[seed3]: feasible=1 cost=1602.0 steps=77 t=5391ms
+[100n_64tw] abl_i008 w/o gating[seed1]: feasible=1 cost=1807.0 steps=83 t=5469ms
+[100n_64tw] abl_i008 w/o gating[seed2]: feasible=1 cost=1610.0 steps=93 t=6212ms
+[100n_64tw] abl_i008 w/o gating[seed3]: feasible=1 cost=1649.0 steps=76 t=5146ms
+[100n_64tw] abl_i008 Plain MLP decoder[seed1]: feasible=1 cost=1657.0 steps=96 t=6705ms
+[100n_64tw] abl_i008 Plain MLP decoder[seed2]: feasible=1 cost=1660.0 steps=81 t=5695ms
+[100n_64tw] abl_i008 Plain MLP decoder[seed3]: feasible=1 cost=1596.0 steps=93 t=6427ms
+[100n_64tw] abl_i008 Uniform replay[seed1]: feasible=1 cost=1678.0 steps=85 t=5963ms
+[100n_64tw] abl_i008 Uniform replay[seed2]: feasible=1 cost=1579.0 steps=77 t=5445ms
+[100n_64tw] abl_i008 Uniform replay[seed3]: feasible=1 cost=1809.0 steps=91 t=6255ms
+[100n_64tw] abl_i009 Full model[seed1]: feasible=1 cost=1799.0 steps=133 t=9084ms
+[100n_64tw] abl_i009 Full model[seed2]: feasible=1 cost=1606.0 steps=72 t=4920ms
+[100n_64tw] abl_i009 Full model[seed3]: feasible=1 cost=1969.0 steps=89 t=5972ms
+[100n_64tw] abl_i009 w/o gating[seed1]: feasible=1 cost=1786.0 steps=82 t=5334ms
+[100n_64tw] abl_i009 w/o gating[seed2]: feasible=1 cost=1987.0 steps=144 t=9477ms
+[100n_64tw] abl_i009 w/o gating[seed3]: feasible=1 cost=1936.0 steps=143 t=9426ms
+[100n_64tw] abl_i009 Plain MLP decoder[seed1]: feasible=1 cost=1772.0 steps=124 t=8360ms
+[100n_64tw] abl_i009 Plain MLP decoder[seed2]: feasible=1 cost=1956.0 steps=91 t=6309ms
+[100n_64tw] abl_i009 Plain MLP decoder[seed3]: feasible=1 cost=1898.0 steps=82 t=5603ms
+[100n_64tw] abl_i009 Uniform replay[seed1]: feasible=1 cost=1789.0 steps=79 t=5344ms
+[100n_64tw] abl_i009 Uniform replay[seed2]: feasible=1 cost=1657.0 steps=75 t=5127ms
+[100n_64tw] abl_i009 Uniform replay[seed3]: feasible=1 cost=1907.0 steps=88 t=6001ms
+[100n_64tw] abl_i010 Full model[seed1]: feasible=1 cost=1509.0 steps=83 t=5728ms
+[100n_64tw] abl_i010 Full model[seed2]: feasible=1 cost=1430.0 steps=86 t=5932ms
+[100n_64tw] abl_i010 Full model[seed3]: feasible=1 cost=1467.0 steps=88 t=6078ms
+[100n_64tw] abl_i010 w/o gating[seed1]: feasible=1 cost=1519.0 steps=98 t=6544ms
+[100n_64tw] abl_i010 w/o gating[seed2]: feasible=1 cost=1618.0 steps=86 t=5703ms
+[100n_64tw] abl_i010 w/o gating[seed3]: feasible=1 cost=1461.0 steps=85 t=5855ms
+[100n_64tw] abl_i010 Plain MLP decoder[seed1]: feasible=1 cost=1294.0 steps=75 t=5144ms
+[100n_64tw] abl_i010 Plain MLP decoder[seed2]: feasible=1 cost=1560.0 steps=89 t=6131ms
+[100n_64tw] abl_i010 Plain MLP decoder[seed3]: feasible=1 cost=1600.0 steps=124 t=8535ms
+[100n_64tw] abl_i010 Uniform replay[seed1]: feasible=1 cost=1635.0 steps=124 t=8704ms
+[100n_64tw] abl_i010 Uniform replay[seed2]: feasible=1 cost=1522.0 steps=84 t=5987ms
+[100n_64tw] abl_i010 Uniform replay[seed3]: feasible=1 cost=1632.0 steps=90 t=6277ms
+[100n_64tw] abl_i011 Full model[seed1]: feasible=1 cost=1516.0 steps=73 t=5135ms
+[100n_64tw] abl_i011 Full model[seed2]: feasible=1 cost=1509.0 steps=67 t=4610ms
+[100n_64tw] abl_i011 Full model[seed3]: feasible=1 cost=1363.0 steps=69 t=4765ms
+[100n_64tw] abl_i011 w/o gating[seed1]: feasible=1 cost=1365.0 steps=67 t=4545ms
+[100n_64tw] abl_i011 w/o gating[seed2]: feasible=1 cost=1446.0 steps=66 t=4494ms
+[100n_64tw] abl_i011 w/o gating[seed3]: feasible=1 cost=1454.0 steps=75 t=5042ms
+[100n_64tw] abl_i011 Plain MLP decoder[seed1]: feasible=1 cost=1903.0 steps=190 t=13095ms
+[100n_64tw] abl_i011 Plain MLP decoder[seed2]: feasible=1 cost=1417.0 steps=66 t=4535ms
+[100n_64tw] abl_i011 Plain MLP decoder[seed3]: feasible=1 cost=1355.0 steps=68 t=4693ms
+[100n_64tw] abl_i011 Uniform replay[seed1]: feasible=1 cost=1511.0 steps=80 t=5554ms
+[100n_64tw] abl_i011 Uniform replay[seed2]: feasible=1 cost=1422.0 steps=67 t=4604ms
+[100n_64tw] abl_i011 Uniform replay[seed3]: feasible=1 cost=1419.0 steps=66 t=4505ms
+[100n_64tw] abl_i012 Full model[seed1]: feasible=1 cost=1447.0 steps=79 t=5326ms
+[100n_64tw] abl_i012 Full model[seed2]: feasible=0 cost=2248.0 steps=200 t=13700ms
+[100n_64tw] abl_i012 Full model[seed3]: feasible=1 cost=1562.0 steps=84 t=5527ms
+[100n_64tw] abl_i012 w/o gating[seed1]: feasible=0 cost=2572.0 steps=200 t=13543ms
+[100n_64tw] abl_i012 w/o gating[seed2]: feasible=0 cost=2571.0 steps=200 t=13326ms
+[100n_64tw] abl_i012 w/o gating[seed3]: feasible=1 cost=1506.0 steps=84 t=5538ms
+[100n_64tw] abl_i012 Plain MLP decoder[seed1]: feasible=0 cost=3689.0 steps=200 t=14043ms
+[100n_64tw] abl_i012 Plain MLP decoder[seed2]: feasible=0 cost=2557.0 steps=200 t=13549ms
+[100n_64tw] abl_i012 Plain MLP decoder[seed3]: feasible=1 cost=1644.0 steps=107 t=7258ms
+[100n_64tw] abl_i012 Uniform replay[seed1]: feasible=0 cost=2568.0 steps=200 t=13847ms
+[100n_64tw] abl_i012 Uniform replay[seed2]: feasible=0 cost=2576.0 steps=200 t=13715ms
+[100n_64tw] abl_i012 Uniform replay[seed3]: feasible=1 cost=1323.0 steps=71 t=4899ms
+[100n_64tw] abl_i013 Full model[seed1]: feasible=1 cost=1375.0 steps=73 t=4921ms
+[100n_64tw] abl_i013 Full model[seed2]: feasible=1 cost=1471.0 steps=87 t=6045ms
+[100n_64tw] abl_i013 Full model[seed3]: feasible=1 cost=1420.0 steps=77 t=5342ms
+[100n_64tw] abl_i013 w/o gating[seed1]: feasible=1 cost=1531.0 steps=87 t=5678ms
+[100n_64tw] abl_i013 w/o gating[seed2]: feasible=1 cost=1375.0 steps=73 t=4712ms
+[100n_64tw] abl_i013 w/o gating[seed3]: feasible=1 cost=1371.0 steps=84 t=5444ms
+[100n_64tw] abl_i013 Plain MLP decoder[seed1]: feasible=1 cost=1353.0 steps=74 t=4970ms
+[100n_64tw] abl_i013 Plain MLP decoder[seed2]: feasible=1 cost=1495.0 steps=85 t=5816ms
+[100n_64tw] abl_i013 Plain MLP decoder[seed3]: feasible=1 cost=1654.0 steps=117 t=8010ms
+[100n_64tw] abl_i013 Uniform replay[seed1]: feasible=1 cost=1543.0 steps=91 t=6291ms
+[100n_64tw] abl_i013 Uniform replay[seed2]: feasible=1 cost=1425.0 steps=76 t=5194ms
+[100n_64tw] abl_i013 Uniform replay[seed3]: feasible=1 cost=1461.0 steps=77 t=5443ms
+[100n_64tw] abl_i014 Full model[seed1]: feasible=1 cost=1549.0 steps=101 t=6922ms
+[100n_64tw] abl_i014 Full model[seed2]: feasible=1 cost=1523.0 steps=93 t=6285ms
+[100n_64tw] abl_i014 Full model[seed3]: feasible=1 cost=1564.0 steps=77 t=5195ms
+[100n_64tw] abl_i014 w/o gating[seed1]: feasible=1 cost=1530.0 steps=100 t=6479ms
+[100n_64tw] abl_i014 w/o gating[seed2]: feasible=1 cost=1653.0 steps=97 t=6480ms
+[100n_64tw] abl_i014 w/o gating[seed3]: feasible=0 cost=2103.0 steps=200 t=13290ms
+[100n_64tw] abl_i014 Plain MLP decoder[seed1]: feasible=1 cost=1698.0 steps=112 t=7757ms
+[100n_64tw] abl_i014 Plain MLP decoder[seed2]: feasible=1 cost=1584.0 steps=90 t=6404ms
+[100n_64tw] abl_i014 Plain MLP decoder[seed3]: feasible=1 cost=1481.0 steps=80 t=5512ms
+[100n_64tw] abl_i014 Uniform replay[seed1]: feasible=1 cost=1633.0 steps=99 t=6777ms
+[100n_64tw] abl_i014 Uniform replay[seed2]: feasible=1 cost=1537.0 steps=93 t=6563ms
+[100n_64tw] abl_i014 Uniform replay[seed3]: feasible=1 cost=1523.0 steps=92 t=6613ms
+[100n_64tw] abl_i015 Full model[seed1]: feasible=0 cost=1727.0 steps=200 t=14302ms
+[100n_64tw] abl_i015 Full model[seed2]: feasible=0 cost=1924.0 steps=200 t=14045ms
+[100n_64tw] abl_i015 Full model[seed3]: feasible=1 cost=1355.0 steps=71 t=5147ms
+[100n_64tw] abl_i015 w/o gating[seed1]: feasible=1 cost=1397.0 steps=69 t=4613ms
+[100n_64tw] abl_i015 w/o gating[seed2]: feasible=1 cost=1388.0 steps=72 t=4854ms
+[100n_64tw] abl_i015 w/o gating[seed3]: feasible=0 cost=3003.0 steps=200 t=13343ms
+[100n_64tw] abl_i015 Plain MLP decoder[seed1]: feasible=0 cost=881.0 steps=200 t=13664ms
+[100n_64tw] abl_i015 Plain MLP decoder[seed2]: feasible=1 cost=1712.0 steps=104 t=7070ms
+[100n_64tw] abl_i015 Plain MLP decoder[seed3]: feasible=0 cost=1738.0 steps=200 t=13638ms
+[100n_64tw] abl_i015 Uniform replay[seed1]: feasible=1 cost=1382.0 steps=70 t=4939ms
+[100n_64tw] abl_i015 Uniform replay[seed2]: feasible=1 cost=1389.0 steps=70 t=4758ms
+[100n_64tw] abl_i015 Uniform replay[seed3]: feasible=1 cost=1380.0 steps=72 t=4834ms
+[100n_64tw] abl_i016 Full model[seed1]: feasible=1 cost=1414.0 steps=73 t=4914ms
+[100n_64tw] abl_i016 Full model[seed2]: feasible=1 cost=1839.0 steps=144 t=10079ms
+[100n_64tw] abl_i016 Full model[seed3]: feasible=0 cost=1533.0 steps=200 t=13682ms
+[100n_64tw] abl_i016 w/o gating[seed1]: feasible=1 cost=1590.0 steps=74 t=4943ms
+[100n_64tw] abl_i016 w/o gating[seed2]: feasible=1 cost=1465.0 steps=75 t=5040ms
+[100n_64tw] abl_i016 w/o gating[seed3]: feasible=1 cost=1450.0 steps=76 t=5093ms
+[100n_64tw] abl_i016 Plain MLP decoder[seed1]: feasible=1 cost=1427.0 steps=74 t=5367ms
+[100n_64tw] abl_i016 Plain MLP decoder[seed2]: feasible=1 cost=1432.0 steps=75 t=5270ms
+[100n_64tw] abl_i016 Plain MLP decoder[seed3]: feasible=1 cost=1465.0 steps=72 t=4835ms
+[100n_64tw] abl_i016 Uniform replay[seed1]: feasible=1 cost=1443.0 steps=71 t=4769ms
+[100n_64tw] abl_i016 Uniform replay[seed2]: feasible=1 cost=1746.0 steps=194 t=13601ms
+[100n_64tw] abl_i016 Uniform replay[seed3]: feasible=1 cost=1439.0 steps=76 t=5312ms
+[100n_64tw] abl_i017 Full model[seed1]: feasible=1 cost=1712.0 steps=96 t=6762ms
+[100n_64tw] abl_i017 Full model[seed2]: feasible=1 cost=1598.0 steps=82 t=5700ms
+[100n_64tw] abl_i017 Full model[seed3]: feasible=1 cost=1596.0 steps=86 t=5970ms
+[100n_64tw] abl_i017 w/o gating[seed1]: feasible=1 cost=1808.0 steps=105 t=7141ms
+[100n_64tw] abl_i017 w/o gating[seed2]: feasible=1 cost=1863.0 steps=93 t=6112ms
+[100n_64tw] abl_i017 w/o gating[seed3]: feasible=1 cost=1870.0 steps=107 t=7261ms
+[100n_64tw] abl_i017 Plain MLP decoder[seed1]: feasible=1 cost=1956.0 steps=152 t=10705ms
+[100n_64tw] abl_i017 Plain MLP decoder[seed2]: feasible=1 cost=1673.0 steps=87 t=6040ms
+[100n_64tw] abl_i017 Plain MLP decoder[seed3]: feasible=1 cost=1643.0 steps=89 t=6286ms
+[100n_64tw] abl_i017 Uniform replay[seed1]: feasible=1 cost=1711.0 steps=81 t=5524ms
+[100n_64tw] abl_i017 Uniform replay[seed2]: feasible=1 cost=1731.0 steps=95 t=6553ms
+[100n_64tw] abl_i017 Uniform replay[seed3]: feasible=1 cost=1667.0 steps=85 t=5875ms
+[100n_64tw] abl_i018 Full model[seed1]: feasible=1 cost=1671.0 steps=85 t=5917ms
+[100n_64tw] abl_i018 Full model[seed2]: feasible=1 cost=1707.0 steps=76 t=5319ms
+[100n_64tw] abl_i018 Full model[seed3]: feasible=1 cost=1584.0 steps=74 t=5136ms
+[100n_64tw] abl_i018 w/o gating[seed1]: feasible=1 cost=1616.0 steps=78 t=5208ms
+[100n_64tw] abl_i018 w/o gating[seed2]: feasible=1 cost=1807.0 steps=105 t=7199ms
+[100n_64tw] abl_i018 w/o gating[seed3]: feasible=1 cost=1785.0 steps=89 t=5970ms
+[100n_64tw] abl_i018 Plain MLP decoder[seed1]: feasible=1 cost=1830.0 steps=138 t=9653ms
+[100n_64tw] abl_i018 Plain MLP decoder[seed2]: feasible=1 cost=1510.0 steps=69 t=4992ms
+[100n_64tw] abl_i018 Plain MLP decoder[seed3]: feasible=1 cost=1546.0 steps=72 t=5091ms
+[100n_64tw] abl_i018 Uniform replay[seed1]: feasible=1 cost=1535.0 steps=73 t=5201ms
+[100n_64tw] abl_i018 Uniform replay[seed2]: feasible=1 cost=1534.0 steps=76 t=5342ms
+[100n_64tw] abl_i018 Uniform replay[seed3]: feasible=1 cost=1528.0 steps=78 t=5323ms
+[100n_64tw] abl_i019 Full model[seed1]: feasible=1 cost=1349.0 steps=84 t=5842ms
+[100n_64tw] abl_i019 Full model[seed2]: feasible=1 cost=1504.0 steps=100 t=7027ms
+[100n_64tw] abl_i019 Full model[seed3]: feasible=1 cost=1391.0 steps=87 t=6054ms
+[100n_64tw] abl_i019 w/o gating[seed1]: feasible=1 cost=1281.0 steps=89 t=6018ms
+[100n_64tw] abl_i019 w/o gating[seed2]: feasible=1 cost=1372.0 steps=83 t=5540ms
+[100n_64tw] abl_i019 w/o gating[seed3]: feasible=1 cost=1461.0 steps=88 t=5990ms
+[100n_64tw] abl_i019 Plain MLP decoder[seed1]: feasible=1 cost=1278.0 steps=80 t=5650ms
+[100n_64tw] abl_i019 Plain MLP decoder[seed2]: feasible=1 cost=1475.0 steps=86 t=6013ms
+[100n_64tw] abl_i019 Plain MLP decoder[seed3]: feasible=1 cost=1469.0 steps=113 t=8094ms
+[100n_64tw] abl_i019 Uniform replay[seed1]: feasible=1 cost=1639.0 steps=91 t=6595ms
+[100n_64tw] abl_i019 Uniform replay[seed2]: feasible=1 cost=1401.0 steps=88 t=6321ms
+[100n_64tw] abl_i019 Uniform replay[seed3]: feasible=1 cost=1333.0 steps=86 t=6169ms
+[100n_64tw] abl_i020 Full model[seed1]: feasible=1 cost=1372.0 steps=76 t=5366ms
+[100n_64tw] abl_i020 Full model[seed2]: feasible=1 cost=1363.0 steps=78 t=5304ms
+[100n_64tw] abl_i020 Full model[seed3]: feasible=1 cost=1399.0 steps=76 t=5407ms
+[100n_64tw] abl_i020 w/o gating[seed1]: feasible=1 cost=1628.0 steps=93 t=6323ms
+[100n_64tw] abl_i020 w/o gating[seed2]: feasible=0 cost=1135.0 steps=200 t=13656ms
+[100n_64tw] abl_i020 w/o gating[seed3]: feasible=1 cost=1377.0 steps=75 t=5495ms
+[100n_64tw] abl_i020 Plain MLP decoder[seed1]: feasible=1 cost=1368.0 steps=110 t=7813ms
+[100n_64tw] abl_i020 Plain MLP decoder[seed2]: feasible=1 cost=1370.0 steps=78 t=5537ms
+[100n_64tw] abl_i020 Plain MLP decoder[seed3]: feasible=1 cost=1264.0 steps=79 t=5599ms
+[100n_64tw] abl_i020 Uniform replay[seed1]: feasible=1 cost=1376.0 steps=80 t=5757ms
+[100n_64tw] abl_i020 Uniform replay[seed2]: feasible=1 cost=1422.0 steps=80 t=5735ms
+[100n_64tw] abl_i020 Uniform replay[seed3]: feasible=1 cost=1379.0 steps=76 t=5414ms
+[100n_64tw] abl_i021 Full model[seed1]: feasible=1 cost=1474.0 steps=88 t=6224ms
+[100n_64tw] abl_i021 Full model[seed2]: feasible=1 cost=1316.0 steps=66 t=4616ms
+[100n_64tw] abl_i021 Full model[seed3]: feasible=1 cost=1447.0 steps=86 t=6039ms
+[100n_64tw] abl_i021 w/o gating[seed1]: feasible=1 cost=1367.0 steps=73 t=5088ms
+[100n_64tw] abl_i021 w/o gating[seed2]: feasible=1 cost=1585.0 steps=95 t=6362ms
+[100n_64tw] abl_i021 w/o gating[seed3]: feasible=0 cost=1684.0 steps=200 t=13461ms
+[100n_64tw] abl_i021 Plain MLP decoder[seed1]: feasible=1 cost=1595.0 steps=105 t=7423ms
+[100n_64tw] abl_i021 Plain MLP decoder[seed2]: feasible=1 cost=1346.0 steps=71 t=4970ms
+[100n_64tw] abl_i021 Plain MLP decoder[seed3]: feasible=1 cost=1432.0 steps=82 t=5728ms
+[100n_64tw] abl_i021 Uniform replay[seed1]: feasible=1 cost=1334.0 steps=66 t=4710ms
+[100n_64tw] abl_i021 Uniform replay[seed2]: feasible=1 cost=1285.0 steps=70 t=4935ms
+[100n_64tw] abl_i021 Uniform replay[seed3]: feasible=1 cost=1353.0 steps=66 t=4667ms
+[100n_64tw] abl_i022 Full model[seed1]: feasible=1 cost=1642.0 steps=86 t=6021ms
+[100n_64tw] abl_i022 Full model[seed2]: feasible=0 cost=3568.0 steps=200 t=14074ms
+[100n_64tw] abl_i022 Full model[seed3]: feasible=1 cost=1623.0 steps=88 t=6126ms
+[100n_64tw] abl_i022 w/o gating[seed1]: feasible=1 cost=1543.0 steps=78 t=5249ms
+[100n_64tw] abl_i022 w/o gating[seed2]: feasible=1 cost=1684.0 steps=87 t=5894ms
+[100n_64tw] abl_i022 w/o gating[seed3]: feasible=1 cost=1622.0 steps=82 t=5643ms
+[100n_64tw] abl_i022 Plain MLP decoder[seed1]: feasible=1 cost=1793.0 steps=94 t=6732ms
+[100n_64tw] abl_i022 Plain MLP decoder[seed2]: feasible=1 cost=1659.0 steps=86 t=6032ms
+[100n_64tw] abl_i022 Plain MLP decoder[seed3]: feasible=1 cost=1624.0 steps=85 t=6004ms
+[100n_64tw] abl_i022 Uniform replay[seed1]: feasible=1 cost=1805.0 steps=105 t=7565ms
+[100n_64tw] abl_i022 Uniform replay[seed2]: feasible=1 cost=1750.0 steps=103 t=7242ms
+[100n_64tw] abl_i022 Uniform replay[seed3]: feasible=1 cost=1478.0 steps=76 t=5277ms
+[100n_64tw] abl_i023 Full model[seed1]: feasible=1 cost=1767.0 steps=90 t=6403ms
+[100n_64tw] abl_i023 Full model[seed2]: feasible=0 cost=2551.0 steps=200 t=14145ms
+[100n_64tw] abl_i023 Full model[seed3]: feasible=0 cost=1732.0 steps=92 t=6501ms
+[100n_64tw] abl_i023 w/o gating[seed1]: feasible=0 cost=2572.0 steps=200 t=13202ms
+[100n_64tw] abl_i023 w/o gating[seed2]: feasible=1 cost=1739.0 steps=90 t=5953ms
+[100n_64tw] abl_i023 w/o gating[seed3]: feasible=1 cost=1559.0 steps=79 t=5374ms
+[100n_64tw] abl_i023 Plain MLP decoder[seed1]: feasible=1 cost=1848.0 steps=115 t=8037ms
+[100n_64tw] abl_i023 Plain MLP decoder[seed2]: feasible=1 cost=1636.0 steps=85 t=5948ms
+[100n_64tw] abl_i023 Plain MLP decoder[seed3]: feasible=1 cost=1748.0 steps=97 t=6747ms
+[100n_64tw] abl_i023 Uniform replay[seed1]: feasible=0 cost=2604.0 steps=200 t=13969ms
+[100n_64tw] abl_i023 Uniform replay[seed2]: feasible=1 cost=1539.0 steps=78 t=5423ms
+[100n_64tw] abl_i023 Uniform replay[seed3]: feasible=1 cost=1590.0 steps=80 t=5625ms
+[100n_64tw] abl_i024 Full model[seed1]: feasible=1 cost=1761.0 steps=100 t=7107ms
+[100n_64tw] abl_i024 Full model[seed2]: feasible=1 cost=1445.0 steps=72 t=5243ms
+[100n_64tw] abl_i024 Full model[seed3]: feasible=0 cost=2510.0 steps=200 t=14291ms
+[100n_64tw] abl_i024 w/o gating[seed1]: feasible=1 cost=1387.0 steps=70 t=4783ms
+[100n_64tw] abl_i024 w/o gating[seed2]: feasible=1 cost=1645.0 steps=81 t=5611ms
+[100n_64tw] abl_i024 w/o gating[seed3]: feasible=1 cost=2019.0 steps=108 t=7635ms
+[100n_64tw] abl_i024 Plain MLP decoder[seed1]: feasible=1 cost=1521.0 steps=90 t=6331ms
+[100n_64tw] abl_i024 Plain MLP decoder[seed2]: feasible=1 cost=1462.0 steps=86 t=5981ms
+[100n_64tw] abl_i024 Plain MLP decoder[seed3]: feasible=1 cost=1577.0 steps=78 t=5390ms
+[100n_64tw] abl_i024 Uniform replay[seed1]: feasible=1 cost=1698.0 steps=92 t=6435ms
+[100n_64tw] abl_i024 Uniform replay[seed2]: feasible=1 cost=1766.0 steps=94 t=6676ms
+[100n_64tw] abl_i024 Uniform replay[seed3]: feasible=1 cost=1786.0 steps=86 t=5908ms
+[100n_64tw] abl_i025 Full model[seed1]: feasible=1 cost=1414.0 steps=73 t=4941ms
+[100n_64tw] abl_i025 Full model[seed2]: feasible=1 cost=1459.0 steps=79 t=5427ms
+[100n_64tw] abl_i025 Full model[seed3]: feasible=1 cost=1383.0 steps=72 t=4895ms
+[100n_64tw] abl_i025 w/o gating[seed1]: feasible=1 cost=1178.0 steps=63 t=4150ms
+[100n_64tw] abl_i025 w/o gating[seed2]: feasible=1 cost=1411.0 steps=78 t=5149ms
+[100n_64tw] abl_i025 w/o gating[seed3]: feasible=1 cost=1196.0 steps=60 t=3953ms
+[100n_64tw] abl_i025 Plain MLP decoder[seed1]: feasible=1 cost=1511.0 steps=85 t=6042ms
+[100n_64tw] abl_i025 Plain MLP decoder[seed2]: feasible=1 cost=1334.0 steps=71 t=4983ms
+[100n_64tw] abl_i025 Plain MLP decoder[seed3]: feasible=1 cost=1168.0 steps=66 t=4565ms
+[100n_64tw] abl_i025 Uniform replay[seed1]: feasible=1 cost=1328.0 steps=69 t=5009ms
+[100n_64tw] abl_i025 Uniform replay[seed2]: feasible=1 cost=1510.0 steps=78 t=5541ms
+[100n_64tw] abl_i025 Uniform replay[seed3]: feasible=1 cost=1445.0 steps=80 t=5700ms
+[100n_64tw] abl_i026 Full model[seed1]: feasible=1 cost=1484.0 steps=74 t=5157ms
+[100n_64tw] abl_i026 Full model[seed2]: feasible=1 cost=1492.0 steps=67 t=4689ms
+[100n_64tw] abl_i026 Full model[seed3]: feasible=1 cost=1530.0 steps=78 t=5485ms
+[100n_64tw] abl_i026 w/o gating[seed1]: feasible=1 cost=1508.0 steps=65 t=4453ms
+[100n_64tw] abl_i026 w/o gating[seed2]: feasible=1 cost=1511.0 steps=66 t=4348ms
+[100n_64tw] abl_i026 w/o gating[seed3]: feasible=1 cost=1495.0 steps=68 t=4468ms
+[100n_64tw] abl_i026 Plain MLP decoder[seed1]: feasible=1 cost=1502.0 steps=69 t=4691ms
+[100n_64tw] abl_i026 Plain MLP decoder[seed2]: feasible=1 cost=1492.0 steps=67 t=4596ms
+[100n_64tw] abl_i026 Plain MLP decoder[seed3]: feasible=1 cost=1492.0 steps=67 t=4538ms
+[100n_64tw] abl_i026 Uniform replay[seed1]: feasible=1 cost=1485.0 steps=68 t=4675ms
+[100n_64tw] abl_i026 Uniform replay[seed2]: feasible=1 cost=1501.0 steps=78 t=5455ms
+[100n_64tw] abl_i026 Uniform replay[seed3]: feasible=1 cost=1498.0 steps=67 t=4618ms
+[100n_64tw] abl_i027 Full model[seed1]: feasible=1 cost=1576.0 steps=79 t=5468ms
+[100n_64tw] abl_i027 Full model[seed2]: feasible=1 cost=1545.0 steps=83 t=5765ms
+[100n_64tw] abl_i027 Full model[seed3]: feasible=1 cost=1364.0 steps=67 t=4624ms
+[100n_64tw] abl_i027 w/o gating[seed1]: feasible=1 cost=1310.0 steps=70 t=4626ms
+[100n_64tw] abl_i027 w/o gating[seed2]: feasible=1 cost=1245.0 steps=58 t=3858ms
+[100n_64tw] abl_i027 w/o gating[seed3]: feasible=1 cost=1380.0 steps=72 t=4817ms
+[100n_64tw] abl_i027 Plain MLP decoder[seed1]: feasible=1 cost=1536.0 steps=79 t=5389ms
+[100n_64tw] abl_i027 Plain MLP decoder[seed2]: feasible=1 cost=1531.0 steps=86 t=5949ms
+[100n_64tw] abl_i027 Plain MLP decoder[seed3]: feasible=1 cost=1247.0 steps=67 t=4517ms
+[100n_64tw] abl_i027 Uniform replay[seed1]: feasible=1 cost=1529.0 steps=83 t=5846ms
+[100n_64tw] abl_i027 Uniform replay[seed2]: feasible=1 cost=1549.0 steps=79 t=5625ms
+[100n_64tw] abl_i027 Uniform replay[seed3]: feasible=1 cost=1543.0 steps=77 t=5481ms
+[100n_64tw] abl_i028 Full model[seed1]: feasible=1 cost=1610.0 steps=87 t=6171ms
+[100n_64tw] abl_i028 Full model[seed2]: feasible=1 cost=2070.0 steps=181 t=12576ms
+[100n_64tw] abl_i028 Full model[seed3]: feasible=1 cost=1534.0 steps=80 t=5575ms
+[100n_64tw] abl_i028 w/o gating[seed1]: feasible=1 cost=1559.0 steps=90 t=6070ms
+[100n_64tw] abl_i028 w/o gating[seed2]: feasible=1 cost=1603.0 steps=78 t=5248ms
+[100n_64tw] abl_i028 w/o gating[seed3]: feasible=1 cost=1883.0 steps=138 t=9314ms
+[100n_64tw] abl_i028 Plain MLP decoder[seed1]: feasible=0 cost=1621.0 steps=200 t=14132ms
+[100n_64tw] abl_i028 Plain MLP decoder[seed2]: feasible=1 cost=1556.0 steps=77 t=5341ms
+[100n_64tw] abl_i028 Plain MLP decoder[seed3]: feasible=0 cost=1503.0 steps=200 t=14092ms
+[100n_64tw] abl_i028 Uniform replay[seed1]: feasible=1 cost=1553.0 steps=91 t=6432ms
+[100n_64tw] abl_i028 Uniform replay[seed2]: feasible=1 cost=1464.0 steps=74 t=5181ms
+[100n_64tw] abl_i028 Uniform replay[seed3]: feasible=1 cost=1497.0 steps=80 t=5601ms
+[100n_64tw] abl_i029 Full model[seed1]: feasible=1 cost=1104.0 steps=59 t=4064ms
+[100n_64tw] abl_i029 Full model[seed2]: feasible=1 cost=1292.0 steps=66 t=4615ms
+[100n_64tw] abl_i029 Full model[seed3]: feasible=1 cost=1347.0 steps=72 t=5074ms
+[100n_64tw] abl_i029 w/o gating[seed1]: feasible=1 cost=1429.0 steps=92 t=6420ms
+[100n_64tw] abl_i029 w/o gating[seed2]: feasible=1 cost=1320.0 steps=69 t=4657ms
+[100n_64tw] abl_i029 w/o gating[seed3]: feasible=1 cost=1338.0 steps=73 t=4954ms
+[100n_64tw] abl_i029 Plain MLP decoder[seed1]: feasible=1 cost=1282.0 steps=63 t=4533ms
+[100n_64tw] abl_i029 Plain MLP decoder[seed2]: feasible=1 cost=1250.0 steps=68 t=4840ms
+[100n_64tw] abl_i029 Plain MLP decoder[seed3]: feasible=1 cost=1278.0 steps=70 t=4969ms
+[100n_64tw] abl_i029 Uniform replay[seed1]: feasible=1 cost=1375.0 steps=83 t=5836ms
+[100n_64tw] abl_i029 Uniform replay[seed2]: feasible=1 cost=1310.0 steps=67 t=4793ms
+[100n_64tw] abl_i029 Uniform replay[seed3]: feasible=1 cost=1388.0 steps=70 t=4981ms
+[100n_64tw] abl_i030 Full model[seed1]: feasible=1 cost=1359.0 steps=61 t=4409ms
+[100n_64tw] abl_i030 Full model[seed2]: feasible=1 cost=1418.0 steps=65 t=4679ms
+[100n_64tw] abl_i030 Full model[seed3]: feasible=1 cost=1391.0 steps=67 t=4868ms
+[100n_64tw] abl_i030 w/o gating[seed1]: feasible=1 cost=1322.0 steps=65 t=4629ms
+[100n_64tw] abl_i030 w/o gating[seed2]: feasible=1 cost=1371.0 steps=64 t=4424ms
+[100n_64tw] abl_i030 w/o gating[seed3]: feasible=1 cost=1361.0 steps=62 t=4292ms
+[100n_64tw] abl_i030 Plain MLP decoder[seed1]: feasible=1 cost=1413.0 steps=66 t=4663ms
+[100n_64tw] abl_i030 Plain MLP decoder[seed2]: feasible=1 cost=1396.0 steps=69 t=4916ms
+[100n_64tw] abl_i030 Plain MLP decoder[seed3]: feasible=1 cost=1457.0 steps=72 t=5090ms
+[100n_64tw] abl_i030 Uniform replay[seed1]: feasible=1 cost=1374.0 steps=71 t=5005ms
+[100n_64tw] abl_i030 Uniform replay[seed2]: feasible=1 cost=1458.0 steps=66 t=4637ms
+[100n_64tw] abl_i030 Uniform replay[seed3]: feasible=1 cost=1399.0 steps=65 t=4602ms
+[100n_64tw] abl_i031 Full model[seed1]: feasible=1 cost=1687.0 steps=84 t=5869ms
+[100n_64tw] abl_i031 Full model[seed2]: feasible=1 cost=2401.0 steps=165 t=11413ms
+[100n_64tw] abl_i031 Full model[seed3]: feasible=1 cost=2511.0 steps=143 t=10126ms
+[100n_64tw] abl_i031 w/o gating[seed1]: feasible=1 cost=1539.0 steps=84 t=5631ms
+[100n_64tw] abl_i031 w/o gating[seed2]: feasible=1 cost=1683.0 steps=85 t=5701ms
+[100n_64tw] abl_i031 w/o gating[seed3]: feasible=1 cost=1688.0 steps=80 t=5363ms
+[100n_64tw] abl_i031 Plain MLP decoder[seed1]: feasible=1 cost=1468.0 steps=81 t=5596ms
+[100n_64tw] abl_i031 Plain MLP decoder[seed2]: feasible=1 cost=1715.0 steps=87 t=6042ms
+[100n_64tw] abl_i031 Plain MLP decoder[seed3]: feasible=1 cost=1792.0 steps=96 t=6725ms
+[100n_64tw] abl_i031 Uniform replay[seed1]: feasible=1 cost=1493.0 steps=79 t=5630ms
+[100n_64tw] abl_i031 Uniform replay[seed2]: feasible=1 cost=1688.0 steps=83 t=5908ms
+[100n_64tw] abl_i031 Uniform replay[seed3]: feasible=1 cost=1475.0 steps=81 t=5823ms
+[100n_64tw] abl_i032 Full model[seed1]: feasible=1 cost=1418.0 steps=76 t=5688ms
+[100n_64tw] abl_i032 Full model[seed2]: feasible=1 cost=1426.0 steps=70 t=5007ms
+[100n_64tw] abl_i032 Full model[seed3]: feasible=1 cost=1455.0 steps=75 t=5317ms
+[100n_64tw] abl_i032 w/o gating[seed1]: feasible=1 cost=1394.0 steps=75 t=5189ms
+[100n_64tw] abl_i032 w/o gating[seed2]: feasible=1 cost=1397.0 steps=74 t=5113ms
+[100n_64tw] abl_i032 w/o gating[seed3]: feasible=1 cost=1396.0 steps=74 t=5019ms
+[100n_64tw] abl_i032 Plain MLP decoder[seed1]: feasible=1 cost=1448.0 steps=81 t=5716ms
+[100n_64tw] abl_i032 Plain MLP decoder[seed2]: feasible=1 cost=1372.0 steps=75 t=5206ms
+[100n_64tw] abl_i032 Plain MLP decoder[seed3]: feasible=1 cost=1412.0 steps=75 t=5225ms
+[100n_64tw] abl_i032 Uniform replay[seed1]: feasible=1 cost=1655.0 steps=83 t=5754ms
+[100n_64tw] abl_i032 Uniform replay[seed2]: feasible=1 cost=1401.0 steps=75 t=5237ms
+[100n_64tw] abl_i032 Uniform replay[seed3]: feasible=1 cost=1472.0 steps=77 t=5587ms
+[100n_64tw] abl_i033 Full model[seed1]: feasible=1 cost=1470.0 steps=86 t=6031ms
+[100n_64tw] abl_i033 Full model[seed2]: feasible=1 cost=1667.0 steps=86 t=5676ms
+[100n_64tw] abl_i033 Full model[seed3]: feasible=1 cost=1292.0 steps=69 t=4727ms
+[100n_64tw] abl_i033 w/o gating[seed1]: feasible=1 cost=1485.0 steps=77 t=5067ms
+[100n_64tw] abl_i033 w/o gating[seed2]: feasible=1 cost=1313.0 steps=79 t=5240ms
+[100n_64tw] abl_i033 w/o gating[seed3]: feasible=1 cost=1442.0 steps=87 t=5646ms
+[100n_64tw] abl_i033 Plain MLP decoder[seed1]: feasible=1 cost=1255.0 steps=73 t=4993ms
+[100n_64tw] abl_i033 Plain MLP decoder[seed2]: feasible=1 cost=1375.0 steps=79 t=5397ms
+[100n_64tw] abl_i033 Plain MLP decoder[seed3]: feasible=0 cost=2315.0 steps=200 t=13707ms
+[100n_64tw] abl_i033 Uniform replay[seed1]: feasible=1 cost=1661.0 steps=82 t=5770ms
+[100n_64tw] abl_i033 Uniform replay[seed2]: feasible=1 cost=1557.0 steps=84 t=5792ms
+[100n_64tw] abl_i033 Uniform replay[seed3]: feasible=1 cost=1486.0 steps=79 t=5371ms
+[100n_64tw] abl_i034 Full model[seed1]: feasible=1 cost=1322.0 steps=64 t=4384ms
+[100n_64tw] abl_i034 Full model[seed2]: feasible=1 cost=1260.0 steps=65 t=4483ms
+[100n_64tw] abl_i034 Full model[seed3]: feasible=1 cost=1353.0 steps=62 t=4303ms
+[100n_64tw] abl_i034 w/o gating[seed1]: feasible=1 cost=1487.0 steps=68 t=4486ms
+[100n_64tw] abl_i034 w/o gating[seed2]: feasible=1 cost=1494.0 steps=74 t=4870ms
+[100n_64tw] abl_i034 w/o gating[seed3]: feasible=1 cost=1446.0 steps=65 t=4268ms
+[100n_64tw] abl_i034 Plain MLP decoder[seed1]: feasible=1 cost=1713.0 steps=84 t=5795ms
+[100n_64tw] abl_i034 Plain MLP decoder[seed2]: feasible=1 cost=1361.0 steps=62 t=4249ms
+[100n_64tw] abl_i034 Plain MLP decoder[seed3]: feasible=1 cost=1359.0 steps=71 t=4923ms
+[100n_64tw] abl_i034 Uniform replay[seed1]: feasible=1 cost=1337.0 steps=65 t=4589ms
+[100n_64tw] abl_i034 Uniform replay[seed2]: feasible=1 cost=1332.0 steps=61 t=4187ms
+[100n_64tw] abl_i034 Uniform replay[seed3]: feasible=1 cost=1427.0 steps=68 t=4651ms
+[100n_64tw] abl_i035 Full model[seed1]: feasible=1 cost=2422.0 steps=110 t=7498ms
+[100n_64tw] abl_i035 Full model[seed2]: feasible=1 cost=2775.0 steps=184 t=12521ms
+[100n_64tw] abl_i035 Full model[seed3]: feasible=0 cost=2828.0 steps=200 t=13409ms
+[100n_64tw] abl_i035 w/o gating[seed1]: feasible=1 cost=2573.0 steps=136 t=8777ms
+[100n_64tw] abl_i035 w/o gating[seed2]: feasible=1 cost=2465.0 steps=106 t=7053ms
+[100n_64tw] abl_i035 w/o gating[seed3]: feasible=0 cost=2794.0 steps=200 t=13577ms
+[100n_64tw] abl_i035 Plain MLP decoder[seed1]: feasible=1 cost=2639.0 steps=113 t=7942ms
+[100n_64tw] abl_i035 Plain MLP decoder[seed2]: feasible=1 cost=2437.0 steps=109 t=7575ms
+[100n_64tw] abl_i035 Plain MLP decoder[seed3]: feasible=0 cost=2781.0 steps=200 t=14090ms
+[100n_64tw] abl_i035 Uniform replay[seed1]: feasible=1 cost=2534.0 steps=111 t=7807ms
+[100n_64tw] abl_i035 Uniform replay[seed2]: feasible=1 cost=2590.0 steps=163 t=11737ms
+[100n_64tw] abl_i035 Uniform replay[seed3]: feasible=1 cost=2594.0 steps=167 t=11784ms
+[100n_64tw] abl_i036 Full model[seed1]: feasible=1 cost=1441.0 steps=70 t=5046ms
+[100n_64tw] abl_i036 Full model[seed2]: feasible=1 cost=1382.0 steps=64 t=4683ms
+[100n_64tw] abl_i036 Full model[seed3]: feasible=1 cost=1376.0 steps=67 t=4913ms
+[100n_64tw] abl_i036 w/o gating[seed1]: feasible=1 cost=1320.0 steps=62 t=4148ms
+[100n_64tw] abl_i036 w/o gating[seed2]: feasible=1 cost=1394.0 steps=63 t=4375ms
+[100n_64tw] abl_i036 w/o gating[seed3]: feasible=1 cost=1376.0 steps=67 t=4572ms
+[100n_64tw] abl_i036 Plain MLP decoder[seed1]: feasible=1 cost=1595.0 steps=88 t=6296ms
+[100n_64tw] abl_i036 Plain MLP decoder[seed2]: feasible=1 cost=1335.0 steps=65 t=4554ms
+[100n_64tw] abl_i036 Plain MLP decoder[seed3]: feasible=1 cost=1294.0 steps=63 t=4528ms
+[100n_64tw] abl_i036 Uniform replay[seed1]: feasible=1 cost=1397.0 steps=67 t=5324ms
+[100n_64tw] abl_i036 Uniform replay[seed2]: feasible=1 cost=1368.0 steps=66 t=4890ms
+[100n_64tw] abl_i036 Uniform replay[seed3]: feasible=1 cost=1307.0 steps=63 t=4445ms
+[100n_64tw] abl_i037 Full model[seed1]: feasible=1 cost=1460.0 steps=71 t=4980ms
+[100n_64tw] abl_i037 Full model[seed2]: feasible=1 cost=1553.0 steps=73 t=5479ms
+[100n_64tw] abl_i037 Full model[seed3]: feasible=1 cost=1431.0 steps=71 t=5119ms
+[100n_64tw] abl_i037 w/o gating[seed1]: feasible=1 cost=1442.0 steps=72 t=4789ms
+[100n_64tw] abl_i037 w/o gating[seed2]: feasible=1 cost=1524.0 steps=70 t=4782ms
+[100n_64tw] abl_i037 w/o gating[seed3]: feasible=1 cost=1297.0 steps=60 t=4191ms
+[100n_64tw] abl_i037 Plain MLP decoder[seed1]: feasible=1 cost=1564.0 steps=71 t=4973ms
+[100n_64tw] abl_i037 Plain MLP decoder[seed2]: feasible=1 cost=1567.0 steps=71 t=5092ms
+[100n_64tw] abl_i037 Plain MLP decoder[seed3]: feasible=1 cost=1431.0 steps=64 t=4499ms
+[100n_64tw] abl_i037 Uniform replay[seed1]: feasible=1 cost=1496.0 steps=70 t=4995ms
+[100n_64tw] abl_i037 Uniform replay[seed2]: feasible=1 cost=1498.0 steps=70 t=4916ms
+[100n_64tw] abl_i037 Uniform replay[seed3]: feasible=1 cost=1513.0 steps=70 t=4865ms
+[100n_64tw] abl_i038 Full model[seed1]: feasible=1 cost=1636.0 steps=87 t=6330ms
+[100n_64tw] abl_i038 Full model[seed2]: feasible=1 cost=1972.0 steps=121 t=8827ms
+[100n_64tw] abl_i038 Full model[seed3]: feasible=1 cost=1733.0 steps=101 t=7227ms
+[100n_64tw] abl_i038 w/o gating[seed1]: feasible=1 cost=1801.0 steps=127 t=9137ms
+[100n_64tw] abl_i038 w/o gating[seed2]: feasible=1 cost=1768.0 steps=111 t=7755ms
+[100n_64tw] abl_i038 w/o gating[seed3]: feasible=0 cost=1523.0 steps=80 t=5345ms
+[100n_64tw] abl_i038 Plain MLP decoder[seed1]: feasible=1 cost=1752.0 steps=105 t=6920ms
+[100n_64tw] abl_i038 Plain MLP decoder[seed2]: feasible=1 cost=1764.0 steps=124 t=7950ms
+[100n_64tw] abl_i038 Plain MLP decoder[seed3]: feasible=0 cost=1561.0 steps=81 t=5279ms
+[100n_64tw] abl_i038 Uniform replay[seed1]: feasible=1 cost=1754.0 steps=106 t=6964ms
+[100n_64tw] abl_i038 Uniform replay[seed2]: feasible=0 cost=1826.0 steps=127 t=8688ms
+[100n_64tw] abl_i038 Uniform replay[seed3]: feasible=0 cost=1913.0 steps=200 t=12901ms
+[100n_64tw] abl_i039 Full model[seed1]: feasible=1 cost=1332.0 steps=69 t=4612ms
+[100n_64tw] abl_i039 Full model[seed2]: feasible=1 cost=1304.0 steps=68 t=4528ms
+[100n_64tw] abl_i039 Full model[seed3]: feasible=1 cost=1306.0 steps=68 t=4316ms
+[100n_64tw] abl_i039 w/o gating[seed1]: feasible=1 cost=1461.0 steps=73 t=4504ms
+[100n_64tw] abl_i039 w/o gating[seed2]: feasible=1 cost=1448.0 steps=74 t=4370ms
+[100n_64tw] abl_i039 w/o gating[seed3]: feasible=1 cost=1422.0 steps=72 t=4422ms
+[100n_64tw] abl_i039 Plain MLP decoder[seed1]: feasible=1 cost=1316.0 steps=67 t=4278ms
+[100n_64tw] abl_i039 Plain MLP decoder[seed2]: feasible=1 cost=1313.0 steps=67 t=4342ms
+[100n_64tw] abl_i039 Plain MLP decoder[seed3]: feasible=1 cost=1397.0 steps=71 t=4932ms
+[100n_64tw] abl_i039 Uniform replay[seed1]: feasible=1 cost=1405.0 steps=70 t=4736ms
+[100n_64tw] abl_i039 Uniform replay[seed2]: feasible=1 cost=1505.0 steps=75 t=4795ms
+[100n_64tw] abl_i039 Uniform replay[seed3]: feasible=1 cost=1315.0 steps=67 t=4564ms
+[100n_64tw] abl_i040 Full model[seed1]: feasible=1 cost=1452.0 steps=72 t=5906ms
+[100n_64tw] abl_i040 Full model[seed2]: feasible=1 cost=1471.0 steps=73 t=5404ms
+[100n_64tw] abl_i040 Full model[seed3]: feasible=1 cost=1437.0 steps=68 t=5589ms
+[100n_64tw] abl_i040 w/o gating[seed1]: feasible=1 cost=1382.0 steps=75 t=5676ms
+[100n_64tw] abl_i040 w/o gating[seed2]: feasible=1 cost=1398.0 steps=68 t=4887ms
+[100n_64tw] abl_i040 w/o gating[seed3]: feasible=1 cost=1436.0 steps=72 t=5195ms
+[100n_64tw] abl_i040 Plain MLP decoder[seed1]: feasible=1 cost=1420.0 steps=66 t=4914ms
+[100n_64tw] abl_i040 Plain MLP decoder[seed2]: feasible=1 cost=1540.0 steps=75 t=5598ms
+[100n_64tw] abl_i040 Plain MLP decoder[seed3]: feasible=1 cost=1395.0 steps=71 t=5300ms
+[100n_64tw] abl_i040 Uniform replay[seed1]: feasible=1 cost=1386.0 steps=73 t=5185ms
+[100n_64tw] abl_i040 Uniform replay[seed2]: feasible=1 cost=1397.0 steps=69 t=4229ms
+[100n_64tw] abl_i040 Uniform replay[seed3]: feasible=1 cost=1390.0 steps=69 t=4147ms
+[100n_64tw] abl_i041 Full model[seed1]: feasible=1 cost=1343.0 steps=73 t=4165ms
+[100n_64tw] abl_i041 Full model[seed2]: feasible=1 cost=1488.0 steps=81 t=4772ms
+[100n_64tw] abl_i041 Full model[seed3]: feasible=1 cost=1254.0 steps=67 t=4054ms
+[100n_64tw] abl_i041 w/o gating[seed1]: feasible=1 cost=1444.0 steps=71 t=4166ms
+[100n_64tw] abl_i041 w/o gating[seed2]: feasible=1 cost=1437.0 steps=72 t=4068ms
+[100n_64tw] abl_i041 w/o gating[seed3]: feasible=1 cost=1479.0 steps=74 t=4429ms
+[100n_64tw] abl_i041 Plain MLP decoder[seed1]: feasible=1 cost=1237.0 steps=63 t=4005ms
+[100n_64tw] abl_i041 Plain MLP decoder[seed2]: feasible=1 cost=1410.0 steps=71 t=3982ms
+[100n_64tw] abl_i041 Plain MLP decoder[seed3]: feasible=1 cost=1270.0 steps=63 t=3481ms
+[100n_64tw] abl_i041 Uniform replay[seed1]: feasible=1 cost=1337.0 steps=72 t=3916ms
+[100n_64tw] abl_i041 Uniform replay[seed2]: feasible=1 cost=1372.0 steps=73 t=4021ms
+[100n_64tw] abl_i041 Uniform replay[seed3]: feasible=1 cost=1235.0 steps=67 t=3524ms
+[100n_64tw] abl_i042 Full model[seed1]: feasible=1 cost=1694.0 steps=80 t=3905ms
+[100n_64tw] abl_i042 Full model[seed2]: feasible=1 cost=1747.0 steps=105 t=5468ms
+[100n_64tw] abl_i042 Full model[seed3]: feasible=1 cost=1631.0 steps=74 t=4033ms
+[100n_64tw] abl_i042 w/o gating[seed1]: feasible=1 cost=1639.0 steps=86 t=4686ms
+[100n_64tw] abl_i042 w/o gating[seed2]: feasible=1 cost=1586.0 steps=80 t=4319ms
+[100n_64tw] abl_i042 w/o gating[seed3]: feasible=1 cost=1703.0 steps=86 t=4676ms
+[100n_64tw] abl_i042 Plain MLP decoder[seed1]: feasible=1 cost=1845.0 steps=88 t=4836ms
+[100n_64tw] abl_i042 Plain MLP decoder[seed2]: feasible=1 cost=1512.0 steps=70 t=3824ms
+[100n_64tw] abl_i042 Plain MLP decoder[seed3]: feasible=1 cost=1626.0 steps=84 t=4400ms
+[100n_64tw] abl_i042 Uniform replay[seed1]: feasible=1 cost=1559.0 steps=80 t=4320ms
+[100n_64tw] abl_i042 Uniform replay[seed2]: feasible=1 cost=1866.0 steps=105 t=5499ms
+[100n_64tw] abl_i042 Uniform replay[seed3]: feasible=1 cost=1676.0 steps=80 t=4086ms
+[100n_64tw] abl_i043 Full model[seed1]: feasible=1 cost=1512.0 steps=70 t=3782ms
+[100n_64tw] abl_i043 Full model[seed2]: feasible=1 cost=1699.0 steps=90 t=4886ms
+[100n_64tw] abl_i043 Full model[seed3]: feasible=1 cost=1418.0 steps=64 t=3549ms
+[100n_64tw] abl_i043 w/o gating[seed1]: feasible=1 cost=1549.0 steps=71 t=3908ms
+[100n_64tw] abl_i043 w/o gating[seed2]: feasible=1 cost=1590.0 steps=88 t=4645ms
+[100n_64tw] abl_i043 w/o gating[seed3]: feasible=1 cost=1415.0 steps=66 t=3627ms
+[100n_64tw] abl_i043 Plain MLP decoder[seed1]: feasible=1 cost=1730.0 steps=87 t=4889ms
+[100n_64tw] abl_i043 Plain MLP decoder[seed2]: feasible=1 cost=1770.0 steps=87 t=4821ms
+[100n_64tw] abl_i043 Plain MLP decoder[seed3]: feasible=1 cost=1790.0 steps=95 t=5786ms
+[100n_64tw] abl_i043 Uniform replay[seed1]: feasible=1 cost=1524.0 steps=72 t=4638ms
+[100n_64tw] abl_i043 Uniform replay[seed2]: feasible=1 cost=1550.0 steps=73 t=4670ms
+[100n_64tw] abl_i043 Uniform replay[seed3]: feasible=1 cost=1393.0 steps=64 t=4103ms
+[100n_64tw] abl_i044 Full model[seed1]: feasible=1 cost=1736.0 steps=90 t=5802ms
+[100n_64tw] abl_i044 Full model[seed2]: feasible=1 cost=1774.0 steps=87 t=5701ms
+[100n_64tw] abl_i044 Full model[seed3]: feasible=1 cost=1647.0 steps=91 t=5792ms
+[100n_64tw] abl_i044 w/o gating[seed1]: feasible=0 cost=1918.0 steps=200 t=12200ms
+[100n_64tw] abl_i044 w/o gating[seed2]: feasible=1 cost=1554.0 steps=78 t=4661ms
+[100n_64tw] abl_i044 w/o gating[seed3]: feasible=1 cost=1767.0 steps=84 t=5140ms
+[100n_64tw] abl_i044 Plain MLP decoder[seed1]: feasible=0 cost=1635.0 steps=200 t=12082ms
+[100n_64tw] abl_i044 Plain MLP decoder[seed2]: feasible=0 cost=1924.0 steps=200 t=19023ms
+[100n_64tw] abl_i044 Plain MLP decoder[seed3]: feasible=1 cost=1823.0 steps=119 t=8861ms
+[100n_64tw] abl_i044 Uniform replay[seed1]: feasible=1 cost=1580.0 steps=81 t=5079ms
+[100n_64tw] abl_i044 Uniform replay[seed2]: feasible=1 cost=1767.0 steps=87 t=5731ms
+[100n_64tw] abl_i044 Uniform replay[seed3]: feasible=1 cost=1646.0 steps=86 t=5666ms
+[100n_64tw] abl_i045 Full model[seed1]: feasible=1 cost=1470.0 steps=73 t=4738ms
+[100n_64tw] abl_i045 Full model[seed2]: feasible=1 cost=1456.0 steps=71 t=4539ms
+[100n_64tw] abl_i045 Full model[seed3]: feasible=1 cost=1395.0 steps=65 t=4214ms
+[100n_64tw] abl_i045 w/o gating[seed1]: feasible=1 cost=1364.0 steps=72 t=4471ms
+[100n_64tw] abl_i045 w/o gating[seed2]: feasible=1 cost=1410.0 steps=72 t=4456ms
+[100n_64tw] abl_i045 w/o gating[seed3]: feasible=1 cost=1488.0 steps=76 t=4610ms
+[100n_64tw] abl_i045 Plain MLP decoder[seed1]: feasible=1 cost=1355.0 steps=69 t=4518ms
+[100n_64tw] abl_i045 Plain MLP decoder[seed2]: feasible=1 cost=1488.0 steps=75 t=4693ms
+[100n_64tw] abl_i045 Plain MLP decoder[seed3]: feasible=1 cost=1440.0 steps=72 t=3957ms
+[100n_64tw] abl_i045 Uniform replay[seed1]: feasible=1 cost=1391.0 steps=71 t=4553ms
+[100n_64tw] abl_i045 Uniform replay[seed2]: feasible=1 cost=1396.0 steps=70 t=4531ms
+[100n_64tw] abl_i045 Uniform replay[seed3]: feasible=1 cost=1370.0 steps=71 t=4523ms
+[100n_64tw] abl_i046 Full model[seed1]: feasible=1 cost=1435.0 steps=79 t=5118ms
+[100n_64tw] abl_i046 Full model[seed2]: feasible=1 cost=1447.0 steps=87 t=5561ms
+[100n_64tw] abl_i046 Full model[seed3]: feasible=1 cost=1584.0 steps=87 t=5543ms
+[100n_64tw] abl_i046 w/o gating[seed1]: feasible=1 cost=1590.0 steps=99 t=6060ms
+[100n_64tw] abl_i046 w/o gating[seed2]: feasible=1 cost=1372.0 steps=75 t=4594ms
+[100n_64tw] abl_i046 w/o gating[seed3]: feasible=1 cost=1451.0 steps=75 t=4813ms
+[100n_64tw] abl_i046 Plain MLP decoder[seed1]: feasible=0 cost=2034.0 steps=200 t=12853ms
+[100n_64tw] abl_i046 Plain MLP decoder[seed2]: feasible=1 cost=1479.0 steps=93 t=6099ms
+[100n_64tw] abl_i046 Plain MLP decoder[seed3]: feasible=1 cost=1546.0 steps=110 t=7220ms
+[100n_64tw] abl_i046 Uniform replay[seed1]: feasible=1 cost=1438.0 steps=79 t=5281ms
+[100n_64tw] abl_i046 Uniform replay[seed2]: feasible=1 cost=1451.0 steps=75 t=4980ms
+[100n_64tw] abl_i046 Uniform replay[seed3]: feasible=1 cost=1688.0 steps=91 t=6036ms
+[100n_64tw] abl_i047 Full model[seed1]: feasible=1 cost=1404.0 steps=65 t=4322ms
+[100n_64tw] abl_i047 Full model[seed2]: feasible=1 cost=1424.0 steps=74 t=4915ms
+[100n_64tw] abl_i047 Full model[seed3]: feasible=1 cost=1404.0 steps=70 t=4808ms
+[100n_64tw] abl_i047 w/o gating[seed1]: feasible=1 cost=1450.0 steps=81 t=5215ms
+[100n_64tw] abl_i047 w/o gating[seed2]: feasible=1 cost=1347.0 steps=63 t=4094ms
+[100n_64tw] abl_i047 w/o gating[seed3]: feasible=1 cost=1525.0 steps=77 t=5014ms
+[100n_64tw] abl_i047 Plain MLP decoder[seed1]: feasible=1 cost=1536.0 steps=89 t=6096ms
+[100n_64tw] abl_i047 Plain MLP decoder[seed2]: feasible=1 cost=1595.0 steps=95 t=6474ms
+[100n_64tw] abl_i047 Plain MLP decoder[seed3]: feasible=1 cost=1504.0 steps=92 t=6316ms
+[100n_64tw] abl_i047 Uniform replay[seed1]: feasible=1 cost=1433.0 steps=84 t=5836ms
+[100n_64tw] abl_i047 Uniform replay[seed2]: feasible=1 cost=1418.0 steps=72 t=4955ms
+[100n_64tw] abl_i047 Uniform replay[seed3]: feasible=1 cost=1413.0 steps=74 t=5033ms
+[100n_64tw] abl_i048 Full model[seed1]: feasible=1 cost=1696.0 steps=76 t=5052ms
+[100n_64tw] abl_i048 Full model[seed2]: feasible=1 cost=1634.0 steps=73 t=5194ms
+[100n_64tw] abl_i048 Full model[seed3]: feasible=1 cost=1681.0 steps=77 t=5242ms
+[100n_64tw] abl_i048 w/o gating[seed1]: feasible=1 cost=1776.0 steps=84 t=5471ms
+[100n_64tw] abl_i048 w/o gating[seed2]: feasible=1 cost=1656.0 steps=79 t=5097ms
+[100n_64tw] abl_i048 w/o gating[seed3]: feasible=1 cost=1957.0 steps=111 t=7238ms
+[100n_64tw] abl_i048 Plain MLP decoder[seed1]: feasible=1 cost=1711.0 steps=87 t=5955ms
+[100n_64tw] abl_i048 Plain MLP decoder[seed2]: feasible=0 cost=2206.0 steps=200 t=13503ms
+[100n_64tw] abl_i048 Plain MLP decoder[seed3]: feasible=1 cost=1743.0 steps=90 t=6172ms
+[100n_64tw] abl_i048 Uniform replay[seed1]: feasible=1 cost=1640.0 steps=73 t=4890ms
+[100n_64tw] abl_i048 Uniform replay[seed2]: feasible=1 cost=1723.0 steps=80 t=5559ms
+[100n_64tw] abl_i048 Uniform replay[seed3]: feasible=1 cost=1634.0 steps=75 t=5161ms
+[100n_64tw] abl_i049 Full model[seed1]: feasible=1 cost=1569.0 steps=79 t=5172ms
+[100n_64tw] abl_i049 Full model[seed2]: feasible=1 cost=1782.0 steps=81 t=4813ms
+[100n_64tw] abl_i049 Full model[seed3]: feasible=1 cost=1656.0 steps=76 t=4888ms
+[100n_64tw] abl_i049 w/o gating[seed1]: feasible=1 cost=1802.0 steps=101 t=6153ms
+[100n_64tw] abl_i049 w/o gating[seed2]: feasible=1 cost=1483.0 steps=75 t=4409ms
+[100n_64tw] abl_i049 w/o gating[seed3]: feasible=1 cost=1539.0 steps=78 t=4702ms
+[100n_64tw] abl_i049 Plain MLP decoder[seed1]: feasible=1 cost=1499.0 steps=75 t=4837ms
+[100n_64tw] abl_i049 Plain MLP decoder[seed2]: feasible=1 cost=1826.0 steps=99 t=6235ms
+[100n_64tw] abl_i049 Plain MLP decoder[seed3]: feasible=1 cost=1469.0 steps=74 t=4652ms
+[100n_64tw] abl_i049 Uniform replay[seed1]: feasible=1 cost=1492.0 steps=75 t=5338ms
+[100n_64tw] abl_i049 Uniform replay[seed2]: feasible=1 cost=1689.0 steps=84 t=5872ms
+[100n_64tw] abl_i049 Uniform replay[seed3]: feasible=1 cost=1491.0 steps=74 t=5072ms
+[100n_64tw] abl_i050 Full model[seed1]: feasible=0 cost=1441.0 steps=78 t=5220ms
+[100n_64tw] abl_i050 Full model[seed2]: feasible=0 cost=1411.0 steps=79 t=5195ms
+[100n_64tw] abl_i050 Full model[seed3]: feasible=0 cost=1447.0 steps=75 t=4823ms
+[100n_64tw] abl_i050 w/o gating[seed1]: feasible=0 cost=1371.0 steps=79 t=4983ms
+[100n_64tw] abl_i050 w/o gating[seed2]: feasible=0 cost=1493.0 steps=86 t=5607ms
+[100n_64tw] abl_i050 w/o gating[seed3]: feasible=0 cost=1540.0 steps=84 t=5302ms
+[100n_64tw] abl_i050 Plain MLP decoder[seed1]: feasible=0 cost=1406.0 steps=83 t=5435ms
+[100n_64tw] abl_i050 Plain MLP decoder[seed2]: feasible=0 cost=1611.0 steps=86 t=5829ms
+[100n_64tw] abl_i050 Plain MLP decoder[seed3]: feasible=0 cost=1399.0 steps=83 t=5418ms
+[100n_64tw] abl_i050 Uniform replay[seed1]: feasible=0 cost=1411.0 steps=79 t=5291ms
+[100n_64tw] abl_i050 Uniform replay[seed2]: feasible=0 cost=1453.0 steps=88 t=5793ms
+[100n_64tw] abl_i050 Uniform replay[seed3]: feasible=0 cost=1447.0 steps=82 t=5450ms
+[100n_64tw] abl_i051 Full model[seed1]: feasible=1 cost=1276.0 steps=70 t=4677ms
+[100n_64tw] abl_i051 Full model[seed2]: feasible=1 cost=1557.0 steps=93 t=6225ms
+[100n_64tw] abl_i051 Full model[seed3]: feasible=1 cost=1276.0 steps=70 t=4673ms
+[100n_64tw] abl_i051 w/o gating[seed1]: feasible=1 cost=1335.0 steps=71 t=4563ms
+[100n_64tw] abl_i051 w/o gating[seed2]: feasible=1 cost=1268.0 steps=74 t=4850ms
+[100n_64tw] abl_i051 w/o gating[seed3]: feasible=1 cost=1476.0 steps=85 t=5480ms
+[100n_64tw] abl_i051 Plain MLP decoder[seed1]: feasible=0 cost=1525.0 steps=200 t=13403ms
+[100n_64tw] abl_i051 Plain MLP decoder[seed2]: feasible=1 cost=1292.0 steps=71 t=4657ms
+[100n_64tw] abl_i051 Plain MLP decoder[seed3]: feasible=1 cost=1437.0 steps=82 t=5271ms
+[100n_64tw] abl_i051 Uniform replay[seed1]: feasible=1 cost=1348.0 steps=78 t=5140ms
+[100n_64tw] abl_i051 Uniform replay[seed2]: feasible=1 cost=1627.0 steps=98 t=6462ms
+[100n_64tw] abl_i051 Uniform replay[seed3]: feasible=1 cost=1635.0 steps=96 t=6248ms
+[100n_64tw] abl_i052 Full model[seed1]: feasible=1 cost=1593.0 steps=81 t=5230ms
+[100n_64tw] abl_i052 Full model[seed2]: feasible=1 cost=1640.0 steps=80 t=5168ms
+[100n_64tw] abl_i052 Full model[seed3]: feasible=1 cost=1657.0 steps=82 t=5329ms
+[100n_64tw] abl_i052 w/o gating[seed1]: feasible=1 cost=1556.0 steps=77 t=4952ms
+[100n_64tw] abl_i052 w/o gating[seed2]: feasible=0 cost=1747.0 steps=200 t=12485ms
+[100n_64tw] abl_i052 w/o gating[seed3]: feasible=1 cost=1568.0 steps=92 t=5788ms
+[100n_64tw] abl_i052 Plain MLP decoder[seed1]: feasible=1 cost=1574.0 steps=93 t=6000ms
+[100n_64tw] abl_i052 Plain MLP decoder[seed2]: feasible=1 cost=1515.0 steps=86 t=5583ms
+[100n_64tw] abl_i052 Plain MLP decoder[seed3]: feasible=1 cost=1504.0 steps=82 t=5293ms
+[100n_64tw] abl_i052 Uniform replay[seed1]: feasible=1 cost=1572.0 steps=84 t=5609ms
+[100n_64tw] abl_i052 Uniform replay[seed2]: feasible=1 cost=1597.0 steps=82 t=5160ms
+[100n_64tw] abl_i052 Uniform replay[seed3]: feasible=1 cost=1826.0 steps=91 t=6046ms
+[100n_64tw] abl_i053 Full model[seed1]: feasible=1 cost=1658.0 steps=80 t=4974ms
+[100n_64tw] abl_i053 Full model[seed2]: feasible=1 cost=1514.0 steps=72 t=4362ms
+[100n_64tw] abl_i053 Full model[seed3]: feasible=1 cost=1673.0 steps=78 t=5175ms
+[100n_64tw] abl_i053 w/o gating[seed1]: feasible=1 cost=1666.0 steps=80 t=5079ms
+[100n_64tw] abl_i053 w/o gating[seed2]: feasible=1 cost=1584.0 steps=73 t=4579ms
+[100n_64tw] abl_i053 w/o gating[seed3]: feasible=0 cost=1882.0 steps=200 t=12786ms
+[100n_64tw] abl_i053 Plain MLP decoder[seed1]: feasible=1 cost=1564.0 steps=72 t=4778ms
+[100n_64tw] abl_i053 Plain MLP decoder[seed2]: feasible=1 cost=1616.0 steps=79 t=5253ms
+[100n_64tw] abl_i053 Plain MLP decoder[seed3]: feasible=0 cost=1846.0 steps=200 t=13294ms
+[100n_64tw] abl_i053 Uniform replay[seed1]: feasible=1 cost=1540.0 steps=75 t=4918ms
+[100n_64tw] abl_i053 Uniform replay[seed2]: feasible=1 cost=1584.0 steps=84 t=5596ms
+[100n_64tw] abl_i053 Uniform replay[seed3]: feasible=1 cost=1609.0 steps=73 t=4833ms
+[100n_64tw] abl_i054 Full model[seed1]: feasible=1 cost=1701.0 steps=77 t=5083ms
+[100n_64tw] abl_i054 Full model[seed2]: feasible=1 cost=1609.0 steps=82 t=5452ms
+[100n_64tw] abl_i054 Full model[seed3]: feasible=1 cost=1632.0 steps=82 t=5476ms
+[100n_64tw] abl_i054 w/o gating[seed1]: feasible=1 cost=1632.0 steps=78 t=4940ms
+[100n_64tw] abl_i054 w/o gating[seed2]: feasible=1 cost=1654.0 steps=78 t=4627ms
+[100n_64tw] abl_i054 w/o gating[seed3]: feasible=1 cost=1601.0 steps=74 t=4311ms
+[100n_64tw] abl_i054 Plain MLP decoder[seed1]: feasible=1 cost=1630.0 steps=82 t=4965ms
+[100n_64tw] abl_i054 Plain MLP decoder[seed2]: feasible=1 cost=1617.0 steps=72 t=4587ms
+[100n_64tw] abl_i054 Plain MLP decoder[seed3]: feasible=1 cost=1624.0 steps=87 t=5301ms
+[100n_64tw] abl_i054 Uniform replay[seed1]: feasible=1 cost=1629.0 steps=72 t=4301ms
+[100n_64tw] abl_i054 Uniform replay[seed2]: feasible=1 cost=1609.0 steps=74 t=4506ms
+[100n_64tw] abl_i054 Uniform replay[seed3]: feasible=1 cost=1662.0 steps=75 t=4474ms
+[100n_64tw] abl_i055 Full model[seed1]: feasible=1 cost=1481.0 steps=79 t=4768ms
+[100n_64tw] abl_i055 Full model[seed2]: feasible=1 cost=1399.0 steps=79 t=4991ms
+[100n_64tw] abl_i055 Full model[seed3]: feasible=1 cost=1720.0 steps=85 t=5386ms
+[100n_64tw] abl_i055 w/o gating[seed1]: feasible=0 cost=1698.0 steps=200 t=11585ms
+[100n_64tw] abl_i055 w/o gating[seed2]: feasible=1 cost=1725.0 steps=85 t=4958ms
+[100n_64tw] abl_i055 w/o gating[seed3]: feasible=1 cost=1507.0 steps=72 t=4084ms
+[100n_64tw] abl_i055 Plain MLP decoder[seed1]: feasible=1 cost=2492.0 steps=152 t=9159ms
+[100n_64tw] abl_i055 Plain MLP decoder[seed2]: feasible=1 cost=1448.0 steps=84 t=5154ms
+[100n_64tw] abl_i055 Plain MLP decoder[seed3]: feasible=1 cost=1644.0 steps=87 t=5114ms
+[100n_64tw] abl_i055 Uniform replay[seed1]: feasible=1 cost=1828.0 steps=88 t=5086ms
+[100n_64tw] abl_i055 Uniform replay[seed2]: feasible=1 cost=1665.0 steps=92 t=5475ms
+[100n_64tw] abl_i055 Uniform replay[seed3]: feasible=1 cost=1671.0 steps=93 t=5641ms
+[100n_64tw] abl_i056 Full model[seed1]: feasible=1 cost=1574.0 steps=73 t=4165ms
+[100n_64tw] abl_i056 Full model[seed2]: feasible=1 cost=1435.0 steps=72 t=4277ms
+[100n_64tw] abl_i056 Full model[seed3]: feasible=1 cost=1494.0 steps=69 t=4176ms
+[100n_64tw] abl_i056 w/o gating[seed1]: feasible=1 cost=1712.0 steps=94 t=5194ms
+[100n_64tw] abl_i056 w/o gating[seed2]: feasible=1 cost=1436.0 steps=79 t=4396ms
+[100n_64tw] abl_i056 w/o gating[seed3]: feasible=1 cost=1556.0 steps=81 t=4435ms
+[100n_64tw] abl_i056 Plain MLP decoder[seed1]: feasible=0 cost=1848.0 steps=200 t=11487ms
+[100n_64tw] abl_i056 Plain MLP decoder[seed2]: feasible=1 cost=1664.0 steps=80 t=4717ms
+[100n_64tw] abl_i056 Plain MLP decoder[seed3]: feasible=1 cost=1446.0 steps=72 t=4286ms
+[100n_64tw] abl_i056 Uniform replay[seed1]: feasible=1 cost=1426.0 steps=76 t=4910ms
+[100n_64tw] abl_i056 Uniform replay[seed2]: feasible=1 cost=1486.0 steps=66 t=4417ms
+[100n_64tw] abl_i056 Uniform replay[seed3]: feasible=1 cost=1753.0 steps=85 t=5658ms
+[100n_64tw] abl_i057 Full model[seed1]: feasible=1 cost=1507.0 steps=75 t=4822ms
+[100n_64tw] abl_i057 Full model[seed2]: feasible=0 cost=2110.0 steps=200 t=11643ms
+[100n_64tw] abl_i057 Full model[seed3]: feasible=1 cost=1630.0 steps=78 t=4842ms
+[100n_64tw] abl_i057 w/o gating[seed1]: feasible=1 cost=1743.0 steps=99 t=5402ms
+[100n_64tw] abl_i057 w/o gating[seed2]: feasible=1 cost=1587.0 steps=78 t=4379ms
+[100n_64tw] abl_i057 w/o gating[seed3]: feasible=1 cost=1538.0 steps=80 t=4538ms
+[100n_64tw] abl_i057 Plain MLP decoder[seed1]: feasible=1 cost=1557.0 steps=86 t=4986ms
+[100n_64tw] abl_i057 Plain MLP decoder[seed2]: feasible=1 cost=1895.0 steps=129 t=7702ms
+[100n_64tw] abl_i057 Plain MLP decoder[seed3]: feasible=1 cost=1357.0 steps=73 t=4458ms
+[100n_64tw] abl_i057 Uniform replay[seed1]: feasible=1 cost=1574.0 steps=84 t=5228ms
+[100n_64tw] abl_i057 Uniform replay[seed2]: feasible=1 cost=1626.0 steps=81 t=4973ms
+[100n_64tw] abl_i057 Uniform replay[seed3]: feasible=1 cost=1556.0 steps=75 t=4551ms
+[100n_64tw] abl_i058 Full model[seed1]: feasible=1 cost=1198.0 steps=65 t=3927ms
+[100n_64tw] abl_i058 Full model[seed2]: feasible=1 cost=1250.0 steps=72 t=4374ms
+[100n_64tw] abl_i058 Full model[seed3]: feasible=1 cost=1198.0 steps=65 t=4085ms
+[100n_64tw] abl_i058 w/o gating[seed1]: feasible=1 cost=1203.0 steps=64 t=3834ms
+[100n_64tw] abl_i058 w/o gating[seed2]: feasible=1 cost=1203.0 steps=64 t=3768ms
+[100n_64tw] abl_i058 w/o gating[seed3]: feasible=1 cost=1090.0 steps=65 t=3808ms
+[100n_64tw] abl_i058 Plain MLP decoder[seed1]: feasible=1 cost=1198.0 steps=65 t=3975ms
+[100n_64tw] abl_i058 Plain MLP decoder[seed2]: feasible=1 cost=1203.0 steps=64 t=3858ms
+[100n_64tw] abl_i058 Plain MLP decoder[seed3]: feasible=1 cost=1132.0 steps=69 t=4173ms
+[100n_64tw] abl_i058 Uniform replay[seed1]: feasible=1 cost=1207.0 steps=65 t=4081ms
+[100n_64tw] abl_i058 Uniform replay[seed2]: feasible=1 cost=1203.0 steps=64 t=3862ms
+[100n_64tw] abl_i058 Uniform replay[seed3]: feasible=1 cost=1198.0 steps=65 t=3899ms
+[100n_64tw] abl_i059 Full model[seed1]: feasible=1 cost=1574.0 steps=84 t=4999ms
+[100n_64tw] abl_i059 Full model[seed2]: feasible=1 cost=1723.0 steps=90 t=5449ms
+[100n_64tw] abl_i059 Full model[seed3]: feasible=1 cost=1757.0 steps=83 t=5586ms
+[100n_64tw] abl_i059 w/o gating[seed1]: feasible=1 cost=1509.0 steps=76 t=4819ms
+[100n_64tw] abl_i059 w/o gating[seed2]: feasible=0 cost=2261.0 steps=200 t=11555ms
+[100n_64tw] abl_i059 w/o gating[seed3]: feasible=1 cost=1583.0 steps=86 t=5041ms
+[100n_64tw] abl_i059 Plain MLP decoder[seed1]: feasible=1 cost=1712.0 steps=95 t=5777ms
+[100n_64tw] abl_i059 Plain MLP decoder[seed2]: feasible=1 cost=1747.0 steps=86 t=5147ms
+[100n_64tw] abl_i059 Plain MLP decoder[seed3]: feasible=0 cost=2162.0 steps=200 t=12821ms
+[100n_64tw] abl_i059 Uniform replay[seed1]: feasible=1 cost=1479.0 steps=76 t=5114ms
+[100n_64tw] abl_i059 Uniform replay[seed2]: feasible=1 cost=1693.0 steps=92 t=6120ms
+[100n_64tw] abl_i059 Uniform replay[seed3]: feasible=1 cost=1583.0 steps=81 t=5380ms
+[100n_64tw] abl_i060 Full model[seed1]: feasible=1 cost=1338.0 steps=70 t=4589ms
+[100n_64tw] abl_i060 Full model[seed2]: feasible=1 cost=1394.0 steps=75 t=4960ms
+[100n_64tw] abl_i060 Full model[seed3]: feasible=1 cost=1272.0 steps=69 t=4581ms
+[100n_64tw] abl_i060 w/o gating[seed1]: feasible=1 cost=1230.0 steps=71 t=4570ms
+[100n_64tw] abl_i060 w/o gating[seed2]: feasible=1 cost=1232.0 steps=68 t=4477ms
+[100n_64tw] abl_i060 w/o gating[seed3]: feasible=1 cost=1338.0 steps=67 t=4293ms
+[100n_64tw] abl_i060 Plain MLP decoder[seed1]: feasible=1 cost=1252.0 steps=70 t=4597ms
+[100n_64tw] abl_i060 Plain MLP decoder[seed2]: feasible=1 cost=1254.0 steps=70 t=4646ms
+[100n_64tw] abl_i060 Plain MLP decoder[seed3]: feasible=1 cost=1216.0 steps=70 t=4134ms
+[100n_64tw] abl_i060 Uniform replay[seed1]: feasible=1 cost=1258.0 steps=69 t=4120ms
+[100n_64tw] abl_i060 Uniform replay[seed2]: feasible=1 cost=1444.0 steps=101 t=6144ms
+[100n_64tw] abl_i060 Uniform replay[seed3]: feasible=1 cost=1355.0 steps=89 t=5690ms
+[100n_64tw] abl_i061 Full model[seed1]: feasible=1 cost=1585.0 steps=74 t=4447ms
+[100n_64tw] abl_i061 Full model[seed2]: feasible=1 cost=1608.0 steps=77 t=4645ms
+[100n_64tw] abl_i061 Full model[seed3]: feasible=1 cost=1487.0 steps=66 t=3942ms
+[100n_64tw] abl_i061 w/o gating[seed1]: feasible=0 cost=2084.0 steps=200 t=11814ms
+[100n_64tw] abl_i061 w/o gating[seed2]: feasible=1 cost=1708.0 steps=79 t=4570ms
+[100n_64tw] abl_i061 w/o gating[seed3]: feasible=1 cost=1510.0 steps=73 t=4156ms
+[100n_64tw] abl_i061 Plain MLP decoder[seed1]: feasible=1 cost=1535.0 steps=70 t=4281ms
+[100n_64tw] abl_i061 Plain MLP decoder[seed2]: feasible=1 cost=1566.0 steps=76 t=4651ms
+[100n_64tw] abl_i061 Plain MLP decoder[seed3]: feasible=1 cost=1553.0 steps=74 t=4473ms
+[100n_64tw] abl_i061 Uniform replay[seed1]: feasible=1 cost=1621.0 steps=73 t=4559ms
+[100n_64tw] abl_i061 Uniform replay[seed2]: feasible=1 cost=1541.0 steps=69 t=4131ms
+[100n_64tw] abl_i061 Uniform replay[seed3]: feasible=1 cost=1549.0 steps=73 t=4454ms
+[100n_64tw] abl_i062 Full model[seed1]: feasible=1 cost=1439.0 steps=91 t=5438ms
+[100n_64tw] abl_i062 Full model[seed2]: feasible=1 cost=1459.0 steps=86 t=5853ms
+[100n_64tw] abl_i062 Full model[seed3]: feasible=1 cost=1173.0 steps=73 t=4580ms
+[100n_64tw] abl_i062 w/o gating[seed1]: feasible=0 cost=1210.0 steps=200 t=11637ms
+[100n_64tw] abl_i062 w/o gating[seed2]: feasible=1 cost=1184.0 steps=70 t=3997ms
+[100n_64tw] abl_i062 w/o gating[seed3]: feasible=1 cost=1190.0 steps=72 t=4191ms
+[100n_64tw] abl_i062 Plain MLP decoder[seed1]: feasible=0 cost=1206.0 steps=200 t=12215ms
+[100n_64tw] abl_i062 Plain MLP decoder[seed2]: feasible=0 cost=1415.0 steps=200 t=13317ms
+[100n_64tw] abl_i062 Plain MLP decoder[seed3]: feasible=1 cost=1359.0 steps=88 t=5851ms
+[100n_64tw] abl_i062 Uniform replay[seed1]: feasible=1 cost=1214.0 steps=71 t=4351ms
+[100n_64tw] abl_i062 Uniform replay[seed2]: feasible=1 cost=1467.0 steps=85 t=5173ms
+[100n_64tw] abl_i062 Uniform replay[seed3]: feasible=1 cost=1344.0 steps=82 t=5132ms
+[100n_64tw] abl_i063 Full model[seed1]: feasible=1 cost=1827.0 steps=119 t=7208ms
+[100n_64tw] abl_i063 Full model[seed2]: feasible=1 cost=1771.0 steps=85 t=5024ms
+[100n_64tw] abl_i063 Full model[seed3]: feasible=1 cost=1678.0 steps=79 t=4666ms
+[100n_64tw] abl_i063 w/o gating[seed1]: feasible=1 cost=1679.0 steps=105 t=5891ms
+[100n_64tw] abl_i063 w/o gating[seed2]: feasible=1 cost=1706.0 steps=81 t=4531ms
+[100n_64tw] abl_i063 w/o gating[seed3]: feasible=1 cost=1558.0 steps=119 t=6736ms
+[100n_64tw] abl_i063 Plain MLP decoder[seed1]: feasible=1 cost=1560.0 steps=76 t=4587ms
+[100n_64tw] abl_i063 Plain MLP decoder[seed2]: feasible=1 cost=1461.0 steps=108 t=6291ms
+[100n_64tw] abl_i063 Plain MLP decoder[seed3]: feasible=1 cost=1862.0 steps=135 t=7827ms
+[100n_64tw] abl_i063 Uniform replay[seed1]: feasible=1 cost=1736.0 steps=99 t=5552ms
+[100n_64tw] abl_i063 Uniform replay[seed2]: feasible=1 cost=1691.0 steps=86 t=4905ms
+[100n_64tw] abl_i063 Uniform replay[seed3]: feasible=1 cost=1725.0 steps=79 t=4482ms
+[100n_64tw] abl_i064 Full model[seed1]: feasible=1 cost=1279.0 steps=67 t=3899ms
+[100n_64tw] abl_i064 Full model[seed2]: feasible=1 cost=1433.0 steps=75 t=4388ms
+[100n_64tw] abl_i064 Full model[seed3]: feasible=0 cost=1386.0 steps=200 t=11480ms
+[100n_64tw] abl_i064 w/o gating[seed1]: feasible=1 cost=1532.0 steps=80 t=4386ms
+[100n_64tw] abl_i064 w/o gating[seed2]: feasible=0 cost=2371.0 steps=200 t=11233ms
+[100n_64tw] abl_i064 w/o gating[seed3]: feasible=0 cost=935.0 steps=200 t=11250ms
+[100n_64tw] abl_i064 Plain MLP decoder[seed1]: feasible=0 cost=1369.0 steps=200 t=11803ms
+[100n_64tw] abl_i064 Plain MLP decoder[seed2]: feasible=1 cost=1664.0 steps=91 t=5434ms
+[100n_64tw] abl_i064 Plain MLP decoder[seed3]: feasible=1 cost=1418.0 steps=106 t=6339ms
+[100n_64tw] abl_i064 Uniform replay[seed1]: feasible=1 cost=1453.0 steps=101 t=6073ms
+[100n_64tw] abl_i064 Uniform replay[seed2]: feasible=1 cost=1497.0 steps=81 t=4808ms
+[100n_64tw] abl_i064 Uniform replay[seed3]: feasible=1 cost=1485.0 steps=81 t=4872ms
+[100n_64tw] abl_i065 Full model[seed1]: feasible=1 cost=1459.0 steps=80 t=4729ms
+[100n_64tw] abl_i065 Full model[seed2]: feasible=1 cost=1383.0 steps=66 t=3940ms
+[100n_64tw] abl_i065 Full model[seed3]: feasible=1 cost=1367.0 steps=73 t=4342ms
+[100n_64tw] abl_i065 w/o gating[seed1]: feasible=1 cost=1414.0 steps=71 t=4035ms
+[100n_64tw] abl_i065 w/o gating[seed2]: feasible=1 cost=1492.0 steps=70 t=3824ms
+[100n_64tw] abl_i065 w/o gating[seed3]: feasible=1 cost=1516.0 steps=73 t=4065ms
+[100n_64tw] abl_i065 Plain MLP decoder[seed1]: feasible=1 cost=1498.0 steps=75 t=4370ms
+[100n_64tw] abl_i065 Plain MLP decoder[seed2]: feasible=1 cost=1396.0 steps=73 t=4449ms
+[100n_64tw] abl_i065 Plain MLP decoder[seed3]: feasible=1 cost=1301.0 steps=66 t=3895ms
+[100n_64tw] abl_i065 Uniform replay[seed1]: feasible=1 cost=1345.0 steps=63 t=3739ms
+[100n_64tw] abl_i065 Uniform replay[seed2]: feasible=1 cost=1375.0 steps=66 t=3787ms
+[100n_64tw] abl_i065 Uniform replay[seed3]: feasible=1 cost=1436.0 steps=70 t=4178ms
+[100n_64tw] abl_i066 Full model[seed1]: feasible=1 cost=1359.0 steps=79 t=4823ms
+[100n_64tw] abl_i066 Full model[seed2]: feasible=1 cost=1283.0 steps=75 t=4411ms
+[100n_64tw] abl_i066 Full model[seed3]: feasible=1 cost=1458.0 steps=93 t=5477ms
+[100n_64tw] abl_i066 w/o gating[seed1]: feasible=1 cost=1552.0 steps=108 t=6113ms
+[100n_64tw] abl_i066 w/o gating[seed2]: feasible=1 cost=1277.0 steps=75 t=4267ms
+[100n_64tw] abl_i066 w/o gating[seed3]: feasible=1 cost=1669.0 steps=83 t=4610ms
+[100n_64tw] abl_i066 Plain MLP decoder[seed1]: feasible=1 cost=1219.0 steps=70 t=4137ms
+[100n_64tw] abl_i066 Plain MLP decoder[seed2]: feasible=1 cost=1425.0 steps=80 t=4806ms
+[100n_64tw] abl_i066 Plain MLP decoder[seed3]: feasible=1 cost=1319.0 steps=76 t=4544ms
+[100n_64tw] abl_i066 Uniform replay[seed1]: feasible=1 cost=1315.0 steps=77 t=4720ms
+[100n_64tw] abl_i066 Uniform replay[seed2]: feasible=1 cost=1246.0 steps=74 t=4346ms
+[100n_64tw] abl_i066 Uniform replay[seed3]: feasible=1 cost=1249.0 steps=74 t=4349ms
+[100n_64tw] abl_i067 Full model[seed1]: feasible=1 cost=1589.0 steps=75 t=4512ms
+[100n_64tw] abl_i067 Full model[seed2]: feasible=1 cost=1549.0 steps=77 t=4688ms
+[100n_64tw] abl_i067 Full model[seed3]: feasible=1 cost=1669.0 steps=87 t=5609ms
+[100n_64tw] abl_i067 w/o gating[seed1]: feasible=1 cost=1531.0 steps=72 t=4269ms
+[100n_64tw] abl_i067 w/o gating[seed2]: feasible=1 cost=1518.0 steps=73 t=4337ms
+[100n_64tw] abl_i067 w/o gating[seed3]: feasible=1 cost=1637.0 steps=86 t=5398ms
+[100n_64tw] abl_i067 Plain MLP decoder[seed1]: feasible=1 cost=1633.0 steps=84 t=5317ms
+[100n_64tw] abl_i067 Plain MLP decoder[seed2]: feasible=1 cost=1656.0 steps=84 t=5397ms
+[100n_64tw] abl_i067 Plain MLP decoder[seed3]: feasible=1 cost=1861.0 steps=109 t=7060ms
+[100n_64tw] abl_i067 Uniform replay[seed1]: feasible=1 cost=1614.0 steps=79 t=5157ms
+[100n_64tw] abl_i067 Uniform replay[seed2]: feasible=1 cost=1609.0 steps=80 t=5124ms
+[100n_64tw] abl_i067 Uniform replay[seed3]: feasible=1 cost=1524.0 steps=72 t=4546ms
+[100n_64tw] abl_i068 Full model[seed1]: feasible=0 cost=2081.0 steps=200 t=12250ms
+[100n_64tw] abl_i068 Full model[seed2]: feasible=1 cost=1421.0 steps=72 t=4364ms
+[100n_64tw] abl_i068 Full model[seed3]: feasible=1 cost=1374.0 steps=77 t=4713ms
+[100n_64tw] abl_i068 w/o gating[seed1]: feasible=1 cost=1319.0 steps=70 t=4282ms
+[100n_64tw] abl_i068 w/o gating[seed2]: feasible=1 cost=1335.0 steps=74 t=4333ms
+[100n_64tw] abl_i068 w/o gating[seed3]: feasible=1 cost=1376.0 steps=68 t=4041ms
+[100n_64tw] abl_i068 Plain MLP decoder[seed1]: feasible=1 cost=1995.0 steps=188 t=11220ms
+[100n_64tw] abl_i068 Plain MLP decoder[seed2]: feasible=1 cost=1327.0 steps=68 t=4046ms
+[100n_64tw] abl_i068 Plain MLP decoder[seed3]: feasible=1 cost=1460.0 steps=80 t=4688ms
+[100n_64tw] abl_i068 Uniform replay[seed1]: feasible=0 cost=2034.0 steps=200 t=12685ms
+[100n_64tw] abl_i068 Uniform replay[seed2]: feasible=1 cost=1433.0 steps=93 t=5522ms
+[100n_64tw] abl_i068 Uniform replay[seed3]: feasible=1 cost=1304.0 steps=70 t=4333ms
+[100n_64tw] abl_i069 Full model[seed1]: feasible=1 cost=2159.0 steps=93 t=5394ms
+[100n_64tw] abl_i069 Full model[seed2]: feasible=0 cost=2066.0 steps=200 t=11877ms
+[100n_64tw] abl_i069 Full model[seed3]: feasible=1 cost=2128.0 steps=98 t=5733ms
+[100n_64tw] abl_i069 w/o gating[seed1]: feasible=1 cost=2169.0 steps=98 t=5624ms
+[100n_64tw] abl_i069 w/o gating[seed2]: feasible=1 cost=1742.0 steps=78 t=4457ms
+[100n_64tw] abl_i069 w/o gating[seed3]: feasible=1 cost=2030.0 steps=101 t=5862ms
+[100n_64tw] abl_i069 Plain MLP decoder[seed1]: feasible=0 cost=1977.0 steps=92 t=5812ms
+[100n_64tw] abl_i069 Plain MLP decoder[seed2]: feasible=1 cost=1671.0 steps=81 t=5384ms
+[100n_64tw] abl_i069 Plain MLP decoder[seed3]: feasible=1 cost=2007.0 steps=88 t=5919ms
+[100n_64tw] abl_i069 Uniform replay[seed1]: feasible=1 cost=1840.0 steps=89 t=5955ms
+[100n_64tw] abl_i069 Uniform replay[seed2]: feasible=1 cost=1641.0 steps=75 t=4946ms
+[100n_64tw] abl_i069 Uniform replay[seed3]: feasible=1 cost=1679.0 steps=80 t=5245ms
+[100n_64tw] abl_i070 Full model[seed1]: feasible=1 cost=1430.0 steps=71 t=4733ms
+[100n_64tw] abl_i070 Full model[seed2]: feasible=1 cost=1290.0 steps=65 t=4324ms
+[100n_64tw] abl_i070 Full model[seed3]: feasible=1 cost=1388.0 steps=69 t=4544ms
+[100n_64tw] abl_i070 w/o gating[seed1]: feasible=1 cost=1328.0 steps=72 t=4615ms
+[100n_64tw] abl_i070 w/o gating[seed2]: feasible=1 cost=1393.0 steps=72 t=4551ms
+[100n_64tw] abl_i070 w/o gating[seed3]: feasible=1 cost=1393.0 steps=66 t=4217ms
+[100n_64tw] abl_i070 Plain MLP decoder[seed1]: feasible=1 cost=1308.0 steps=77 t=5166ms
+[100n_64tw] abl_i070 Plain MLP decoder[seed2]: feasible=1 cost=1305.0 steps=68 t=4729ms
+[100n_64tw] abl_i070 Plain MLP decoder[seed3]: feasible=0 cost=2280.0 steps=200 t=12714ms
+[100n_64tw] abl_i070 Uniform replay[seed1]: feasible=1 cost=1295.0 steps=78 t=4628ms
+[100n_64tw] abl_i070 Uniform replay[seed2]: feasible=1 cost=1308.0 steps=64 t=3910ms
+[100n_64tw] abl_i070 Uniform replay[seed3]: feasible=1 cost=1430.0 steps=68 t=4174ms
+[100n_64tw] abl_i071 Full model[seed1]: feasible=1 cost=1360.0 steps=73 t=4620ms
+[100n_64tw] abl_i071 Full model[seed2]: feasible=1 cost=1406.0 steps=68 t=4041ms
+[100n_64tw] abl_i071 Full model[seed3]: feasible=1 cost=1319.0 steps=72 t=4393ms
+[100n_64tw] abl_i071 w/o gating[seed1]: feasible=1 cost=1326.0 steps=71 t=4114ms
+[100n_64tw] abl_i071 w/o gating[seed2]: feasible=1 cost=1315.0 steps=72 t=3964ms
+[100n_64tw] abl_i071 w/o gating[seed3]: feasible=1 cost=1353.0 steps=76 t=4256ms
+[100n_64tw] abl_i071 Plain MLP decoder[seed1]: feasible=1 cost=1388.0 steps=95 t=5695ms
+[100n_64tw] abl_i071 Plain MLP decoder[seed2]: feasible=1 cost=1321.0 steps=73 t=4347ms
+[100n_64tw] abl_i071 Plain MLP decoder[seed3]: feasible=0 cost=1548.0 steps=200 t=12036ms
+[100n_64tw] abl_i071 Uniform replay[seed1]: feasible=1 cost=1326.0 steps=71 t=4379ms
+[100n_64tw] abl_i071 Uniform replay[seed2]: feasible=1 cost=1330.0 steps=71 t=4292ms
+[100n_64tw] abl_i071 Uniform replay[seed3]: feasible=1 cost=1305.0 steps=73 t=4458ms
+[100n_64tw] abl_i072 Full model[seed1]: feasible=1 cost=1604.0 steps=71 t=4235ms
+[100n_64tw] abl_i072 Full model[seed2]: feasible=1 cost=1780.0 steps=83 t=5077ms
+[100n_64tw] abl_i072 Full model[seed3]: feasible=1 cost=1878.0 steps=95 t=5812ms
+[100n_64tw] abl_i072 w/o gating[seed1]: feasible=1 cost=1717.0 steps=81 t=5014ms
+[100n_64tw] abl_i072 w/o gating[seed2]: feasible=1 cost=1972.0 steps=104 t=6017ms
+[100n_64tw] abl_i072 w/o gating[seed3]: feasible=1 cost=1708.0 steps=76 t=4400ms
+[100n_64tw] abl_i072 Plain MLP decoder[seed1]: feasible=1 cost=1641.0 steps=72 t=4329ms
+[100n_64tw] abl_i072 Plain MLP decoder[seed2]: feasible=1 cost=1562.0 steps=70 t=4237ms
+[100n_64tw] abl_i072 Plain MLP decoder[seed3]: feasible=1 cost=1715.0 steps=75 t=4570ms
+[100n_64tw] abl_i072 Uniform replay[seed1]: feasible=1 cost=1774.0 steps=81 t=4926ms
+[100n_64tw] abl_i072 Uniform replay[seed2]: feasible=1 cost=1879.0 steps=96 t=5767ms
+[100n_64tw] abl_i072 Uniform replay[seed3]: feasible=1 cost=1925.0 steps=108 t=6391ms
+[100n_64tw] abl_i073 Full model[seed1]: feasible=1 cost=1314.0 steps=67 t=3891ms
+[100n_64tw] abl_i073 Full model[seed2]: feasible=1 cost=1358.0 steps=73 t=4282ms
+[100n_64tw] abl_i073 Full model[seed3]: feasible=1 cost=1505.0 steps=90 t=5595ms
+[100n_64tw] abl_i073 w/o gating[seed1]: feasible=1 cost=1301.0 steps=68 t=3904ms
+[100n_64tw] abl_i073 w/o gating[seed2]: feasible=1 cost=1301.0 steps=68 t=3944ms
+[100n_64tw] abl_i073 w/o gating[seed3]: feasible=1 cost=1373.0 steps=77 t=4386ms
+[100n_64tw] abl_i073 Plain MLP decoder[seed1]: feasible=0 cost=1975.0 steps=200 t=11937ms
+[100n_64tw] abl_i073 Plain MLP decoder[seed2]: feasible=1 cost=1363.0 steps=81 t=4812ms
+[100n_64tw] abl_i073 Plain MLP decoder[seed3]: feasible=1 cost=1463.0 steps=85 t=5054ms
+[100n_64tw] abl_i073 Uniform replay[seed1]: feasible=1 cost=1296.0 steps=69 t=4157ms
+[100n_64tw] abl_i073 Uniform replay[seed2]: feasible=1 cost=1316.0 steps=76 t=4633ms
+[100n_64tw] abl_i073 Uniform replay[seed3]: feasible=1 cost=1398.0 steps=79 t=4859ms
+[100n_64tw] abl_i074 Full model[seed1]: feasible=1 cost=1483.0 steps=78 t=4715ms
+[100n_64tw] abl_i074 Full model[seed2]: feasible=1 cost=1528.0 steps=76 t=4675ms
+[100n_64tw] abl_i074 Full model[seed3]: feasible=1 cost=1493.0 steps=78 t=4570ms
+[100n_64tw] abl_i074 w/o gating[seed1]: feasible=1 cost=1774.0 steps=114 t=6429ms
+[100n_64tw] abl_i074 w/o gating[seed2]: feasible=1 cost=1609.0 steps=96 t=5437ms
+[100n_64tw] abl_i074 w/o gating[seed3]: feasible=1 cost=1502.0 steps=75 t=4230ms
+[100n_64tw] abl_i074 Plain MLP decoder[seed1]: feasible=1 cost=1552.0 steps=100 t=6038ms
+[100n_64tw] abl_i074 Plain MLP decoder[seed2]: feasible=1 cost=1519.0 steps=76 t=4614ms
+[100n_64tw] abl_i074 Plain MLP decoder[seed3]: feasible=1 cost=1483.0 steps=81 t=4967ms
+[100n_64tw] abl_i074 Uniform replay[seed1]: feasible=1 cost=1618.0 steps=107 t=6657ms
+[100n_64tw] abl_i074 Uniform replay[seed2]: feasible=1 cost=1527.0 steps=76 t=4585ms
+[100n_64tw] abl_i074 Uniform replay[seed3]: feasible=1 cost=1495.0 steps=77 t=4725ms
+[100n_64tw] abl_i075 Full model[seed1]: feasible=1 cost=1473.0 steps=102 t=6200ms
+[100n_64tw] abl_i075 Full model[seed2]: feasible=1 cost=1323.0 steps=71 t=4342ms
+[100n_64tw] abl_i075 Full model[seed3]: feasible=1 cost=1342.0 steps=70 t=4044ms
+[100n_64tw] abl_i075 w/o gating[seed1]: feasible=0 cost=1491.0 steps=200 t=11218ms
+[100n_64tw] abl_i075 w/o gating[seed2]: feasible=1 cost=1475.0 steps=101 t=5723ms
+[100n_64tw] abl_i075 w/o gating[seed3]: feasible=1 cost=1391.0 steps=71 t=3998ms
+[100n_64tw] abl_i075 Plain MLP decoder[seed1]: feasible=1 cost=1347.0 steps=72 t=4236ms
+[100n_64tw] abl_i075 Plain MLP decoder[seed2]: feasible=1 cost=1318.0 steps=75 t=4632ms
+[100n_64tw] abl_i075 Plain MLP decoder[seed3]: feasible=1 cost=1419.0 steps=82 t=4886ms
+[100n_64tw] abl_i075 Uniform replay[seed1]: feasible=1 cost=1332.0 steps=75 t=4800ms
+[100n_64tw] abl_i075 Uniform replay[seed2]: feasible=1 cost=1540.0 steps=92 t=6276ms
+[100n_64tw] abl_i075 Uniform replay[seed3]: feasible=1 cost=1334.0 steps=74 t=5012ms
+[100n_64tw] abl_i076 Full model[seed1]: feasible=1 cost=1335.0 steps=81 t=5384ms
+[100n_64tw] abl_i076 Full model[seed2]: feasible=1 cost=1296.0 steps=71 t=4682ms
+[100n_64tw] abl_i076 Full model[seed3]: feasible=1 cost=1235.0 steps=63 t=3785ms
+[100n_64tw] abl_i076 w/o gating[seed1]: feasible=1 cost=1213.0 steps=62 t=3549ms
+[100n_64tw] abl_i076 w/o gating[seed2]: feasible=1 cost=1309.0 steps=74 t=4282ms
+[100n_64tw] abl_i076 w/o gating[seed3]: feasible=1 cost=1356.0 steps=72 t=4429ms
+[100n_64tw] abl_i076 Plain MLP decoder[seed1]: feasible=0 cost=1973.0 steps=200 t=13733ms
+[100n_64tw] abl_i076 Plain MLP decoder[seed2]: feasible=1 cost=1336.0 steps=66 t=4440ms
+[100n_64tw] abl_i076 Plain MLP decoder[seed3]: feasible=1 cost=1223.0 steps=62 t=4095ms
+[100n_64tw] abl_i076 Uniform replay[seed1]: feasible=1 cost=1223.0 steps=62 t=4190ms
+[100n_64tw] abl_i076 Uniform replay[seed2]: feasible=1 cost=1289.0 steps=68 t=4605ms
+[100n_64tw] abl_i076 Uniform replay[seed3]: feasible=1 cost=1697.0 steps=110 t=7334ms
+[100n_64tw] abl_i077 Full model[seed1]: feasible=0 cost=2189.0 steps=200 t=13428ms
+[100n_64tw] abl_i077 Full model[seed2]: feasible=1 cost=1708.0 steps=92 t=6182ms
+[100n_64tw] abl_i077 Full model[seed3]: feasible=1 cost=1569.0 steps=94 t=6412ms
+[100n_64tw] abl_i077 w/o gating[seed1]: feasible=0 cost=2112.0 steps=200 t=12701ms
+[100n_64tw] abl_i077 w/o gating[seed2]: feasible=0 cost=1581.0 steps=200 t=12569ms
+[100n_64tw] abl_i077 w/o gating[seed3]: feasible=0 cost=2181.0 steps=200 t=12577ms
+[100n_64tw] abl_i077 Plain MLP decoder[seed1]: feasible=1 cost=1814.0 steps=162 t=10536ms
+[100n_64tw] abl_i077 Plain MLP decoder[seed2]: feasible=1 cost=1701.0 steps=97 t=6352ms
+[100n_64tw] abl_i077 Plain MLP decoder[seed3]: feasible=1 cost=1655.0 steps=104 t=6993ms
+[100n_64tw] abl_i077 Uniform replay[seed1]: feasible=1 cost=2638.0 steps=197 t=12928ms
+[100n_64tw] abl_i077 Uniform replay[seed2]: feasible=0 cost=1711.0 steps=200 t=13020ms
+[100n_64tw] abl_i077 Uniform replay[seed3]: feasible=1 cost=1726.0 steps=105 t=6858ms
+[100n_64tw] abl_i078 Full model[seed1]: feasible=1 cost=1462.0 steps=80 t=5235ms
+[100n_64tw] abl_i078 Full model[seed2]: feasible=1 cost=1544.0 steps=84 t=5508ms
+[100n_64tw] abl_i078 Full model[seed3]: feasible=0 cost=1516.0 steps=82 t=5389ms
+[100n_64tw] abl_i078 w/o gating[seed1]: feasible=1 cost=1837.0 steps=114 t=7405ms
+[100n_64tw] abl_i078 w/o gating[seed2]: feasible=1 cost=1562.0 steps=94 t=5858ms
+[100n_64tw] abl_i078 w/o gating[seed3]: feasible=1 cost=1659.0 steps=117 t=7348ms
+[100n_64tw] abl_i078 Plain MLP decoder[seed1]: feasible=0 cost=2342.0 steps=200 t=13123ms
+[100n_64tw] abl_i078 Plain MLP decoder[seed2]: feasible=0 cost=1579.0 steps=200 t=13143ms
+[100n_64tw] abl_i078 Plain MLP decoder[seed3]: feasible=1 cost=1471.0 steps=95 t=6324ms
+[100n_64tw] abl_i078 Uniform replay[seed1]: feasible=0 cost=1339.0 steps=78 t=5222ms
+[100n_64tw] abl_i078 Uniform replay[seed2]: feasible=1 cost=1625.0 steps=90 t=6240ms
+[100n_64tw] abl_i078 Uniform replay[seed3]: feasible=1 cost=1808.0 steps=120 t=7993ms
+[100n_64tw] abl_i079 Full model[seed1]: feasible=1 cost=1334.0 steps=74 t=4747ms
+[100n_64tw] abl_i079 Full model[seed2]: feasible=1 cost=1356.0 steps=70 t=4439ms
+[100n_64tw] abl_i079 Full model[seed3]: feasible=1 cost=1443.0 steps=78 t=5133ms
+[100n_64tw] abl_i079 w/o gating[seed1]: feasible=1 cost=1777.0 steps=111 t=7020ms
+[100n_64tw] abl_i079 w/o gating[seed2]: feasible=1 cost=1348.0 steps=70 t=4449ms
+[100n_64tw] abl_i079 w/o gating[seed3]: feasible=1 cost=1424.0 steps=73 t=4563ms
+[100n_64tw] abl_i079 Plain MLP decoder[seed1]: feasible=1 cost=1485.0 steps=103 t=6752ms
+[100n_64tw] abl_i079 Plain MLP decoder[seed2]: feasible=1 cost=1453.0 steps=73 t=4818ms
+[100n_64tw] abl_i079 Plain MLP decoder[seed3]: feasible=1 cost=1401.0 steps=73 t=4987ms
+[100n_64tw] abl_i079 Uniform replay[seed1]: feasible=1 cost=1351.0 steps=75 t=4910ms
+[100n_64tw] abl_i079 Uniform replay[seed2]: feasible=1 cost=1337.0 steps=73 t=4804ms
+[100n_64tw] abl_i079 Uniform replay[seed3]: feasible=1 cost=1576.0 steps=82 t=5403ms
+[100n_64tw] abl_i080 Full model[seed1]: feasible=1 cost=1401.0 steps=71 t=4750ms
+[100n_64tw] abl_i080 Full model[seed2]: feasible=1 cost=1542.0 steps=75 t=5017ms
+[100n_64tw] abl_i080 Full model[seed3]: feasible=1 cost=1568.0 steps=79 t=5246ms
+[100n_64tw] abl_i080 w/o gating[seed1]: feasible=1 cost=1645.0 steps=83 t=5359ms
+[100n_64tw] abl_i080 w/o gating[seed2]: feasible=1 cost=1471.0 steps=77 t=4991ms
+[100n_64tw] abl_i080 w/o gating[seed3]: feasible=1 cost=1456.0 steps=69 t=4400ms
+[100n_64tw] abl_i080 Plain MLP decoder[seed1]: feasible=1 cost=1439.0 steps=75 t=4920ms
+[100n_64tw] abl_i080 Plain MLP decoder[seed2]: feasible=1 cost=1476.0 steps=84 t=5832ms
+[100n_64tw] abl_i080 Plain MLP decoder[seed3]: feasible=1 cost=1474.0 steps=79 t=5289ms
+[100n_64tw] abl_i080 Uniform replay[seed1]: feasible=1 cost=1495.0 steps=80 t=5255ms
+[100n_64tw] abl_i080 Uniform replay[seed2]: feasible=1 cost=1594.0 steps=73 t=4831ms
+[100n_64tw] abl_i080 Uniform replay[seed3]: feasible=1 cost=1555.0 steps=76 t=5020ms
+[100n_64tw] abl_i081 Full model[seed1]: feasible=1 cost=1459.0 steps=69 t=4517ms
+[100n_64tw] abl_i081 Full model[seed2]: feasible=1 cost=1446.0 steps=75 t=4859ms
+[100n_64tw] abl_i081 Full model[seed3]: feasible=1 cost=1413.0 steps=71 t=4659ms
+[100n_64tw] abl_i081 w/o gating[seed1]: feasible=1 cost=1414.0 steps=68 t=4276ms
+[100n_64tw] abl_i081 w/o gating[seed2]: feasible=1 cost=1334.0 steps=71 t=4432ms
+[100n_64tw] abl_i081 w/o gating[seed3]: feasible=1 cost=1494.0 steps=77 t=4765ms
+[100n_64tw] abl_i081 Plain MLP decoder[seed1]: feasible=1 cost=1481.0 steps=75 t=4878ms
+[100n_64tw] abl_i081 Plain MLP decoder[seed2]: feasible=1 cost=1563.0 steps=80 t=5412ms
+[100n_64tw] abl_i081 Plain MLP decoder[seed3]: feasible=1 cost=1344.0 steps=70 t=4602ms
+[100n_64tw] abl_i081 Uniform replay[seed1]: feasible=1 cost=1410.0 steps=73 t=4856ms
+[100n_64tw] abl_i081 Uniform replay[seed2]: feasible=1 cost=1363.0 steps=69 t=4514ms
+[100n_64tw] abl_i081 Uniform replay[seed3]: feasible=1 cost=1417.0 steps=74 t=4889ms
+[100n_64tw] abl_i082 Full model[seed1]: feasible=1 cost=1569.0 steps=76 t=5052ms
+[100n_64tw] abl_i082 Full model[seed2]: feasible=1 cost=1792.0 steps=84 t=5450ms
+[100n_64tw] abl_i082 Full model[seed3]: feasible=1 cost=1502.0 steps=71 t=4673ms
+[100n_64tw] abl_i082 w/o gating[seed1]: feasible=1 cost=1770.0 steps=82 t=5205ms
+[100n_64tw] abl_i082 w/o gating[seed2]: feasible=1 cost=1768.0 steps=102 t=6460ms
+[100n_64tw] abl_i082 w/o gating[seed3]: feasible=1 cost=1502.0 steps=71 t=4542ms
+[100n_64tw] abl_i082 Plain MLP decoder[seed1]: feasible=1 cost=1951.0 steps=107 t=7195ms
+[100n_64tw] abl_i082 Plain MLP decoder[seed2]: feasible=1 cost=1743.0 steps=108 t=7051ms
+[100n_64tw] abl_i082 Plain MLP decoder[seed3]: feasible=1 cost=1672.0 steps=85 t=5590ms
+[100n_64tw] abl_i082 Uniform replay[seed1]: feasible=1 cost=1652.0 steps=80 t=5220ms
+[100n_64tw] abl_i082 Uniform replay[seed2]: feasible=1 cost=1521.0 steps=74 t=4878ms
+[100n_64tw] abl_i082 Uniform replay[seed3]: feasible=1 cost=1655.0 steps=82 t=5362ms
+[100n_64tw] abl_i083 Full model[seed1]: feasible=1 cost=1354.0 steps=73 t=4772ms
+[100n_64tw] abl_i083 Full model[seed2]: feasible=1 cost=1469.0 steps=85 t=5642ms
+[100n_64tw] abl_i083 Full model[seed3]: feasible=1 cost=1416.0 steps=78 t=5116ms
+[100n_64tw] abl_i083 w/o gating[seed1]: feasible=1 cost=1358.0 steps=77 t=4916ms
+[100n_64tw] abl_i083 w/o gating[seed2]: feasible=1 cost=1379.0 steps=77 t=5028ms
+[100n_64tw] abl_i083 w/o gating[seed3]: feasible=1 cost=1405.0 steps=77 t=4854ms
+[100n_64tw] abl_i083 Plain MLP decoder[seed1]: feasible=1 cost=1240.0 steps=70 t=4588ms
+[100n_64tw] abl_i083 Plain MLP decoder[seed2]: feasible=1 cost=1435.0 steps=73 t=4757ms
+[100n_64tw] abl_i083 Plain MLP decoder[seed3]: feasible=1 cost=1292.0 steps=72 t=4751ms
+[100n_64tw] abl_i083 Uniform replay[seed1]: feasible=1 cost=1365.0 steps=73 t=4816ms
+[100n_64tw] abl_i083 Uniform replay[seed2]: feasible=1 cost=1464.0 steps=83 t=5433ms
+[100n_64tw] abl_i083 Uniform replay[seed3]: feasible=1 cost=1358.0 steps=74 t=4904ms
+[100n_64tw] abl_i084 Full model[seed1]: feasible=1 cost=1714.0 steps=113 t=7426ms
+[100n_64tw] abl_i084 Full model[seed2]: feasible=1 cost=1471.0 steps=71 t=4698ms
+[100n_64tw] abl_i084 Full model[seed3]: feasible=1 cost=1363.0 steps=79 t=5203ms
+[100n_64tw] abl_i084 w/o gating[seed1]: feasible=1 cost=1581.0 steps=105 t=6831ms
+[100n_64tw] abl_i084 w/o gating[seed2]: feasible=1 cost=1538.0 steps=77 t=4834ms
+[100n_64tw] abl_i084 w/o gating[seed3]: feasible=1 cost=1316.0 steps=76 t=4800ms
+[100n_64tw] abl_i084 Plain MLP decoder[seed1]: feasible=1 cost=1705.0 steps=105 t=6860ms
+[100n_64tw] abl_i084 Plain MLP decoder[seed2]: feasible=1 cost=1488.0 steps=94 t=6198ms
+[100n_64tw] abl_i084 Plain MLP decoder[seed3]: feasible=1 cost=1479.0 steps=79 t=5254ms
+[100n_64tw] abl_i084 Uniform replay[seed1]: feasible=1 cost=1412.0 steps=84 t=5481ms
+[100n_64tw] abl_i084 Uniform replay[seed2]: feasible=1 cost=1604.0 steps=87 t=5775ms
+[100n_64tw] abl_i084 Uniform replay[seed3]: feasible=1 cost=1383.0 steps=79 t=5241ms
+[100n_64tw] abl_i085 Full model[seed1]: feasible=1 cost=1326.0 steps=69 t=4626ms
+[100n_64tw] abl_i085 Full model[seed2]: feasible=1 cost=1356.0 steps=72 t=4800ms
+[100n_64tw] abl_i085 Full model[seed3]: feasible=1 cost=1342.0 steps=68 t=4721ms
+[100n_64tw] abl_i085 w/o gating[seed1]: feasible=1 cost=1409.0 steps=81 t=5173ms
+[100n_64tw] abl_i085 w/o gating[seed2]: feasible=1 cost=1379.0 steps=70 t=4465ms
+[100n_64tw] abl_i085 w/o gating[seed3]: feasible=1 cost=1317.0 steps=67 t=4317ms
+[100n_64tw] abl_i085 Plain MLP decoder[seed1]: feasible=1 cost=1342.0 steps=70 t=4720ms
+[100n_64tw] abl_i085 Plain MLP decoder[seed2]: feasible=1 cost=1444.0 steps=79 t=5266ms
+[100n_64tw] abl_i085 Plain MLP decoder[seed3]: feasible=1 cost=1329.0 steps=68 t=4601ms
+[100n_64tw] abl_i085 Uniform replay[seed1]: feasible=1 cost=1393.0 steps=82 t=5578ms
+[100n_64tw] abl_i085 Uniform replay[seed2]: feasible=1 cost=1328.0 steps=70 t=4810ms
+[100n_64tw] abl_i085 Uniform replay[seed3]: feasible=1 cost=1492.0 steps=86 t=5776ms
+[100n_64tw] abl_i086 Full model[seed1]: feasible=1 cost=1454.0 steps=73 t=4814ms
+[100n_64tw] abl_i086 Full model[seed2]: feasible=1 cost=1473.0 steps=73 t=5053ms
+[100n_64tw] abl_i086 Full model[seed3]: feasible=1 cost=1379.0 steps=71 t=4676ms
+[100n_64tw] abl_i086 w/o gating[seed1]: feasible=1 cost=1359.0 steps=70 t=4450ms
+[100n_64tw] abl_i086 w/o gating[seed2]: feasible=1 cost=1553.0 steps=83 t=5333ms
+[100n_64tw] abl_i086 w/o gating[seed3]: feasible=1 cost=1673.0 steps=85 t=5391ms
+[100n_64tw] abl_i086 Plain MLP decoder[seed1]: feasible=1 cost=1555.0 steps=79 t=5278ms
+[100n_64tw] abl_i086 Plain MLP decoder[seed2]: feasible=1 cost=1404.0 steps=72 t=4840ms
+[100n_64tw] abl_i086 Plain MLP decoder[seed3]: feasible=1 cost=1508.0 steps=82 t=5419ms
+[100n_64tw] abl_i086 Uniform replay[seed1]: feasible=1 cost=1389.0 steps=74 t=4943ms
+[100n_64tw] abl_i086 Uniform replay[seed2]: feasible=1 cost=1650.0 steps=86 t=5734ms
+[100n_64tw] abl_i086 Uniform replay[seed3]: feasible=1 cost=1630.0 steps=87 t=5751ms
+[100n_64tw] abl_i087 Full model[seed1]: feasible=1 cost=1526.0 steps=74 t=5100ms
+[100n_64tw] abl_i087 Full model[seed2]: feasible=1 cost=2005.0 steps=96 t=6367ms
+[100n_64tw] abl_i087 Full model[seed3]: feasible=1 cost=1592.0 steps=82 t=5447ms
+[100n_64tw] abl_i087 w/o gating[seed1]: feasible=1 cost=1484.0 steps=76 t=4799ms
+[100n_64tw] abl_i087 w/o gating[seed2]: feasible=1 cost=1596.0 steps=81 t=5051ms
+[100n_64tw] abl_i087 w/o gating[seed3]: feasible=1 cost=1518.0 steps=73 t=4580ms
+[100n_64tw] abl_i087 Plain MLP decoder[seed1]: feasible=1 cost=1580.0 steps=86 t=5705ms
+[100n_64tw] abl_i087 Plain MLP decoder[seed2]: feasible=1 cost=1543.0 steps=91 t=6015ms
+[100n_64tw] abl_i087 Plain MLP decoder[seed3]: feasible=1 cost=1774.0 steps=100 t=6672ms
+[100n_64tw] abl_i087 Uniform replay[seed1]: feasible=1 cost=1517.0 steps=79 t=5252ms
+[100n_64tw] abl_i087 Uniform replay[seed2]: feasible=1 cost=1789.0 steps=95 t=6512ms
+[100n_64tw] abl_i087 Uniform replay[seed3]: feasible=1 cost=1527.0 steps=77 t=5046ms
+[100n_64tw] abl_i088 Full model[seed1]: feasible=1 cost=1473.0 steps=91 t=6065ms
+[100n_64tw] abl_i088 Full model[seed2]: feasible=1 cost=1557.0 steps=80 t=5338ms
+[100n_64tw] abl_i088 Full model[seed3]: feasible=1 cost=1513.0 steps=81 t=5356ms
+[100n_64tw] abl_i088 w/o gating[seed1]: feasible=1 cost=1312.0 steps=74 t=4676ms
+[100n_64tw] abl_i088 w/o gating[seed2]: feasible=1 cost=1280.0 steps=73 t=4663ms
+[100n_64tw] abl_i088 w/o gating[seed3]: feasible=1 cost=1582.0 steps=87 t=5494ms
+[100n_64tw] abl_i088 Plain MLP decoder[seed1]: feasible=1 cost=1629.0 steps=99 t=6499ms
+[100n_64tw] abl_i088 Plain MLP decoder[seed2]: feasible=1 cost=1618.0 steps=83 t=5453ms
+[100n_64tw] abl_i088 Plain MLP decoder[seed3]: feasible=1 cost=1472.0 steps=84 t=5448ms
+[100n_64tw] abl_i088 Uniform replay[seed1]: feasible=1 cost=1432.0 steps=80 t=5385ms
+[100n_64tw] abl_i088 Uniform replay[seed2]: feasible=1 cost=1351.0 steps=74 t=4810ms
+[100n_64tw] abl_i088 Uniform replay[seed3]: feasible=1 cost=1312.0 steps=73 t=4809ms
+[100n_64tw] abl_i089 Full model[seed1]: feasible=1 cost=1588.0 steps=73 t=4772ms
+[100n_64tw] abl_i089 Full model[seed2]: feasible=1 cost=1559.0 steps=73 t=4748ms
+[100n_64tw] abl_i089 Full model[seed3]: feasible=1 cost=1533.0 steps=71 t=4650ms
+[100n_64tw] abl_i089 w/o gating[seed1]: feasible=1 cost=1633.0 steps=74 t=4646ms
+[100n_64tw] abl_i089 w/o gating[seed2]: feasible=1 cost=1647.0 steps=69 t=4362ms
+[100n_64tw] abl_i089 w/o gating[seed3]: feasible=1 cost=1662.0 steps=84 t=5294ms
+[100n_64tw] abl_i089 Plain MLP decoder[seed1]: feasible=1 cost=1663.0 steps=79 t=5122ms
+[100n_64tw] abl_i089 Plain MLP decoder[seed2]: feasible=1 cost=1549.0 steps=71 t=4610ms
+[100n_64tw] abl_i089 Plain MLP decoder[seed3]: feasible=1 cost=1602.0 steps=73 t=4771ms
+[100n_64tw] abl_i089 Uniform replay[seed1]: feasible=1 cost=1549.0 steps=71 t=4794ms
+[100n_64tw] abl_i089 Uniform replay[seed2]: feasible=1 cost=1592.0 steps=70 t=4680ms
+[100n_64tw] abl_i089 Uniform replay[seed3]: feasible=1 cost=1501.0 steps=74 t=4856ms
+[100n_64tw] abl_i090 Full model[seed1]: feasible=1 cost=1555.0 steps=96 t=6347ms
+[100n_64tw] abl_i090 Full model[seed2]: feasible=1 cost=1394.0 steps=69 t=4554ms
+[100n_64tw] abl_i090 Full model[seed3]: feasible=1 cost=1293.0 steps=77 t=5052ms
+[100n_64tw] abl_i090 w/o gating[seed1]: feasible=1 cost=1354.0 steps=66 t=4163ms
+[100n_64tw] abl_i090 w/o gating[seed2]: feasible=1 cost=1382.0 steps=64 t=4110ms
+[100n_64tw] abl_i090 w/o gating[seed3]: feasible=1 cost=1398.0 steps=78 t=4988ms
+[100n_64tw] abl_i090 Plain MLP decoder[seed1]: feasible=1 cost=1313.0 steps=72 t=4781ms
+[100n_64tw] abl_i090 Plain MLP decoder[seed2]: feasible=1 cost=1359.0 steps=79 t=5251ms
+[100n_64tw] abl_i090 Plain MLP decoder[seed3]: feasible=1 cost=1450.0 steps=75 t=5180ms
+[100n_64tw] abl_i090 Uniform replay[seed1]: feasible=1 cost=1510.0 steps=85 t=5691ms
+[100n_64tw] abl_i090 Uniform replay[seed2]: feasible=1 cost=1299.0 steps=65 t=4337ms
+[100n_64tw] abl_i090 Uniform replay[seed3]: feasible=1 cost=1304.0 steps=65 t=4351ms
+[100n_64tw] abl_i091 Full model[seed1]: feasible=1 cost=1559.0 steps=70 t=4652ms
+[100n_64tw] abl_i091 Full model[seed2]: feasible=1 cost=1600.0 steps=77 t=5053ms
+[100n_64tw] abl_i091 Full model[seed3]: feasible=1 cost=1550.0 steps=73 t=4841ms
+[100n_64tw] abl_i091 w/o gating[seed1]: feasible=1 cost=1632.0 steps=68 t=4339ms
+[100n_64tw] abl_i091 w/o gating[seed2]: feasible=1 cost=1615.0 steps=75 t=4732ms
+[100n_64tw] abl_i091 w/o gating[seed3]: feasible=1 cost=1513.0 steps=70 t=4470ms
+[100n_64tw] abl_i091 Plain MLP decoder[seed1]: feasible=1 cost=1603.0 steps=74 t=4859ms
+[100n_64tw] abl_i091 Plain MLP decoder[seed2]: feasible=1 cost=1503.0 steps=75 t=4867ms
+[100n_64tw] abl_i091 Plain MLP decoder[seed3]: feasible=1 cost=1513.0 steps=70 t=4686ms
+[100n_64tw] abl_i091 Uniform replay[seed1]: feasible=1 cost=1741.0 steps=80 t=5196ms
+[100n_64tw] abl_i091 Uniform replay[seed2]: feasible=1 cost=1528.0 steps=73 t=4896ms
+[100n_64tw] abl_i091 Uniform replay[seed3]: feasible=1 cost=1570.0 steps=74 t=4865ms
+[100n_64tw] abl_i092 Full model[seed1]: feasible=1 cost=1174.0 steps=57 t=3823ms
+[100n_64tw] abl_i092 Full model[seed2]: feasible=1 cost=1370.0 steps=81 t=5367ms
+[100n_64tw] abl_i092 Full model[seed3]: feasible=1 cost=1245.0 steps=61 t=4061ms
+[100n_64tw] abl_i092 w/o gating[seed1]: feasible=1 cost=1511.0 steps=88 t=5602ms
+[100n_64tw] abl_i092 w/o gating[seed2]: feasible=1 cost=1438.0 steps=88 t=5670ms
+[100n_64tw] abl_i092 w/o gating[seed3]: feasible=1 cost=1455.0 steps=82 t=5363ms
+[100n_64tw] abl_i092 Plain MLP decoder[seed1]: feasible=1 cost=1526.0 steps=114 t=7570ms
+[100n_64tw] abl_i092 Plain MLP decoder[seed2]: feasible=1 cost=1576.0 steps=92 t=6196ms
+[100n_64tw] abl_i092 Plain MLP decoder[seed3]: feasible=1 cost=1232.0 steps=73 t=4881ms
+[100n_64tw] abl_i092 Uniform replay[seed1]: feasible=1 cost=1474.0 steps=86 t=5715ms
+[100n_64tw] abl_i092 Uniform replay[seed2]: feasible=1 cost=1452.0 steps=82 t=5434ms
+[100n_64tw] abl_i092 Uniform replay[seed3]: feasible=1 cost=1468.0 steps=93 t=6093ms
+[100n_64tw] abl_i093 Full model[seed1]: feasible=1 cost=1525.0 steps=73 t=4814ms
+[100n_64tw] abl_i093 Full model[seed2]: feasible=1 cost=1428.0 steps=67 t=4441ms
+[100n_64tw] abl_i093 Full model[seed3]: feasible=1 cost=1488.0 steps=70 t=4640ms
+[100n_64tw] abl_i093 w/o gating[seed1]: feasible=1 cost=1557.0 steps=72 t=4620ms
+[100n_64tw] abl_i093 w/o gating[seed2]: feasible=1 cost=1545.0 steps=74 t=4733ms
+[100n_64tw] abl_i093 w/o gating[seed3]: feasible=1 cost=1543.0 steps=73 t=4738ms
+[100n_64tw] abl_i093 Plain MLP decoder[seed1]: feasible=1 cost=1579.0 steps=74 t=5122ms
+[100n_64tw] abl_i093 Plain MLP decoder[seed2]: feasible=1 cost=1561.0 steps=76 t=5174ms
+[100n_64tw] abl_i093 Plain MLP decoder[seed3]: feasible=1 cost=1499.0 steps=69 t=4674ms
+[100n_64tw] abl_i093 Uniform replay[seed1]: feasible=1 cost=1516.0 steps=70 t=4722ms
+[100n_64tw] abl_i093 Uniform replay[seed2]: feasible=1 cost=1498.0 steps=69 t=4733ms
+[100n_64tw] abl_i093 Uniform replay[seed3]: feasible=1 cost=1520.0 steps=71 t=4887ms
+[100n_64tw] abl_i094 Full model[seed1]: feasible=1 cost=1611.0 steps=76 t=5123ms
+[100n_64tw] abl_i094 Full model[seed2]: feasible=1 cost=1499.0 steps=79 t=5360ms
+[100n_64tw] abl_i094 Full model[seed3]: feasible=1 cost=1593.0 steps=78 t=5233ms
+[100n_64tw] abl_i094 w/o gating[seed1]: feasible=1 cost=1481.0 steps=69 t=4435ms
+[100n_64tw] abl_i094 w/o gating[seed2]: feasible=1 cost=1395.0 steps=72 t=4682ms
+[100n_64tw] abl_i094 w/o gating[seed3]: feasible=1 cost=1643.0 steps=82 t=5340ms
+[100n_64tw] abl_i094 Plain MLP decoder[seed1]: feasible=1 cost=1481.0 steps=77 t=5390ms
+[100n_64tw] abl_i094 Plain MLP decoder[seed2]: feasible=1 cost=1479.0 steps=76 t=5079ms
+[100n_64tw] abl_i094 Plain MLP decoder[seed3]: feasible=1 cost=1432.0 steps=72 t=4848ms
+[100n_64tw] abl_i094 Uniform replay[seed1]: feasible=1 cost=1554.0 steps=77 t=5143ms
+[100n_64tw] abl_i094 Uniform replay[seed2]: feasible=1 cost=1360.0 steps=71 t=4782ms
+[100n_64tw] abl_i094 Uniform replay[seed3]: feasible=1 cost=1414.0 steps=69 t=4607ms
+[100n_64tw] abl_i095 Full model[seed1]: feasible=1 cost=1377.0 steps=69 t=4591ms
+[100n_64tw] abl_i095 Full model[seed2]: feasible=1 cost=1377.0 steps=69 t=4577ms
+[100n_64tw] abl_i095 Full model[seed3]: feasible=1 cost=1435.0 steps=72 t=4818ms
+[100n_64tw] abl_i095 w/o gating[seed1]: feasible=1 cost=1522.0 steps=72 t=4606ms
+[100n_64tw] abl_i095 w/o gating[seed2]: feasible=1 cost=1489.0 steps=73 t=4620ms
+[100n_64tw] abl_i095 w/o gating[seed3]: feasible=1 cost=1560.0 steps=82 t=5270ms
+[100n_64tw] abl_i095 Plain MLP decoder[seed1]: feasible=1 cost=1427.0 steps=83 t=5614ms
+[100n_64tw] abl_i095 Plain MLP decoder[seed2]: feasible=1 cost=1513.0 steps=72 t=4792ms
+[100n_64tw] abl_i095 Plain MLP decoder[seed3]: feasible=1 cost=1533.0 steps=73 t=4777ms
+[100n_64tw] abl_i095 Uniform replay[seed1]: feasible=1 cost=1882.0 steps=109 t=7205ms
+[100n_64tw] abl_i095 Uniform replay[seed2]: feasible=1 cost=1708.0 steps=88 t=5780ms
+[100n_64tw] abl_i095 Uniform replay[seed3]: feasible=1 cost=1513.0 steps=68 t=4460ms
+[100n_64tw] abl_i096 Full model[seed1]: feasible=1 cost=1339.0 steps=72 t=4768ms
+[100n_64tw] abl_i096 Full model[seed2]: feasible=1 cost=1350.0 steps=73 t=4796ms
+[100n_64tw] abl_i096 Full model[seed3]: feasible=1 cost=1440.0 steps=86 t=5634ms
+[100n_64tw] abl_i096 w/o gating[seed1]: feasible=1 cost=1261.0 steps=79 t=5024ms
+[100n_64tw] abl_i096 w/o gating[seed2]: feasible=1 cost=1383.0 steps=72 t=4562ms
+[100n_64tw] abl_i096 w/o gating[seed3]: feasible=1 cost=1369.0 steps=67 t=4357ms
+[100n_64tw] abl_i096 Plain MLP decoder[seed1]: feasible=1 cost=1409.0 steps=88 t=5822ms
+[100n_64tw] abl_i096 Plain MLP decoder[seed2]: feasible=1 cost=1326.0 steps=71 t=4787ms
+[100n_64tw] abl_i096 Plain MLP decoder[seed3]: feasible=1 cost=1351.0 steps=67 t=4461ms
+[100n_64tw] abl_i096 Uniform replay[seed1]: feasible=1 cost=1314.0 steps=73 t=4879ms
+[100n_64tw] abl_i096 Uniform replay[seed2]: feasible=1 cost=1354.0 steps=68 t=4518ms
+[100n_64tw] abl_i096 Uniform replay[seed3]: feasible=1 cost=1403.0 steps=74 t=4881ms
+[100n_64tw] abl_i097 Full model[seed1]: feasible=1 cost=1457.0 steps=74 t=4912ms
+[100n_64tw] abl_i097 Full model[seed2]: feasible=1 cost=1580.0 steps=74 t=4861ms
+[100n_64tw] abl_i097 Full model[seed3]: feasible=1 cost=1535.0 steps=80 t=5339ms
+[100n_64tw] abl_i097 w/o gating[seed1]: feasible=1 cost=1596.0 steps=84 t=5360ms
+[100n_64tw] abl_i097 w/o gating[seed2]: feasible=1 cost=1569.0 steps=80 t=5141ms
+[100n_64tw] abl_i097 w/o gating[seed3]: feasible=1 cost=1518.0 steps=74 t=4850ms
+[100n_64tw] abl_i097 Plain MLP decoder[seed1]: feasible=1 cost=1575.0 steps=92 t=6107ms
+[100n_64tw] abl_i097 Plain MLP decoder[seed2]: feasible=0 cost=1013.0 steps=200 t=13359ms
+[100n_64tw] abl_i097 Plain MLP decoder[seed3]: feasible=1 cost=1384.0 steps=69 t=4604ms
+[100n_64tw] abl_i097 Uniform replay[seed1]: feasible=1 cost=1649.0 steps=90 t=6016ms
+[100n_64tw] abl_i097 Uniform replay[seed2]: feasible=1 cost=1493.0 steps=88 t=5822ms
+[100n_64tw] abl_i097 Uniform replay[seed3]: feasible=1 cost=1409.0 steps=74 t=5031ms
+[100n_64tw] abl_i098 Full model[seed1]: feasible=1 cost=1191.0 steps=69 t=4569ms
+[100n_64tw] abl_i098 Full model[seed2]: feasible=1 cost=1284.0 steps=65 t=4301ms
+[100n_64tw] abl_i098 Full model[seed3]: feasible=1 cost=1187.0 steps=67 t=4610ms
+[100n_64tw] abl_i098 w/o gating[seed1]: feasible=1 cost=1250.0 steps=67 t=4299ms
+[100n_64tw] abl_i098 w/o gating[seed2]: feasible=1 cost=1150.0 steps=65 t=4139ms
+[100n_64tw] abl_i098 w/o gating[seed3]: feasible=1 cost=1245.0 steps=71 t=4518ms
+[100n_64tw] abl_i098 Plain MLP decoder[seed1]: feasible=1 cost=1332.0 steps=71 t=4643ms
+[100n_64tw] abl_i098 Plain MLP decoder[seed2]: feasible=1 cost=1174.0 steps=69 t=4480ms
+[100n_64tw] abl_i098 Plain MLP decoder[seed3]: feasible=1 cost=1163.0 steps=68 t=4492ms
+[100n_64tw] abl_i098 Uniform replay[seed1]: feasible=1 cost=1344.0 steps=66 t=4363ms
+[100n_64tw] abl_i098 Uniform replay[seed2]: feasible=1 cost=1341.0 steps=68 t=4488ms
+[100n_64tw] abl_i098 Uniform replay[seed3]: feasible=1 cost=1139.0 steps=66 t=4360ms
+[100n_64tw] abl_i099 Full model[seed1]: feasible=0 cost=1659.0 steps=200 t=13220ms
+[100n_64tw] abl_i099 Full model[seed2]: feasible=1 cost=1859.0 steps=123 t=8312ms
+[100n_64tw] abl_i099 Full model[seed3]: feasible=1 cost=1503.0 steps=80 t=5220ms
+[100n_64tw] abl_i099 w/o gating[seed1]: feasible=0 cost=1939.0 steps=200 t=12621ms
+[100n_64tw] abl_i099 w/o gating[seed2]: feasible=0 cost=1573.0 steps=200 t=12566ms
+[100n_64tw] abl_i099 w/o gating[seed3]: feasible=1 cost=1449.0 steps=81 t=5115ms
+[100n_64tw] abl_i099 Plain MLP decoder[seed1]: feasible=0 cost=1536.0 steps=200 t=13203ms
+[100n_64tw] abl_i099 Plain MLP decoder[seed2]: feasible=0 cost=1985.0 steps=200 t=13247ms
+[100n_64tw] abl_i099 Plain MLP decoder[seed3]: feasible=1 cost=1693.0 steps=106 t=6870ms
+[100n_64tw] abl_i099 Uniform replay[seed1]: feasible=0 cost=1842.0 steps=200 t=13078ms
+[100n_64tw] abl_i099 Uniform replay[seed2]: feasible=1 cost=1749.0 steps=102 t=6620ms
+[100n_64tw] abl_i099 Uniform replay[seed3]: feasible=1 cost=1645.0 steps=84 t=5472ms
+写出: C:\Users\26659\Desktop\ASOC测试\test\results\_jobs\exp5_seeds\per_instance.csv
+写出: C:\Users\26659\Desktop\ASOC测试\test\results\_jobs\exp5_seeds\summary.csv
+
+=== 消融汇总(mean±std, 跨种子) ===
+          Full model (3 runs): pass=0.933±0.012 | cost(feas)=1516.44±17.80
+          w/o gating (3 runs): pass=0.907±0.005 | cost(feas)=1519.72±6.99
+   Plain MLP decoder (3 runs): pass=0.880±0.029 | cost(feas)=1526.52±25.26
+      Uniform replay (3 runs): pass=0.957±0.021 | cost(feas)=1529.59±7.84

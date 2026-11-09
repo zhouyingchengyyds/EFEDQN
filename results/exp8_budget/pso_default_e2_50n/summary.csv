@@ -1,0 +1,2 @@
+condition,protocol,n_instances,pass_rate,n_feasible,mean_cost_all,mean_cost_feasible,mean_fitness,mean_gap_pct,n_gap,mean_time_ms,median_time_ms
+n50,PSO,50,0.26,13,1997.12,1813.0,0.020765528176300885,210.17912167283782,13,16245.063331999985,16012.91600000002

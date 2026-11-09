@@ -1,0 +1,205 @@
+
+########## 块 A: 规模外推 (['EFEDQN', 'EFEDQN-E']) ##########
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\_jobs\exp6ext_EFEDQN\instances\150n_96tw (30 个)
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\_jobs\exp6ext_EFEDQN\instances\200n_128tw (30 个)
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\_jobs\exp6ext_EFEDQN\instances\300n_192tw (30 个)
+
+=== [150n_96tw] ===
+[150n_96tw] 150n_96tw_i000 EFEDQN: feasible=1 cost=2833.0 steps=148 t=14120ms
+[150n_96tw] 150n_96tw_i000 EFEDQN-E: feasible=1 cost=2287.0 steps=108 t=136116ms
+[150n_96tw] 150n_96tw_i001 EFEDQN: feasible=1 cost=2179.0 steps=119 t=10707ms
+[150n_96tw] 150n_96tw_i001 EFEDQN-E: feasible=1 cost=2178.0 steps=119 t=128085ms
+[150n_96tw] 150n_96tw_i002 EFEDQN: feasible=1 cost=1832.0 steps=98 t=8299ms
+[150n_96tw] 150n_96tw_i002 EFEDQN-E: feasible=1 cost=1773.0 steps=96 t=90126ms
+[150n_96tw] 150n_96tw_i003 EFEDQN: feasible=1 cost=2267.0 steps=127 t=10409ms
+[150n_96tw] 150n_96tw_i003 EFEDQN-E: feasible=1 cost=1923.0 steps=102 t=93598ms
+[150n_96tw] 150n_96tw_i004 EFEDQN: feasible=1 cost=2216.0 steps=121 t=10235ms
+[150n_96tw] 150n_96tw_i004 EFEDQN-E: feasible=1 cost=1920.0 steps=106 t=99493ms
+[150n_96tw] 150n_96tw_i005 EFEDQN: feasible=1 cost=2157.0 steps=125 t=11886ms
+[150n_96tw] 150n_96tw_i005 EFEDQN-E: feasible=1 cost=2083.0 steps=110 t=104359ms
+[150n_96tw] 150n_96tw_i006 EFEDQN: feasible=1 cost=2310.0 steps=120 t=10276ms
+[150n_96tw] 150n_96tw_i006 EFEDQN-E: feasible=1 cost=2264.0 steps=110 t=103719ms
+[150n_96tw] 150n_96tw_i007 EFEDQN: feasible=1 cost=2370.0 steps=114 t=9393ms
+[150n_96tw] 150n_96tw_i007 EFEDQN-E: feasible=1 cost=2058.0 steps=113 t=110003ms
+[150n_96tw] 150n_96tw_i008 EFEDQN: feasible=1 cost=2338.0 steps=120 t=10012ms
+[150n_96tw] 150n_96tw_i008 EFEDQN-E: feasible=1 cost=2020.0 steps=98 t=95762ms
+[150n_96tw] 150n_96tw_i009 EFEDQN: feasible=1 cost=2223.0 steps=111 t=9068ms
+[150n_96tw] 150n_96tw_i009 EFEDQN-E: feasible=1 cost=2009.0 steps=106 t=111123ms
+[150n_96tw] 150n_96tw_i010 EFEDQN: feasible=1 cost=1936.0 steps=90 t=7387ms
+[150n_96tw] 150n_96tw_i010 EFEDQN-E: feasible=1 cost=1971.0 steps=101 t=91251ms
+[150n_96tw] 150n_96tw_i011 EFEDQN: feasible=1 cost=2016.0 steps=123 t=11731ms
+[150n_96tw] 150n_96tw_i011 EFEDQN-E: feasible=1 cost=1684.0 steps=101 t=121635ms
+[150n_96tw] 150n_96tw_i012 EFEDQN: feasible=1 cost=2052.0 steps=113 t=9675ms
+[150n_96tw] 150n_96tw_i012 EFEDQN-E: feasible=1 cost=1918.0 steps=108 t=108145ms
+[150n_96tw] 150n_96tw_i013 EFEDQN: feasible=0 cost=2710.0 steps=132 t=11167ms
+[150n_96tw] 150n_96tw_i013 EFEDQN-E: feasible=1 cost=2342.0 steps=132 t=102489ms
+[150n_96tw] 150n_96tw_i014 EFEDQN: feasible=1 cost=2907.0 steps=173 t=15698ms
+[150n_96tw] 150n_96tw_i014 EFEDQN-E: feasible=1 cost=2358.0 steps=118 t=130043ms
+[150n_96tw] 150n_96tw_i015 EFEDQN: feasible=1 cost=1996.0 steps=99 t=9094ms
+[150n_96tw] 150n_96tw_i015 EFEDQN-E: feasible=1 cost=1996.0 steps=99 t=105996ms
+[150n_96tw] 150n_96tw_i016 EFEDQN: feasible=1 cost=2143.0 steps=116 t=10844ms
+[150n_96tw] 150n_96tw_i016 EFEDQN-E: feasible=1 cost=2048.0 steps=115 t=118424ms
+[150n_96tw] 150n_96tw_i017 EFEDQN: feasible=1 cost=2080.0 steps=114 t=10706ms
+[150n_96tw] 150n_96tw_i017 EFEDQN-E: feasible=1 cost=1768.0 steps=100 t=106073ms
+[150n_96tw] 150n_96tw_i018 EFEDQN: feasible=1 cost=1948.0 steps=101 t=9643ms
+[150n_96tw] 150n_96tw_i018 EFEDQN-E: feasible=1 cost=1732.0 steps=92 t=121767ms
+[150n_96tw] 150n_96tw_i019 EFEDQN: feasible=1 cost=2295.0 steps=131 t=12311ms
+[150n_96tw] 150n_96tw_i019 EFEDQN-E: feasible=1 cost=2033.0 steps=103 t=110818ms
+[150n_96tw] 150n_96tw_i020 EFEDQN: feasible=1 cost=2201.0 steps=110 t=10363ms
+[150n_96tw] 150n_96tw_i020 EFEDQN-E: feasible=1 cost=2148.0 steps=112 t=110951ms
+[150n_96tw] 150n_96tw_i021 EFEDQN: feasible=1 cost=2497.0 steps=125 t=11573ms
+[150n_96tw] 150n_96tw_i021 EFEDQN-E: feasible=1 cost=2176.0 steps=103 t=118432ms
+[150n_96tw] 150n_96tw_i022 EFEDQN: feasible=1 cost=2141.0 steps=106 t=10092ms
+[150n_96tw] 150n_96tw_i022 EFEDQN-E: feasible=1 cost=2061.0 steps=105 t=100522ms
+[150n_96tw] 150n_96tw_i023 EFEDQN: feasible=1 cost=2110.0 steps=110 t=10349ms
+[150n_96tw] 150n_96tw_i023 EFEDQN-E: feasible=1 cost=2076.0 steps=114 t=111996ms
+[150n_96tw] 150n_96tw_i024 EFEDQN: feasible=1 cost=2056.0 steps=107 t=10326ms
+[150n_96tw] 150n_96tw_i024 EFEDQN-E: feasible=1 cost=1981.0 steps=109 t=104577ms
+[150n_96tw] 150n_96tw_i025 EFEDQN: feasible=1 cost=2293.0 steps=115 t=10739ms
+[150n_96tw] 150n_96tw_i025 EFEDQN-E: feasible=1 cost=2161.0 steps=117 t=108422ms
+[150n_96tw] 150n_96tw_i026 EFEDQN: feasible=1 cost=2587.0 steps=120 t=11386ms
+[150n_96tw] 150n_96tw_i026 EFEDQN-E: feasible=1 cost=2302.0 steps=106 t=102422ms
+[150n_96tw] 150n_96tw_i027 EFEDQN: feasible=1 cost=2170.0 steps=112 t=10387ms
+[150n_96tw] 150n_96tw_i027 EFEDQN-E: feasible=1 cost=2129.0 steps=110 t=105542ms
+[150n_96tw] 150n_96tw_i028 EFEDQN: feasible=1 cost=2013.0 steps=104 t=9773ms
+[150n_96tw] 150n_96tw_i028 EFEDQN-E: feasible=1 cost=1949.0 steps=108 t=105800ms
+[150n_96tw] 150n_96tw_i029 EFEDQN: feasible=1 cost=2229.0 steps=119 t=11094ms
+[150n_96tw] 150n_96tw_i029 EFEDQN-E: feasible=1 cost=2109.0 steps=114 t=127174ms
+
+=== 汇总（pass rate / fitness / 条件成本 / gap / 平均时间） ===
+   150n_96tw           EFEDQN | pass=0.967 | fit=0.1275 | cost(feas)=2220.52 | gap=nan% (n=0) | time=10624.8ms
+   150n_96tw         EFEDQN-E | pass=1.000 | fit=0.1416 | cost(feas)=2048.57 | gap=nan% (n=0) | time=109495.4ms
+
+=== [200n_128tw] ===
+[200n_128tw] 200n_128tw_i000 EFEDQN: feasible=0 cost=3743.0 steps=200 t=23425ms
+[200n_128tw] 200n_128tw_i000 EFEDQN-E: feasible=1 cost=2868.0 steps=153 t=218475ms
+[200n_128tw] 200n_128tw_i001 EFEDQN: feasible=1 cost=2889.0 steps=150 t=19788ms
+[200n_128tw] 200n_128tw_i001 EFEDQN-E: feasible=1 cost=2817.0 steps=144 t=224386ms
+[200n_128tw] 200n_128tw_i002 EFEDQN: feasible=1 cost=2538.0 steps=165 t=17398ms
+[200n_128tw] 200n_128tw_i002 EFEDQN-E: feasible=1 cost=2445.0 steps=159 t=178380ms
+[200n_128tw] 200n_128tw_i003 EFEDQN: feasible=0 cost=3212.0 steps=200 t=21093ms
+[200n_128tw] 200n_128tw_i003 EFEDQN-E: feasible=1 cost=2935.0 steps=155 t=193000ms
+[200n_128tw] 200n_128tw_i004 EFEDQN: feasible=1 cost=2663.0 steps=151 t=16005ms
+[200n_128tw] 200n_128tw_i004 EFEDQN-E: feasible=1 cost=2522.0 steps=136 t=150233ms
+[200n_128tw] 200n_128tw_i005 EFEDQN: feasible=0 cost=3364.0 steps=200 t=21280ms
+[200n_128tw] 200n_128tw_i005 EFEDQN-E: feasible=1 cost=2804.0 steps=147 t=193089ms
+[200n_128tw] 200n_128tw_i006 EFEDQN: feasible=1 cost=2994.0 steps=137 t=14130ms
+[200n_128tw] 200n_128tw_i006 EFEDQN-E: feasible=1 cost=2932.0 steps=137 t=179469ms
+[200n_128tw] 200n_128tw_i007 EFEDQN: feasible=1 cost=2548.0 steps=145 t=15267ms
+[200n_128tw] 200n_128tw_i007 EFEDQN-E: feasible=1 cost=2650.0 steps=153 t=188448ms
+[200n_128tw] 200n_128tw_i008 EFEDQN: feasible=1 cost=3329.0 steps=178 t=18009ms
+[200n_128tw] 200n_128tw_i008 EFEDQN-E: feasible=1 cost=2959.0 steps=136 t=171948ms
+[200n_128tw] 200n_128tw_i009 EFEDQN: feasible=1 cost=2918.0 steps=176 t=17318ms
+[200n_128tw] 200n_128tw_i009 EFEDQN-E: feasible=1 cost=2487.0 steps=144 t=151031ms
+[200n_128tw] 200n_128tw_i010 EFEDQN: feasible=1 cost=2854.0 steps=156 t=15986ms
+[200n_128tw] 200n_128tw_i010 EFEDQN-E: feasible=1 cost=2835.0 steps=163 t=165597ms
+[200n_128tw] 200n_128tw_i011 EFEDQN: feasible=0 cost=2725.0 steps=200 t=19718ms
+[200n_128tw] 200n_128tw_i011 EFEDQN-E: feasible=1 cost=2782.0 steps=154 t=154867ms
+[200n_128tw] 200n_128tw_i012 EFEDQN: feasible=1 cost=2418.0 steps=149 t=14772ms
+[200n_128tw] 200n_128tw_i012 EFEDQN-E: feasible=1 cost=2320.0 steps=128 t=154923ms
+[200n_128tw] 200n_128tw_i013 EFEDQN: feasible=1 cost=3239.0 steps=155 t=15057ms
+[200n_128tw] 200n_128tw_i013 EFEDQN-E: feasible=1 cost=2898.0 steps=145 t=179532ms
+[200n_128tw] 200n_128tw_i014 EFEDQN: feasible=1 cost=2937.0 steps=161 t=15832ms
+[200n_128tw] 200n_128tw_i014 EFEDQN-E: feasible=1 cost=2988.0 steps=162 t=167861ms
+[200n_128tw] 200n_128tw_i015 EFEDQN: feasible=0 cost=3618.0 steps=200 t=20242ms
+[200n_128tw] 200n_128tw_i015 EFEDQN-E: feasible=1 cost=2974.0 steps=153 t=166106ms
+[200n_128tw] 200n_128tw_i016 EFEDQN: feasible=1 cost=2988.0 steps=158 t=17985ms
+[200n_128tw] 200n_128tw_i016 EFEDQN-E: feasible=1 cost=2766.0 steps=153 t=162405ms
+[200n_128tw] 200n_128tw_i017 EFEDQN: feasible=1 cost=2583.0 steps=137 t=13307ms
+[200n_128tw] 200n_128tw_i017 EFEDQN-E: feasible=1 cost=2378.0 steps=132 t=143052ms
+[200n_128tw] 200n_128tw_i018 EFEDQN: feasible=1 cost=2979.0 steps=165 t=16241ms
+[200n_128tw] 200n_128tw_i018 EFEDQN-E: feasible=1 cost=2908.0 steps=152 t=182807ms
+[200n_128tw] 200n_128tw_i019 EFEDQN: feasible=1 cost=2680.0 steps=150 t=15173ms
+[200n_128tw] 200n_128tw_i019 EFEDQN-E: feasible=1 cost=2588.0 steps=140 t=173144ms
+[200n_128tw] 200n_128tw_i020 EFEDQN: feasible=1 cost=3231.0 steps=148 t=14082ms
+[200n_128tw] 200n_128tw_i020 EFEDQN-E: feasible=1 cost=3069.0 steps=145 t=182804ms
+[200n_128tw] 200n_128tw_i021 EFEDQN: feasible=0 cost=3577.0 steps=200 t=19046ms
+[200n_128tw] 200n_128tw_i021 EFEDQN-E: feasible=1 cost=3038.0 steps=142 t=168146ms
+[200n_128tw] 200n_128tw_i022 EFEDQN: feasible=0 cost=3030.0 steps=200 t=18394ms
+[200n_128tw] 200n_128tw_i022 EFEDQN-E: feasible=1 cost=2718.0 steps=142 t=169746ms
+[200n_128tw] 200n_128tw_i023 EFEDQN: feasible=1 cost=2990.0 steps=169 t=15784ms
+[200n_128tw] 200n_128tw_i023 EFEDQN-E: feasible=1 cost=2813.0 steps=159 t=147665ms
+[200n_128tw] 200n_128tw_i024 EFEDQN: feasible=1 cost=3088.0 steps=159 t=14645ms
+[200n_128tw] 200n_128tw_i024 EFEDQN-E: feasible=1 cost=2873.0 steps=138 t=158826ms
+[200n_128tw] 200n_128tw_i025 EFEDQN: feasible=1 cost=2974.0 steps=151 t=13821ms
+[200n_128tw] 200n_128tw_i025 EFEDQN-E: feasible=1 cost=2903.0 steps=148 t=151820ms
+[200n_128tw] 200n_128tw_i026 EFEDQN: feasible=1 cost=2971.0 steps=151 t=14143ms
+[200n_128tw] 200n_128tw_i026 EFEDQN-E: feasible=1 cost=2821.0 steps=139 t=143112ms
+[200n_128tw] 200n_128tw_i027 EFEDQN: feasible=1 cost=2888.0 steps=153 t=14420ms
+[200n_128tw] 200n_128tw_i027 EFEDQN-E: feasible=1 cost=2585.0 steps=136 t=138544ms
+[200n_128tw] 200n_128tw_i028 EFEDQN: feasible=1 cost=3330.0 steps=171 t=14573ms
+[200n_128tw] 200n_128tw_i028 EFEDQN-E: feasible=1 cost=3107.0 steps=157 t=146885ms
+[200n_128tw] 200n_128tw_i029 EFEDQN: feasible=0 cost=3052.0 steps=200 t=17484ms
+[200n_128tw] 200n_128tw_i029 EFEDQN-E: feasible=1 cost=2762.0 steps=152 t=149130ms
+
+=== 汇总（pass rate / fitness / 条件成本 / gap / 平均时间） ===
+  200n_128tw           EFEDQN | pass=0.733 | fit=0.1052 | cost(feas)=2910.41 | gap=nan% (n=0) | time=16813.9ms
+  200n_128tw         EFEDQN-E | pass=1.000 | fit=0.1387 | cost(feas)=2784.83 | gap=nan% (n=0) | time=168514.4ms
+
+=== [300n_192tw] ===
+[300n_192tw] 300n_192tw_i000 EFEDQN: feasible=0 cost=4306.0 steps=200 t=23458ms
+[300n_192tw] 300n_192tw_i000 EFEDQN-E: feasible=0 cost=3893.0 steps=200 t=242798ms
+[300n_192tw] 300n_192tw_i001 EFEDQN: feasible=0 cost=3861.0 steps=200 t=24143ms
+[300n_192tw] 300n_192tw_i001 EFEDQN-E: feasible=0 cost=3541.0 steps=200 t=243735ms
+[300n_192tw] 300n_192tw_i002 EFEDQN: feasible=0 cost=3868.0 steps=200 t=23515ms
+[300n_192tw] 300n_192tw_i002 EFEDQN-E: feasible=0 cost=3017.0 steps=200 t=233828ms
+[300n_192tw] 300n_192tw_i003 EFEDQN: feasible=0 cost=4002.0 steps=200 t=22576ms
+[300n_192tw] 300n_192tw_i003 EFEDQN-E: feasible=0 cost=3695.0 steps=200 t=227161ms
+[300n_192tw] 300n_192tw_i004 EFEDQN: feasible=0 cost=4158.0 steps=200 t=22657ms
+[300n_192tw] 300n_192tw_i004 EFEDQN-E: feasible=0 cost=3360.0 steps=200 t=225911ms
+[300n_192tw] 300n_192tw_i005 EFEDQN: feasible=0 cost=3820.0 steps=200 t=22140ms
+[300n_192tw] 300n_192tw_i005 EFEDQN-E: feasible=0 cost=3423.0 steps=200 t=222021ms
+[300n_192tw] 300n_192tw_i006 EFEDQN: feasible=0 cost=3674.0 steps=200 t=22319ms
+[300n_192tw] 300n_192tw_i006 EFEDQN-E: feasible=0 cost=3499.0 steps=200 t=222946ms
+[300n_192tw] 300n_192tw_i007 EFEDQN: feasible=0 cost=3754.0 steps=200 t=21994ms
+[300n_192tw] 300n_192tw_i007 EFEDQN-E: feasible=0 cost=3792.0 steps=200 t=221374ms
+[300n_192tw] 300n_192tw_i008 EFEDQN: feasible=0 cost=4072.0 steps=200 t=22212ms
+[300n_192tw] 300n_192tw_i008 EFEDQN-E: feasible=0 cost=3918.0 steps=200 t=222537ms
+[300n_192tw] 300n_192tw_i009 EFEDQN: feasible=0 cost=2794.0 steps=200 t=22326ms
+[300n_192tw] 300n_192tw_i009 EFEDQN-E: feasible=0 cost=3673.0 steps=200 t=223277ms
+[300n_192tw] 300n_192tw_i010 EFEDQN: feasible=0 cost=3597.0 steps=200 t=22190ms
+[300n_192tw] 300n_192tw_i010 EFEDQN-E: feasible=0 cost=2243.0 steps=200 t=221806ms
+[300n_192tw] 300n_192tw_i011 EFEDQN: feasible=0 cost=3659.0 steps=200 t=22028ms
+[300n_192tw] 300n_192tw_i011 EFEDQN-E: feasible=0 cost=3246.0 steps=200 t=221718ms
+[300n_192tw] 300n_192tw_i012 EFEDQN: feasible=0 cost=3846.0 steps=200 t=22164ms
+[300n_192tw] 300n_192tw_i012 EFEDQN-E: feasible=0 cost=3621.0 steps=200 t=222334ms
+[300n_192tw] 300n_192tw_i013 EFEDQN: feasible=0 cost=3775.0 steps=200 t=22238ms
+[300n_192tw] 300n_192tw_i013 EFEDQN-E: feasible=0 cost=3440.0 steps=200 t=221740ms
+[300n_192tw] 300n_192tw_i014 EFEDQN: feasible=0 cost=3293.0 steps=200 t=21936ms
+[300n_192tw] 300n_192tw_i014 EFEDQN-E: feasible=0 cost=3241.0 steps=200 t=221019ms
+[300n_192tw] 300n_192tw_i015 EFEDQN: feasible=0 cost=3211.0 steps=200 t=22023ms
+[300n_192tw] 300n_192tw_i015 EFEDQN-E: feasible=0 cost=1491.0 steps=200 t=220788ms
+[300n_192tw] 300n_192tw_i016 EFEDQN: feasible=0 cost=3455.0 steps=200 t=22143ms
+[300n_192tw] 300n_192tw_i016 EFEDQN-E: feasible=0 cost=3325.0 steps=200 t=221192ms
+[300n_192tw] 300n_192tw_i017 EFEDQN: feasible=0 cost=3666.0 steps=200 t=22389ms
+[300n_192tw] 300n_192tw_i017 EFEDQN-E: feasible=0 cost=3696.0 steps=200 t=221304ms
+[300n_192tw] 300n_192tw_i018 EFEDQN: feasible=0 cost=3890.0 steps=200 t=22135ms
+[300n_192tw] 300n_192tw_i018 EFEDQN-E: feasible=1 cost=3939.0 steps=199 t=221316ms
+[300n_192tw] 300n_192tw_i019 EFEDQN: feasible=0 cost=3839.0 steps=200 t=21710ms
+[300n_192tw] 300n_192tw_i019 EFEDQN-E: feasible=0 cost=2685.0 steps=200 t=219378ms
+[300n_192tw] 300n_192tw_i020 EFEDQN: feasible=0 cost=3936.0 steps=200 t=22225ms
+[300n_192tw] 300n_192tw_i020 EFEDQN-E: feasible=0 cost=3471.0 steps=200 t=221902ms
+[300n_192tw] 300n_192tw_i021 EFEDQN: feasible=0 cost=4049.0 steps=200 t=21894ms
+[300n_192tw] 300n_192tw_i021 EFEDQN-E: feasible=1 cost=3850.0 steps=191 t=219059ms
+[300n_192tw] 300n_192tw_i022 EFEDQN: feasible=0 cost=3806.0 steps=200 t=22018ms
+[300n_192tw] 300n_192tw_i022 EFEDQN-E: feasible=0 cost=3102.0 steps=200 t=209787ms
+[300n_192tw] 300n_192tw_i023 EFEDQN: feasible=1 cost=3846.0 steps=200 t=20219ms
+[300n_192tw] 300n_192tw_i023 EFEDQN-E: feasible=1 cost=3781.0 steps=197 t=201626ms
+[300n_192tw] 300n_192tw_i024 EFEDQN: feasible=0 cost=3695.0 steps=200 t=20057ms
+[300n_192tw] 300n_192tw_i024 EFEDQN-E: feasible=0 cost=3547.0 steps=200 t=202588ms
+[300n_192tw] 300n_192tw_i025 EFEDQN: feasible=0 cost=4169.0 steps=200 t=20277ms
+[300n_192tw] 300n_192tw_i025 EFEDQN-E: feasible=0 cost=3653.0 steps=200 t=202039ms
+[300n_192tw] 300n_192tw_i026 EFEDQN: feasible=0 cost=4081.0 steps=200 t=20275ms
+[300n_192tw] 300n_192tw_i026 EFEDQN-E: feasible=0 cost=3812.0 steps=200 t=201920ms
+[300n_192tw] 300n_192tw_i027 EFEDQN: feasible=0 cost=3753.0 steps=200 t=20262ms
+[300n_192tw] 300n_192tw_i027 EFEDQN-E: feasible=0 cost=3593.0 steps=200 t=202862ms
+[300n_192tw] 300n_192tw_i028 EFEDQN: feasible=0 cost=3890.0 steps=200 t=20356ms
+[300n_192tw] 300n_192tw_i028 EFEDQN-E: feasible=0 cost=3444.0 steps=200 t=203510ms
+[300n_192tw] 300n_192tw_i029 EFEDQN: feasible=0 cost=3647.0 steps=200 t=19835ms
+[300n_192tw] 300n_192tw_i029 EFEDQN-E: feasible=0 cost=3463.0 steps=200 t=202444ms
+
+=== 汇总（pass rate / fitness / 条件成本 / gap / 平均时间） ===
+  300n_192tw           EFEDQN | pass=0.033 | fit=0.0454 | cost(feas)=3846.00 | gap=nan% (n=0) | time=21857.1ms
+  300n_192tw         EFEDQN-E | pass=0.100 | fit=0.0538 | cost(feas)=3856.67 | gap=nan% (n=0) | time=218864.0ms
+写出: C:\Users\26659\Desktop\ASOC测试\test\results\_jobs\exp6ext_EFEDQN\extrap_per_instance.csv
+写出: C:\Users\26659\Desktop\ASOC测试\test\results\_jobs\exp6ext_EFEDQN\extrap_summary.csv

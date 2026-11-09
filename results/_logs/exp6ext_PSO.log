@@ -1,0 +1,112 @@
+
+########## 块 A: 规模外推 (['PSO']) ##########
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\_jobs\exp6ext_PSO\instances\150n_96tw (30 个)
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\_jobs\exp6ext_PSO\instances\200n_128tw (30 个)
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\_jobs\exp6ext_PSO\instances\300n_192tw (30 个)
+
+=== [150n_96tw] ===
+[150n_96tw] 150n_96tw_i000 PSO: feasible=0 cost=5251.0 steps=200 t=322085ms
+[150n_96tw] 150n_96tw_i001 PSO: feasible=0 cost=7832.0 steps=200 t=266188ms
+[150n_96tw] 150n_96tw_i002 PSO: feasible=0 cost=4810.0 steps=200 t=211720ms
+[150n_96tw] 150n_96tw_i003 PSO: feasible=0 cost=5004.0 steps=200 t=180437ms
+[150n_96tw] 150n_96tw_i004 PSO: feasible=0 cost=4887.0 steps=200 t=174367ms
+[150n_96tw] 150n_96tw_i005 PSO: feasible=0 cost=5158.0 steps=200 t=183050ms
+[150n_96tw] 150n_96tw_i006 PSO: feasible=0 cost=6097.0 steps=200 t=241135ms
+[150n_96tw] 150n_96tw_i007 PSO: feasible=0 cost=5296.0 steps=200 t=220454ms
+[150n_96tw] 150n_96tw_i008 PSO: feasible=0 cost=5109.0 steps=200 t=189526ms
+[150n_96tw] 150n_96tw_i009 PSO: feasible=0 cost=4897.0 steps=200 t=160406ms
+[150n_96tw] 150n_96tw_i010 PSO: feasible=0 cost=4996.0 steps=200 t=205766ms
+[150n_96tw] 150n_96tw_i011 PSO: feasible=0 cost=5182.0 steps=200 t=218003ms
+[150n_96tw] 150n_96tw_i012 PSO: feasible=0 cost=4854.0 steps=200 t=201329ms
+[150n_96tw] 150n_96tw_i013 PSO: feasible=0 cost=5152.0 steps=200 t=315219ms
+[150n_96tw] 150n_96tw_i014 PSO: feasible=0 cost=8284.0 steps=200 t=233719ms
+[150n_96tw] 150n_96tw_i015 PSO: feasible=0 cost=7484.0 steps=200 t=282980ms
+[150n_96tw] 150n_96tw_i016 PSO: feasible=0 cost=4776.0 steps=200 t=208177ms
+[150n_96tw] 150n_96tw_i017 PSO: feasible=0 cost=4865.0 steps=200 t=276291ms
+[150n_96tw] 150n_96tw_i018 PSO: feasible=0 cost=4852.0 steps=200 t=255633ms
+[150n_96tw] 150n_96tw_i019 PSO: feasible=0 cost=6095.0 steps=200 t=270046ms
+[150n_96tw] 150n_96tw_i020 PSO: feasible=0 cost=5005.0 steps=200 t=189432ms
+[150n_96tw] 150n_96tw_i021 PSO: feasible=0 cost=5217.0 steps=200 t=181478ms
+[150n_96tw] 150n_96tw_i022 PSO: feasible=0 cost=5043.0 steps=200 t=173981ms
+[150n_96tw] 150n_96tw_i023 PSO: feasible=0 cost=8146.0 steps=200 t=284748ms
+[150n_96tw] 150n_96tw_i024 PSO: feasible=0 cost=5472.0 steps=200 t=163578ms
+[150n_96tw] 150n_96tw_i025 PSO: feasible=0 cost=7032.0 steps=200 t=202207ms
+[150n_96tw] 150n_96tw_i026 PSO: feasible=0 cost=5606.0 steps=200 t=204190ms
+[150n_96tw] 150n_96tw_i027 PSO: feasible=0 cost=5221.0 steps=200 t=167035ms
+[150n_96tw] 150n_96tw_i028 PSO: feasible=0 cost=5436.0 steps=200 t=147165ms
+[150n_96tw] 150n_96tw_i029 PSO: feasible=0 cost=4985.0 steps=200 t=215495ms
+
+=== 汇总（pass rate / fitness / 条件成本 / gap / 平均时间） ===
+   150n_96tw              PSO | pass=0.000 | fit=0.0185 | cost(feas)=nan | gap=nan% (n=0) | time=218194.8ms
+
+=== [200n_128tw] ===
+[200n_128tw] 200n_128tw_i000 PSO: feasible=0 cost=5094.0 steps=200 t=320173ms
+[200n_128tw] 200n_128tw_i001 PSO: feasible=0 cost=4931.0 steps=200 t=446511ms
+[200n_128tw] 200n_128tw_i002 PSO: feasible=0 cost=4959.0 steps=200 t=331629ms
+[200n_128tw] 200n_128tw_i003 PSO: feasible=0 cost=5224.0 steps=200 t=329737ms
+[200n_128tw] 200n_128tw_i004 PSO: feasible=0 cost=5166.0 steps=200 t=368666ms
+[200n_128tw] 200n_128tw_i005 PSO: feasible=0 cost=8189.0 steps=200 t=450815ms
+[200n_128tw] 200n_128tw_i006 PSO: feasible=0 cost=4817.0 steps=200 t=352491ms
+[200n_128tw] 200n_128tw_i007 PSO: feasible=0 cost=5052.0 steps=200 t=271729ms
+[200n_128tw] 200n_128tw_i008 PSO: feasible=0 cost=5625.0 steps=200 t=306663ms
+[200n_128tw] 200n_128tw_i009 PSO: feasible=0 cost=4835.0 steps=200 t=254782ms
+[200n_128tw] 200n_128tw_i010 PSO: feasible=0 cost=5220.0 steps=200 t=319375ms
+[200n_128tw] 200n_128tw_i011 PSO: feasible=0 cost=5024.0 steps=200 t=249286ms
+[200n_128tw] 200n_128tw_i012 PSO: feasible=0 cost=5329.0 steps=200 t=295658ms
+[200n_128tw] 200n_128tw_i013 PSO: feasible=0 cost=5514.0 steps=200 t=386431ms
+[200n_128tw] 200n_128tw_i014 PSO: feasible=0 cost=5148.0 steps=200 t=395199ms
+[200n_128tw] 200n_128tw_i015 PSO: feasible=0 cost=5441.0 steps=200 t=330958ms
+[200n_128tw] 200n_128tw_i016 PSO: feasible=0 cost=5080.0 steps=200 t=328639ms
+[200n_128tw] 200n_128tw_i017 PSO: feasible=0 cost=4826.0 steps=200 t=223131ms
+[200n_128tw] 200n_128tw_i018 PSO: feasible=0 cost=5966.0 steps=200 t=285613ms
+[200n_128tw] 200n_128tw_i019 PSO: feasible=0 cost=5027.0 steps=200 t=251709ms
+[200n_128tw] 200n_128tw_i020 PSO: feasible=0 cost=5038.0 steps=200 t=254351ms
+[200n_128tw] 200n_128tw_i021 PSO: feasible=0 cost=4871.0 steps=200 t=342211ms
+[200n_128tw] 200n_128tw_i022 PSO: feasible=0 cost=5259.0 steps=200 t=282006ms
+[200n_128tw] 200n_128tw_i023 PSO: feasible=0 cost=4619.0 steps=200 t=352011ms
+[200n_128tw] 200n_128tw_i024 PSO: feasible=0 cost=5026.0 steps=200 t=231865ms
+[200n_128tw] 200n_128tw_i025 PSO: feasible=0 cost=5141.0 steps=200 t=311539ms
+[200n_128tw] 200n_128tw_i026 PSO: feasible=0 cost=4908.0 steps=200 t=261764ms
+[200n_128tw] 200n_128tw_i027 PSO: feasible=0 cost=5225.0 steps=200 t=276132ms
+[200n_128tw] 200n_128tw_i028 PSO: feasible=0 cost=5004.0 steps=200 t=334485ms
+[200n_128tw] 200n_128tw_i029 PSO: feasible=0 cost=20450.0 steps=200 t=564514ms
+
+=== 汇总（pass rate / fitness / 条件成本 / gap / 平均时间） ===
+  200n_128tw              PSO | pass=0.000 | fit=0.0248 | cost(feas)=nan | gap=nan% (n=0) | time=323669.0ms
+
+=== [300n_192tw] ===
+[300n_192tw] 300n_192tw_i000 PSO: feasible=0 cost=5095.0 steps=200 t=642339ms
+[300n_192tw] 300n_192tw_i001 PSO: feasible=0 cost=4666.0 steps=200 t=632719ms
+[300n_192tw] 300n_192tw_i002 PSO: feasible=0 cost=6941.0 steps=200 t=802584ms
+[300n_192tw] 300n_192tw_i003 PSO: feasible=0 cost=5118.0 steps=200 t=904127ms
+[300n_192tw] 300n_192tw_i004 PSO: feasible=0 cost=4995.0 steps=200 t=898747ms
+[300n_192tw] 300n_192tw_i005 PSO: feasible=0 cost=4783.0 steps=200 t=521269ms
+[300n_192tw] 300n_192tw_i006 PSO: feasible=0 cost=4836.0 steps=200 t=614616ms
+[300n_192tw] 300n_192tw_i007 PSO: feasible=0 cost=4777.0 steps=200 t=637950ms
+[300n_192tw] 300n_192tw_i008 PSO: feasible=0 cost=5241.0 steps=200 t=747428ms
+[300n_192tw] 300n_192tw_i009 PSO: feasible=0 cost=5537.0 steps=200 t=759192ms
+[300n_192tw] 300n_192tw_i010 PSO: feasible=0 cost=4908.0 steps=200 t=537541ms
+[300n_192tw] 300n_192tw_i011 PSO: feasible=0 cost=5466.0 steps=200 t=463058ms
+[300n_192tw] 300n_192tw_i012 PSO: feasible=0 cost=5183.0 steps=200 t=787094ms
+[300n_192tw] 300n_192tw_i013 PSO: feasible=0 cost=5351.0 steps=200 t=563471ms
+[300n_192tw] 300n_192tw_i014 PSO: feasible=0 cost=5121.0 steps=200 t=707846ms
+[300n_192tw] 300n_192tw_i015 PSO: feasible=0 cost=5044.0 steps=200 t=636941ms
+[300n_192tw] 300n_192tw_i016 PSO: feasible=0 cost=5143.0 steps=200 t=870161ms
+[300n_192tw] 300n_192tw_i017 PSO: feasible=0 cost=4883.0 steps=200 t=626835ms
+[300n_192tw] 300n_192tw_i018 PSO: feasible=0 cost=4906.0 steps=200 t=709684ms
+[300n_192tw] 300n_192tw_i019 PSO: feasible=0 cost=4999.0 steps=200 t=454557ms
+[300n_192tw] 300n_192tw_i020 PSO: feasible=0 cost=5395.0 steps=200 t=536530ms
+[300n_192tw] 300n_192tw_i021 PSO: feasible=0 cost=5245.0 steps=200 t=446548ms
+[300n_192tw] 300n_192tw_i022 PSO: feasible=0 cost=4857.0 steps=200 t=425988ms
+[300n_192tw] 300n_192tw_i023 PSO: feasible=0 cost=5129.0 steps=200 t=457021ms
+[300n_192tw] 300n_192tw_i024 PSO: feasible=0 cost=5007.0 steps=200 t=638566ms
+[300n_192tw] 300n_192tw_i025 PSO: feasible=0 cost=5032.0 steps=200 t=422297ms
+[300n_192tw] 300n_192tw_i026 PSO: feasible=0 cost=5265.0 steps=200 t=590560ms
+[300n_192tw] 300n_192tw_i027 PSO: feasible=0 cost=5192.0 steps=200 t=435065ms
+[300n_192tw] 300n_192tw_i028 PSO: feasible=0 cost=4988.0 steps=200 t=542894ms
+[300n_192tw] 300n_192tw_i029 PSO: feasible=0 cost=4940.0 steps=200 t=528464ms
+
+=== 汇总（pass rate / fitness / 条件成本 / gap / 平均时间） ===
+  300n_192tw              PSO | pass=0.000 | fit=0.0381 | cost(feas)=nan | gap=nan% (n=0) | time=618069.7ms
+写出: C:\Users\26659\Desktop\ASOC测试\test\results\_jobs\exp6ext_PSO\extrap_per_instance.csv
+写出: C:\Users\26659\Desktop\ASOC测试\test\results\_jobs\exp6ext_PSO\extrap_summary.csv

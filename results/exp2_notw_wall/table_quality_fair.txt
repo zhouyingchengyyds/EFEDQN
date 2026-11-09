@@ -1,0 +1,9 @@
+scale                 method     gap%  cost(feas)   pass  time(s)
+  n10 EFEDQN-noTW[wall=10.0s]     8.79      206.39  0.980   10.364
+  n10          Gurobi(exact)     0.00      193.84  1.000    0.256
+  n20 EFEDQN-noTW[wall=10.0s]    14.18      378.82  1.000   10.399
+  n20          Gurobi(exact)     0.00      333.80  1.000    2.835
+  n30 EFEDQN-noTW[wall=10.0s]    11.68      436.46  1.000   10.550
+  n30          Gurobi(exact)     0.00      391.52  1.000    9.656
+  n50 EFEDQN-noTW[wall=10.0s]    23.79      767.66  1.000   10.612
+  n50          Gurobi(exact)     0.00      622.92  1.000  228.523

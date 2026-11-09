@@ -1,0 +1,1 @@
+每epoch的实例数200000,训练100epoch,动态batch_size=64，rollout=8

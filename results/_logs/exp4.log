@@ -1,0 +1,697 @@
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i000] p=0.25,closure reenc=0/68.8ms frozen=0/73.2ms rh=1/7107.8ms
+[disrupt_i000] p=0.25,window reenc=1/67.5ms frozen=0/75.1ms rh=1/7643.4ms
+[disrupt_i000] p=0.5,closure reenc=1/68.8ms frozen=0/71.6ms rh=1/5926.9ms
+[disrupt_i000] p=0.5,window reenc=1/73.5ms frozen=0/71.2ms rh=1/5667.6ms
+[disrupt_i000] p=0.75,closure reenc=1/66.4ms frozen=0/72.2ms rh=1/3855.1ms
+[disrupt_i000] p=0.75,window reenc=1/76.2ms frozen=0/66.8ms rh=1/3675.0ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i001] p=0.25,closure reenc=1/71.2ms frozen=0/67.1ms rh=1/4765.3ms
+[disrupt_i001] p=0.25,window reenc=1/66.1ms frozen=0/67.2ms rh=1/4934.8ms
+[disrupt_i001] p=0.5,closure reenc=1/70.8ms frozen=0/71.8ms rh=1/4005.2ms
+[disrupt_i001] p=0.5,window reenc=1/70.6ms frozen=0/72.9ms rh=1/3859.9ms
+[disrupt_i001] p=0.75,closure reenc=0/74.1ms frozen=0/70.0ms rh=1/2001.9ms
+[disrupt_i001] p=0.75,window reenc=1/70.9ms frozen=0/77.1ms rh=1/3160.1ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i002] p=0.25,closure reenc=1/77.5ms frozen=0/67.9ms rh=1/6220.3ms
+[disrupt_i002] p=0.25,window reenc=1/75.5ms frozen=0/66.4ms rh=1/5967.4ms
+[disrupt_i002] p=0.5,closure reenc=1/73.9ms frozen=0/70.0ms rh=1/2689.2ms
+[disrupt_i002] p=0.5,window reenc=1/68.2ms frozen=0/66.4ms rh=1/2790.3ms
+[disrupt_i002] p=0.75,closure reenc=1/64.8ms frozen=0/77.0ms rh=1/999.3ms
+[disrupt_i002] p=0.75,window reenc=1/66.5ms frozen=0/68.0ms rh=1/1098.1ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i003] p=0.25,closure reenc=1/70.1ms frozen=0/67.6ms rh=1/5595.9ms
+[disrupt_i003] p=0.25,window reenc=1/70.2ms frozen=0/67.4ms rh=1/5693.7ms
+[disrupt_i003] p=0.5,closure reenc=1/67.1ms frozen=0/68.6ms rh=1/4761.7ms
+[disrupt_i003] p=0.5,window reenc=1/70.7ms frozen=0/68.9ms rh=1/4978.8ms
+[disrupt_i003] p=0.75,closure reenc=0/70.6ms frozen=0/73.5ms rh=1/2277.6ms
+[disrupt_i003] p=0.75,window reenc=1/70.6ms frozen=0/69.4ms rh=1/2317.6ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i004] p=0.25,closure reenc=1/73.0ms frozen=0/73.4ms rh=1/4357.9ms
+[disrupt_i004] p=0.25,window reenc=1/68.8ms frozen=0/75.5ms rh=1/4573.2ms
+[disrupt_i004] p=0.5,closure reenc=1/69.1ms frozen=0/71.7ms rh=1/2614.4ms
+[disrupt_i004] p=0.5,window reenc=1/69.7ms frozen=0/75.6ms rh=1/2658.9ms
+[disrupt_i004] p=0.75,closure reenc=0/69.5ms frozen=0/69.5ms rh=1/581.7ms
+[disrupt_i004] p=0.75,window reenc=1/69.8ms frozen=0/71.3ms rh=1/580.7ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i005] p=0.25,closure reenc=1/67.5ms frozen=0/70.2ms rh=1/7027.7ms
+[disrupt_i005] p=0.25,window reenc=1/66.0ms frozen=0/71.6ms rh=1/6608.2ms
+[disrupt_i005] p=0.5,closure reenc=1/70.9ms frozen=0/68.8ms rh=1/4105.8ms
+[disrupt_i005] p=0.5,window reenc=1/66.6ms frozen=0/78.5ms rh=1/3985.8ms
+[disrupt_i005] p=0.75,closure reenc=1/66.8ms frozen=0/70.4ms rh=1/1131.1ms
+[disrupt_i005] p=0.75,window reenc=1/67.6ms frozen=0/75.8ms rh=1/1056.9ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i006] p=0.25,closure reenc=1/68.6ms frozen=0/70.1ms rh=1/5066.0ms
+[disrupt_i006] p=0.25,window reenc=1/73.4ms frozen=0/70.9ms rh=1/4655.0ms
+[disrupt_i006] p=0.5,closure reenc=0/72.0ms frozen=0/70.4ms rh=1/3049.6ms
+[disrupt_i006] p=0.5,window reenc=1/69.4ms frozen=0/74.0ms rh=1/3082.3ms
+[disrupt_i006] p=0.75,closure reenc=0/70.7ms frozen=0/71.5ms rh=1/653.8ms
+[disrupt_i006] p=0.75,window reenc=1/73.1ms frozen=0/68.5ms rh=1/680.6ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i007] p=0.25,closure reenc=0/70.9ms frozen=0/71.0ms rh=1/6173.3ms
+[disrupt_i007] p=0.25,window reenc=1/79.2ms frozen=0/72.0ms rh=1/6119.5ms
+[disrupt_i007] p=0.5,closure reenc=1/74.4ms frozen=0/68.9ms rh=1/3993.9ms
+[disrupt_i007] p=0.5,window reenc=1/78.1ms frozen=0/73.7ms rh=1/3860.9ms
+[disrupt_i007] p=0.75,closure reenc=1/72.7ms frozen=0/76.8ms rh=1/2202.0ms
+[disrupt_i007] p=0.75,window reenc=1/79.0ms frozen=0/70.7ms rh=1/2237.0ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i008] p=0.25,closure reenc=1/68.2ms frozen=0/81.7ms rh=1/6932.8ms
+[disrupt_i008] p=0.25,window reenc=1/71.5ms frozen=0/70.5ms rh=1/6782.3ms
+[disrupt_i008] p=0.5,closure reenc=0/67.7ms frozen=0/75.1ms rh=1/4261.5ms
+[disrupt_i008] p=0.5,window reenc=1/101.9ms frozen=0/76.3ms rh=1/4142.9ms
+[disrupt_i008] p=0.75,closure reenc=0/64.5ms frozen=0/77.2ms rh=1/1087.3ms
+[disrupt_i008] p=0.75,window reenc=1/72.0ms frozen=0/70.5ms rh=1/1096.9ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i009] p=0.25,closure reenc=0/70.1ms frozen=0/72.9ms rh=1/6600.2ms
+[disrupt_i009] p=0.25,window reenc=1/68.0ms frozen=0/68.7ms rh=1/6380.1ms
+[disrupt_i009] p=0.5,closure reenc=1/69.3ms frozen=0/76.9ms rh=1/4922.7ms
+[disrupt_i009] p=0.5,window reenc=1/71.7ms frozen=0/72.0ms rh=1/5252.3ms
+[disrupt_i009] p=0.75,closure reenc=1/68.8ms frozen=0/67.1ms rh=1/1993.3ms
+[disrupt_i009] p=0.75,window reenc=1/69.9ms frozen=0/68.0ms rh=1/1922.4ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i010] p=0.25,closure reenc=0/69.9ms frozen=0/69.9ms rh=1/6210.5ms
+[disrupt_i010] p=0.25,window reenc=1/67.1ms frozen=0/69.3ms rh=1/5286.0ms
+[disrupt_i010] p=0.5,closure reenc=1/70.6ms frozen=0/69.6ms rh=1/4964.1ms
+[disrupt_i010] p=0.5,window reenc=1/71.1ms frozen=0/71.9ms rh=1/5013.8ms
+[disrupt_i010] p=0.75,closure reenc=0/70.2ms frozen=0/72.2ms rh=1/1678.3ms
+[disrupt_i010] p=0.75,window reenc=1/71.3ms frozen=0/72.4ms rh=1/1789.9ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i011] p=0.25,closure reenc=0/70.9ms frozen=0/71.5ms rh=1/5427.1ms
+[disrupt_i011] p=0.25,window reenc=1/70.7ms frozen=0/70.6ms rh=1/5864.6ms
+[disrupt_i011] p=0.5,closure reenc=0/71.9ms frozen=0/72.1ms rh=1/2747.7ms
+[disrupt_i011] p=0.5,window reenc=1/68.5ms frozen=0/70.6ms rh=1/2743.5ms
+[disrupt_i011] p=0.75,closure reenc=0/69.4ms frozen=0/69.9ms rh=1/1152.7ms
+[disrupt_i011] p=0.75,window reenc=1/68.9ms frozen=0/67.8ms rh=1/1250.1ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i012] p=0.25,closure reenc=1/67.7ms frozen=0/67.7ms rh=1/5532.7ms
+[disrupt_i012] p=0.25,window reenc=1/69.7ms frozen=0/71.0ms rh=1/4996.2ms
+[disrupt_i012] p=0.5,closure reenc=1/66.2ms frozen=0/67.2ms rh=0/2445.6ms
+[disrupt_i012] p=0.5,window reenc=1/70.6ms frozen=0/70.0ms rh=0/2859.7ms
+[disrupt_i012] p=0.75,closure reenc=0/77.0ms frozen=0/69.9ms rh=0/208.7ms
+[disrupt_i012] p=0.75,window reenc=1/70.1ms frozen=0/72.8ms rh=0/212.6ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i013] p=0.25,closure reenc=1/70.0ms frozen=0/73.5ms rh=1/3196.0ms
+[disrupt_i013] p=0.25,window reenc=1/67.6ms frozen=0/69.6ms rh=1/3265.6ms
+[disrupt_i013] p=0.5,closure reenc=1/65.3ms frozen=0/70.7ms rh=1/734.5ms
+[disrupt_i013] p=0.5,window reenc=1/64.7ms frozen=0/72.1ms rh=1/765.6ms
+[disrupt_i013] p=0.75,closure reenc=1/68.2ms frozen=0/71.1ms rh=1/808.7ms
+[disrupt_i013] p=0.75,window reenc=1/70.9ms frozen=0/73.7ms rh=1/865.4ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i014] p=0.25,closure reenc=1/69.9ms frozen=0/70.8ms rh=1/6100.1ms
+[disrupt_i014] p=0.25,window reenc=1/72.6ms frozen=0/72.0ms rh=1/6928.7ms
+[disrupt_i014] p=0.5,closure reenc=0/69.5ms frozen=0/71.4ms rh=1/3948.1ms
+[disrupt_i014] p=0.5,window reenc=1/69.1ms frozen=0/69.3ms rh=1/3884.8ms
+[disrupt_i014] p=0.75,closure reenc=1/70.6ms frozen=0/75.0ms rh=1/1592.4ms
+[disrupt_i014] p=0.75,window reenc=1/66.3ms frozen=0/68.8ms rh=1/1497.3ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i015] p=0.25,closure reenc=1/66.6ms frozen=0/73.4ms rh=1/6733.9ms
+[disrupt_i015] p=0.25,window reenc=1/65.7ms frozen=0/69.7ms rh=1/6014.9ms
+[disrupt_i015] p=0.5,closure reenc=1/66.3ms frozen=0/66.2ms rh=1/5455.5ms
+[disrupt_i015] p=0.5,window reenc=1/71.8ms frozen=0/73.5ms rh=1/5384.4ms
+[disrupt_i015] p=0.75,closure reenc=1/68.3ms frozen=0/67.0ms rh=1/984.0ms
+[disrupt_i015] p=0.75,window reenc=1/70.0ms frozen=0/73.8ms rh=1/1167.1ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i016] p=0.25,closure reenc=0/69.2ms frozen=0/72.1ms rh=1/6382.2ms
+[disrupt_i016] p=0.25,window reenc=1/86.6ms frozen=0/69.9ms rh=1/6469.0ms
+[disrupt_i016] p=0.5,closure reenc=1/70.4ms frozen=0/69.7ms rh=1/5827.8ms
+[disrupt_i016] p=0.5,window reenc=1/73.6ms frozen=0/72.1ms rh=1/5305.1ms
+[disrupt_i016] p=0.75,closure reenc=1/67.1ms frozen=0/69.5ms rh=1/1927.6ms
+[disrupt_i016] p=0.75,window reenc=1/70.7ms frozen=0/67.2ms rh=1/1988.4ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i017] 计划不可行, 跳过扰动
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i018] p=0.25,closure reenc=1/71.8ms frozen=0/70.6ms rh=1/6204.4ms
+[disrupt_i018] p=0.25,window reenc=1/69.5ms frozen=0/69.8ms rh=0/2916.3ms
+[disrupt_i018] p=0.5,closure reenc=1/69.8ms frozen=0/68.9ms rh=1/5083.7ms
+[disrupt_i018] p=0.5,window reenc=1/68.0ms frozen=0/74.3ms rh=1/5204.7ms
+[disrupt_i018] p=0.75,closure reenc=1/70.3ms frozen=0/69.8ms rh=1/3030.0ms
+[disrupt_i018] p=0.75,window reenc=1/67.6ms frozen=0/70.8ms rh=1/2810.2ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i019] p=0.25,closure reenc=1/71.5ms frozen=0/74.8ms rh=1/5659.3ms
+[disrupt_i019] p=0.25,window reenc=1/79.0ms frozen=0/72.0ms rh=1/5863.2ms
+[disrupt_i019] p=0.5,closure reenc=1/72.0ms frozen=0/69.0ms rh=1/5566.4ms
+[disrupt_i019] p=0.5,window reenc=1/71.8ms frozen=0/72.0ms rh=1/5290.3ms
+[disrupt_i019] p=0.75,closure reenc=0/69.7ms frozen=0/71.6ms rh=1/1118.6ms
+[disrupt_i019] p=0.75,window reenc=1/69.9ms frozen=0/72.7ms rh=1/1090.1ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i020] p=0.25,closure reenc=1/70.4ms frozen=0/70.8ms rh=1/6615.0ms
+[disrupt_i020] p=0.25,window reenc=1/70.7ms frozen=0/68.2ms rh=1/5358.5ms
+[disrupt_i020] p=0.5,closure reenc=1/69.2ms frozen=0/70.1ms rh=1/3146.9ms
+[disrupt_i020] p=0.5,window reenc=1/73.3ms frozen=0/74.8ms rh=1/3197.4ms
+[disrupt_i020] p=0.75,closure reenc=1/71.2ms frozen=0/71.5ms rh=1/686.3ms
+[disrupt_i020] p=0.75,window reenc=1/70.3ms frozen=0/70.5ms rh=1/682.7ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i021] 计划不可行, 跳过扰动
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i022] p=0.25,closure reenc=1/69.9ms frozen=0/70.2ms rh=1/6566.5ms
+[disrupt_i022] p=0.25,window reenc=1/70.2ms frozen=0/72.4ms rh=1/6510.3ms
+[disrupt_i022] p=0.5,closure reenc=0/67.1ms frozen=0/74.1ms rh=0/4241.0ms
+[disrupt_i022] p=0.5,window reenc=1/75.9ms frozen=0/75.1ms rh=1/5204.5ms
+[disrupt_i022] p=0.75,closure reenc=1/71.0ms frozen=0/80.0ms rh=1/979.6ms
+[disrupt_i022] p=0.75,window reenc=1/77.1ms frozen=0/72.4ms rh=1/961.9ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i023] p=0.25,closure reenc=1/66.5ms frozen=0/70.7ms rh=1/6145.8ms
+[disrupt_i023] p=0.25,window reenc=1/74.1ms frozen=0/71.2ms rh=1/6690.5ms
+[disrupt_i023] p=0.5,closure reenc=1/70.0ms frozen=0/70.0ms rh=1/5036.9ms
+[disrupt_i023] p=0.5,window reenc=1/70.1ms frozen=0/72.5ms rh=1/4345.9ms
+[disrupt_i023] p=0.75,closure reenc=1/70.4ms frozen=0/68.1ms rh=1/4771.6ms
+[disrupt_i023] p=0.75,window reenc=1/77.4ms frozen=0/77.8ms rh=1/4714.5ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i024] p=0.25,closure reenc=0/74.6ms frozen=0/68.9ms rh=0/594.0ms
+[disrupt_i024] p=0.25,window reenc=1/65.9ms frozen=0/75.4ms rh=0/573.6ms
+[disrupt_i024] p=0.5,closure reenc=1/69.2ms frozen=0/74.0ms rh=0/414.9ms
+[disrupt_i024] p=0.5,window reenc=1/71.6ms frozen=0/74.4ms rh=0/408.0ms
+[disrupt_i024] p=0.75,closure reenc=1/66.5ms frozen=0/71.4ms rh=1/1939.4ms
+[disrupt_i024] p=0.75,window reenc=1/67.8ms frozen=0/69.6ms rh=1/1836.8ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i025] p=0.25,closure reenc=1/75.4ms frozen=0/72.8ms rh=1/7792.8ms
+[disrupt_i025] p=0.25,window reenc=1/68.2ms frozen=0/74.5ms rh=1/7731.1ms
+[disrupt_i025] p=0.5,closure reenc=1/69.6ms frozen=0/74.5ms rh=1/5159.9ms
+[disrupt_i025] p=0.5,window reenc=1/69.0ms frozen=0/72.5ms rh=1/5369.5ms
+[disrupt_i025] p=0.75,closure reenc=0/71.3ms frozen=0/73.2ms rh=1/2253.5ms
+[disrupt_i025] p=0.75,window reenc=1/71.6ms frozen=0/70.1ms rh=1/2475.7ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i026] p=0.25,closure reenc=0/71.4ms frozen=0/71.3ms rh=0/618.6ms
+[disrupt_i026] p=0.25,window reenc=1/71.1ms frozen=0/71.9ms rh=0/624.4ms
+[disrupt_i026] p=0.5,closure reenc=1/67.4ms frozen=0/71.6ms rh=1/4024.3ms
+[disrupt_i026] p=0.5,window reenc=1/69.0ms frozen=0/72.3ms rh=1/3997.6ms
+[disrupt_i026] p=0.75,closure reenc=1/74.4ms frozen=0/71.7ms rh=1/3856.0ms
+[disrupt_i026] p=0.75,window reenc=1/66.6ms frozen=0/75.1ms rh=1/3858.3ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i027] p=0.25,closure reenc=1/72.4ms frozen=0/73.1ms rh=1/5917.8ms
+[disrupt_i027] p=0.25,window reenc=1/71.7ms frozen=0/74.1ms rh=1/5943.1ms
+[disrupt_i027] p=0.5,closure reenc=1/67.2ms frozen=0/73.4ms rh=1/3833.6ms
+[disrupt_i027] p=0.5,window reenc=1/73.5ms frozen=0/75.7ms rh=1/3985.2ms
+[disrupt_i027] p=0.75,closure reenc=1/70.7ms frozen=0/68.4ms rh=1/2460.0ms
+[disrupt_i027] p=0.75,window reenc=1/70.6ms frozen=0/76.9ms rh=1/2294.2ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i028] p=0.25,closure reenc=1/71.7ms frozen=0/68.4ms rh=1/5056.9ms
+[disrupt_i028] p=0.25,window reenc=1/68.7ms frozen=0/73.2ms rh=1/4974.6ms
+[disrupt_i028] p=0.5,closure reenc=1/72.0ms frozen=0/70.5ms rh=1/3750.2ms
+[disrupt_i028] p=0.5,window reenc=1/70.6ms frozen=0/70.2ms rh=1/3242.5ms
+[disrupt_i028] p=0.75,closure reenc=0/74.3ms frozen=0/72.5ms rh=1/1525.1ms
+[disrupt_i028] p=0.75,window reenc=1/69.7ms frozen=0/72.0ms rh=1/1555.5ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i029] p=0.25,closure reenc=0/75.6ms frozen=0/72.7ms rh=1/5507.8ms
+[disrupt_i029] p=0.25,window reenc=1/71.8ms frozen=0/73.2ms rh=1/5534.8ms
+[disrupt_i029] p=0.5,closure reenc=1/76.0ms frozen=0/74.8ms rh=1/3689.3ms
+[disrupt_i029] p=0.5,window reenc=1/69.6ms frozen=0/72.3ms rh=1/3630.0ms
+[disrupt_i029] p=0.75,closure reenc=1/68.7ms frozen=0/70.6ms rh=1/1319.7ms
+[disrupt_i029] p=0.75,window reenc=1/69.5ms frozen=0/71.9ms rh=1/1302.6ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i030] p=0.25,closure reenc=1/67.5ms frozen=0/66.9ms rh=1/6213.0ms
+[disrupt_i030] p=0.25,window reenc=1/66.9ms frozen=0/69.5ms rh=1/6582.3ms
+[disrupt_i030] p=0.5,closure reenc=1/71.1ms frozen=0/69.8ms rh=1/3097.0ms
+[disrupt_i030] p=0.5,window reenc=1/68.2ms frozen=0/79.3ms rh=1/3343.4ms
+[disrupt_i030] p=0.75,closure reenc=1/71.0ms frozen=0/72.5ms rh=1/1485.4ms
+[disrupt_i030] p=0.75,window reenc=1/69.7ms frozen=0/75.4ms rh=1/1600.1ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i031] p=0.25,closure reenc=1/69.9ms frozen=0/76.5ms rh=1/6240.5ms
+[disrupt_i031] p=0.25,window reenc=1/71.1ms frozen=0/71.3ms rh=1/6869.9ms
+[disrupt_i031] p=0.5,closure reenc=1/68.0ms frozen=0/68.9ms rh=1/5225.7ms
+[disrupt_i031] p=0.5,window reenc=1/67.3ms frozen=0/68.3ms rh=1/5313.6ms
+[disrupt_i031] p=0.75,closure reenc=1/71.6ms frozen=0/74.8ms rh=1/3231.6ms
+[disrupt_i031] p=0.75,window reenc=1/69.7ms frozen=0/70.1ms rh=1/2921.3ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i032] p=0.25,closure reenc=1/70.0ms frozen=0/70.7ms rh=1/5620.1ms
+[disrupt_i032] p=0.25,window reenc=1/70.4ms frozen=0/70.6ms rh=1/5892.0ms
+[disrupt_i032] p=0.5,closure reenc=1/69.5ms frozen=0/74.9ms rh=1/3766.3ms
+[disrupt_i032] p=0.5,window reenc=1/72.5ms frozen=0/72.1ms rh=1/3698.7ms
+[disrupt_i032] p=0.75,closure reenc=1/69.7ms frozen=0/74.6ms rh=1/870.8ms
+[disrupt_i032] p=0.75,window reenc=1/73.6ms frozen=0/74.3ms rh=1/842.4ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i033] p=0.25,closure reenc=1/71.5ms frozen=0/72.4ms rh=1/6050.7ms
+[disrupt_i033] p=0.25,window reenc=1/68.5ms frozen=0/70.2ms rh=1/6125.3ms
+[disrupt_i033] p=0.5,closure reenc=1/72.2ms frozen=0/70.8ms rh=1/4940.2ms
+[disrupt_i033] p=0.5,window reenc=1/70.2ms frozen=0/69.7ms rh=1/3969.5ms
+[disrupt_i033] p=0.75,closure reenc=1/67.8ms frozen=0/71.3ms rh=1/887.0ms
+[disrupt_i033] p=0.75,window reenc=1/71.2ms frozen=0/71.1ms rh=1/877.0ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i034] p=0.25,closure reenc=1/71.5ms frozen=0/74.1ms rh=1/4683.7ms
+[disrupt_i034] p=0.25,window reenc=1/72.1ms frozen=0/74.9ms rh=1/4416.6ms
+[disrupt_i034] p=0.5,closure reenc=1/66.5ms frozen=0/71.1ms rh=1/3235.4ms
+[disrupt_i034] p=0.5,window reenc=1/72.3ms frozen=0/73.8ms rh=1/3168.3ms
+[disrupt_i034] p=0.75,closure reenc=1/68.8ms frozen=0/75.6ms rh=1/696.7ms
+[disrupt_i034] p=0.75,window reenc=1/71.2ms frozen=0/74.5ms rh=1/829.5ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i035] p=0.25,closure reenc=1/73.8ms frozen=0/73.7ms rh=1/6069.4ms
+[disrupt_i035] p=0.25,window reenc=1/69.3ms frozen=0/74.8ms rh=1/5968.8ms
+[disrupt_i035] p=0.5,closure reenc=1/71.5ms frozen=0/75.1ms rh=1/3983.6ms
+[disrupt_i035] p=0.5,window reenc=1/69.6ms frozen=0/72.2ms rh=1/3787.8ms
+[disrupt_i035] p=0.75,closure reenc=1/71.4ms frozen=0/73.9ms rh=1/1595.8ms
+[disrupt_i035] p=0.75,window reenc=1/70.7ms frozen=0/75.0ms rh=1/1568.7ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i036] p=0.25,closure reenc=1/69.5ms frozen=0/73.8ms rh=1/6107.8ms
+[disrupt_i036] p=0.25,window reenc=1/72.9ms frozen=0/71.9ms rh=1/5942.8ms
+[disrupt_i036] p=0.5,closure reenc=1/71.8ms frozen=0/70.2ms rh=1/5029.2ms
+[disrupt_i036] p=0.5,window reenc=1/74.6ms frozen=0/72.6ms rh=1/4822.0ms
+[disrupt_i036] p=0.75,closure reenc=1/68.4ms frozen=0/71.0ms rh=1/1067.0ms
+[disrupt_i036] p=0.75,window reenc=1/72.3ms frozen=0/72.3ms rh=1/1284.1ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i037] p=0.25,closure reenc=1/65.4ms frozen=0/72.4ms rh=1/6316.5ms
+[disrupt_i037] p=0.25,window reenc=1/70.5ms frozen=0/72.6ms rh=1/6226.8ms
+[disrupt_i037] p=0.5,closure reenc=1/86.4ms frozen=0/72.8ms rh=1/2985.1ms
+[disrupt_i037] p=0.5,window reenc=1/95.2ms frozen=0/73.0ms rh=1/3020.4ms
+[disrupt_i037] p=0.75,closure reenc=1/70.9ms frozen=0/77.7ms rh=1/2193.5ms
+[disrupt_i037] p=0.75,window reenc=1/75.5ms frozen=0/67.8ms rh=1/2262.0ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i038] p=0.25,closure reenc=1/64.9ms frozen=0/73.3ms rh=1/6182.0ms
+[disrupt_i038] p=0.25,window reenc=1/77.4ms frozen=0/69.5ms rh=1/6222.0ms
+[disrupt_i038] p=0.5,closure reenc=1/69.6ms frozen=0/73.2ms rh=1/3996.1ms
+[disrupt_i038] p=0.5,window reenc=1/64.8ms frozen=0/67.5ms rh=1/3423.3ms
+[disrupt_i038] p=0.75,closure reenc=1/68.0ms frozen=0/73.0ms rh=1/1665.6ms
+[disrupt_i038] p=0.75,window reenc=1/68.8ms frozen=0/69.3ms rh=1/1563.5ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i039] p=0.25,closure reenc=1/69.2ms frozen=0/76.9ms rh=1/6006.7ms
+[disrupt_i039] p=0.25,window reenc=1/66.0ms frozen=0/70.6ms rh=1/6365.6ms
+[disrupt_i039] p=0.5,closure reenc=1/105.5ms frozen=0/67.7ms rh=1/4706.2ms
+[disrupt_i039] p=0.5,window reenc=1/68.8ms frozen=0/70.0ms rh=1/4426.2ms
+[disrupt_i039] p=0.75,closure reenc=1/69.3ms frozen=0/71.1ms rh=1/3950.8ms
+[disrupt_i039] p=0.75,window reenc=1/67.9ms frozen=0/68.0ms rh=1/3984.8ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i040] p=0.25,closure reenc=0/70.8ms frozen=0/70.8ms rh=1/5606.8ms
+[disrupt_i040] p=0.25,window reenc=1/66.8ms frozen=0/72.7ms rh=1/5795.2ms
+[disrupt_i040] p=0.5,closure reenc=1/72.6ms frozen=0/64.1ms rh=1/3693.8ms
+[disrupt_i040] p=0.5,window reenc=1/71.2ms frozen=0/73.3ms rh=1/3778.1ms
+[disrupt_i040] p=0.75,closure reenc=1/67.4ms frozen=0/69.3ms rh=1/2502.6ms
+[disrupt_i040] p=0.75,window reenc=1/69.6ms frozen=0/69.7ms rh=1/2771.0ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i041] p=0.25,closure reenc=1/71.4ms frozen=0/73.6ms rh=1/4332.4ms
+[disrupt_i041] p=0.25,window reenc=1/68.7ms frozen=0/73.9ms rh=1/4583.1ms
+[disrupt_i041] p=0.5,closure reenc=1/76.5ms frozen=0/70.7ms rh=1/3231.3ms
+[disrupt_i041] p=0.5,window reenc=1/70.1ms frozen=0/71.9ms rh=1/3454.6ms
+[disrupt_i041] p=0.75,closure reenc=1/72.7ms frozen=0/73.0ms rh=1/942.8ms
+[disrupt_i041] p=0.75,window reenc=1/72.1ms frozen=0/72.2ms rh=1/877.5ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i042] p=0.25,closure reenc=1/75.6ms frozen=0/70.9ms rh=1/6968.8ms
+[disrupt_i042] p=0.25,window reenc=1/70.6ms frozen=0/75.3ms rh=1/7025.0ms
+[disrupt_i042] p=0.5,closure reenc=1/72.8ms frozen=0/74.7ms rh=1/5356.4ms
+[disrupt_i042] p=0.5,window reenc=1/77.2ms frozen=0/71.2ms rh=1/5371.8ms
+[disrupt_i042] p=0.75,closure reenc=0/102.9ms frozen=0/71.4ms rh=1/1424.6ms
+[disrupt_i042] p=0.75,window reenc=1/69.4ms frozen=0/74.6ms rh=1/1458.3ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i043] p=0.25,closure reenc=0/76.6ms frozen=0/75.1ms rh=1/5894.9ms
+[disrupt_i043] p=0.25,window reenc=1/73.9ms frozen=0/78.9ms rh=1/5849.6ms
+[disrupt_i043] p=0.5,closure reenc=1/69.7ms frozen=0/71.7ms rh=1/4704.9ms
+[disrupt_i043] p=0.5,window reenc=1/78.2ms frozen=0/118.8ms rh=1/5254.8ms
+[disrupt_i043] p=0.75,closure reenc=0/69.2ms frozen=0/69.8ms rh=1/3334.3ms
+[disrupt_i043] p=0.75,window reenc=1/73.2ms frozen=0/75.0ms rh=1/3272.4ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i044] p=0.25,closure reenc=1/65.6ms frozen=0/65.6ms rh=1/4784.3ms
+[disrupt_i044] p=0.25,window reenc=1/64.3ms frozen=0/71.3ms rh=1/4926.2ms
+[disrupt_i044] p=0.5,closure reenc=1/68.3ms frozen=0/71.2ms rh=0/1577.9ms
+[disrupt_i044] p=0.5,window reenc=1/62.6ms frozen=0/68.0ms rh=0/1521.4ms
+[disrupt_i044] p=0.75,closure reenc=0/63.0ms frozen=0/67.1ms rh=1/467.1ms
+[disrupt_i044] p=0.75,window reenc=1/69.0ms frozen=0/67.7ms rh=1/441.4ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i045] p=0.25,closure reenc=1/66.5ms frozen=0/65.8ms rh=1/4439.4ms
+[disrupt_i045] p=0.25,window reenc=1/61.5ms frozen=0/64.3ms rh=1/4961.3ms
+[disrupt_i045] p=0.5,closure reenc=1/65.1ms frozen=0/69.7ms rh=1/3705.7ms
+[disrupt_i045] p=0.5,window reenc=1/68.7ms frozen=0/64.2ms rh=1/3552.1ms
+[disrupt_i045] p=0.75,closure reenc=1/69.1ms frozen=0/73.2ms rh=1/1214.9ms
+[disrupt_i045] p=0.75,window reenc=1/80.1ms frozen=0/64.5ms rh=1/953.1ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i046] p=0.25,closure reenc=1/77.0ms frozen=0/74.1ms rh=1/6612.3ms
+[disrupt_i046] p=0.25,window reenc=1/77.6ms frozen=0/75.2ms rh=1/6966.3ms
+[disrupt_i046] p=0.5,closure reenc=1/71.0ms frozen=0/74.5ms rh=1/3469.7ms
+[disrupt_i046] p=0.5,window reenc=1/62.6ms frozen=0/62.2ms rh=1/3099.7ms
+[disrupt_i046] p=0.75,closure reenc=1/56.7ms frozen=0/53.7ms rh=1/906.8ms
+[disrupt_i046] p=0.75,window reenc=1/63.0ms frozen=0/61.7ms rh=1/1068.2ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i047] p=0.25,closure reenc=1/59.3ms frozen=0/63.3ms rh=1/6280.4ms
+[disrupt_i047] p=0.25,window reenc=1/62.3ms frozen=0/58.3ms rh=1/5117.4ms
+[disrupt_i047] p=0.5,closure reenc=1/55.7ms frozen=0/53.9ms rh=1/2487.7ms
+[disrupt_i047] p=0.5,window reenc=1/56.6ms frozen=0/55.0ms rh=1/2375.5ms
+[disrupt_i047] p=0.75,closure reenc=0/55.9ms frozen=0/57.8ms rh=1/764.1ms
+[disrupt_i047] p=0.75,window reenc=1/59.6ms frozen=0/56.3ms rh=1/820.4ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i048] p=0.25,closure reenc=0/58.5ms frozen=0/55.1ms rh=1/6086.5ms
+[disrupt_i048] p=0.25,window reenc=1/57.8ms frozen=0/54.6ms rh=1/6019.5ms
+[disrupt_i048] p=0.5,closure reenc=0/49.1ms frozen=0/57.6ms rh=1/3207.2ms
+[disrupt_i048] p=0.5,window reenc=1/55.2ms frozen=0/56.2ms rh=1/3284.8ms
+[disrupt_i048] p=0.75,closure reenc=1/55.4ms frozen=0/58.1ms rh=1/936.5ms
+[disrupt_i048] p=0.75,window reenc=1/59.4ms frozen=0/61.6ms rh=1/1121.3ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i049] p=0.25,closure reenc=1/64.7ms frozen=0/65.1ms rh=1/5974.3ms
+[disrupt_i049] p=0.25,window reenc=1/68.8ms frozen=0/65.4ms rh=1/5787.3ms
+[disrupt_i049] p=0.5,closure reenc=1/66.6ms frozen=0/65.2ms rh=1/4429.1ms
+[disrupt_i049] p=0.5,window reenc=1/63.9ms frozen=0/62.0ms rh=1/5427.6ms
+[disrupt_i049] p=0.75,closure reenc=1/63.9ms frozen=0/64.1ms rh=1/1546.8ms
+[disrupt_i049] p=0.75,window reenc=1/65.1ms frozen=0/73.6ms rh=1/1363.5ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i050] p=0.25,closure reenc=1/61.4ms frozen=0/66.2ms rh=1/9798.1ms
+[disrupt_i050] p=0.25,window reenc=1/121.0ms frozen=0/60.3ms rh=1/6451.9ms
+[disrupt_i050] p=0.5,closure reenc=1/69.7ms frozen=0/70.3ms rh=1/2558.3ms
+[disrupt_i050] p=0.5,window reenc=1/68.3ms frozen=0/65.4ms rh=1/2506.2ms
+[disrupt_i050] p=0.75,closure reenc=1/63.5ms frozen=0/63.9ms rh=1/657.9ms
+[disrupt_i050] p=0.75,window reenc=1/63.1ms frozen=0/67.9ms rh=1/629.8ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i051] p=0.25,closure reenc=1/63.9ms frozen=0/75.5ms rh=1/6930.4ms
+[disrupt_i051] p=0.25,window reenc=1/53.3ms frozen=0/58.8ms rh=1/6385.3ms
+[disrupt_i051] p=0.5,closure reenc=1/70.4ms frozen=0/67.2ms rh=1/4524.8ms
+[disrupt_i051] p=0.5,window reenc=1/72.4ms frozen=0/67.7ms rh=1/4695.4ms
+[disrupt_i051] p=0.75,closure reenc=1/70.6ms frozen=0/63.5ms rh=1/1533.8ms
+[disrupt_i051] p=0.75,window reenc=1/69.8ms frozen=0/65.2ms rh=1/1509.2ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i052] p=0.25,closure reenc=1/62.8ms frozen=0/65.2ms rh=1/7838.5ms
+[disrupt_i052] p=0.25,window reenc=1/67.1ms frozen=0/70.9ms rh=1/7732.6ms
+[disrupt_i052] p=0.5,closure reenc=1/67.5ms frozen=0/65.9ms rh=1/5136.6ms
+[disrupt_i052] p=0.5,window reenc=1/65.5ms frozen=0/68.2ms rh=1/5175.4ms
+[disrupt_i052] p=0.75,closure reenc=0/67.5ms frozen=0/76.1ms rh=1/2336.9ms
+[disrupt_i052] p=0.75,window reenc=1/67.9ms frozen=0/77.1ms rh=1/2452.8ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i053] 计划不可行, 跳过扰动
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i054] p=0.25,closure reenc=1/66.5ms frozen=0/70.6ms rh=1/6197.6ms
+[disrupt_i054] p=0.25,window reenc=1/65.4ms frozen=0/68.3ms rh=1/7179.2ms
+[disrupt_i054] p=0.5,closure reenc=1/72.3ms frozen=0/69.4ms rh=1/5145.0ms
+[disrupt_i054] p=0.5,window reenc=1/73.5ms frozen=0/67.1ms rh=1/4135.5ms
+[disrupt_i054] p=0.75,closure reenc=0/68.4ms frozen=0/80.9ms rh=0/0.7ms
+[disrupt_i054] p=0.75,window reenc=1/63.6ms frozen=0/68.8ms rh=1/1389.4ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i055] p=0.25,closure reenc=1/64.9ms frozen=0/64.2ms rh=1/7612.4ms
+[disrupt_i055] p=0.25,window reenc=1/65.1ms frozen=0/59.1ms rh=1/5418.2ms
+[disrupt_i055] p=0.5,closure reenc=1/98.0ms frozen=0/66.4ms rh=1/3357.3ms
+[disrupt_i055] p=0.5,window reenc=1/55.8ms frozen=0/62.7ms rh=1/3334.3ms
+[disrupt_i055] p=0.75,closure reenc=0/61.3ms frozen=0/66.1ms rh=1/836.6ms
+[disrupt_i055] p=0.75,window reenc=1/59.6ms frozen=0/67.9ms rh=1/815.4ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i056] p=0.25,closure reenc=1/67.5ms frozen=0/81.4ms rh=1/6462.5ms
+[disrupt_i056] p=0.25,window reenc=1/67.2ms frozen=0/80.0ms rh=1/6631.4ms
+[disrupt_i056] p=0.5,closure reenc=0/65.0ms frozen=0/66.6ms rh=1/5265.7ms
+[disrupt_i056] p=0.5,window reenc=1/62.9ms frozen=0/76.1ms rh=1/5210.3ms
+[disrupt_i056] p=0.75,closure reenc=1/67.2ms frozen=0/74.0ms rh=1/1450.4ms
+[disrupt_i056] p=0.75,window reenc=1/68.1ms frozen=0/70.9ms rh=1/1478.7ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i057] p=0.25,closure reenc=1/68.4ms frozen=0/72.6ms rh=1/7789.2ms
+[disrupt_i057] p=0.25,window reenc=1/66.8ms frozen=0/75.2ms rh=1/7886.4ms
+[disrupt_i057] p=0.5,closure reenc=0/66.8ms frozen=0/67.6ms rh=1/6736.4ms
+[disrupt_i057] p=0.5,window reenc=1/68.8ms frozen=0/63.8ms rh=1/6945.9ms
+[disrupt_i057] p=0.75,closure reenc=1/62.6ms frozen=0/69.6ms rh=1/2592.7ms
+[disrupt_i057] p=0.75,window reenc=1/67.8ms frozen=0/66.3ms rh=1/2692.0ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i058] p=0.25,closure reenc=1/64.5ms frozen=0/66.8ms rh=1/6648.2ms
+[disrupt_i058] p=0.25,window reenc=1/68.5ms frozen=0/64.4ms rh=1/6583.6ms
+[disrupt_i058] p=0.5,closure reenc=1/68.2ms frozen=0/63.7ms rh=1/3834.8ms
+[disrupt_i058] p=0.5,window reenc=1/67.0ms frozen=0/72.2ms rh=1/4034.7ms
+[disrupt_i058] p=0.75,closure reenc=0/64.8ms frozen=0/69.4ms rh=1/1931.3ms
+[disrupt_i058] p=0.75,window reenc=1/67.3ms frozen=0/66.0ms rh=1/1397.2ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i059] p=0.25,closure reenc=0/65.8ms frozen=0/64.8ms rh=1/6286.0ms
+[disrupt_i059] p=0.25,window reenc=1/72.4ms frozen=0/73.9ms rh=1/6267.9ms
+[disrupt_i059] p=0.5,closure reenc=1/67.8ms frozen=0/69.6ms rh=1/2941.6ms
+[disrupt_i059] p=0.5,window reenc=1/70.2ms frozen=0/72.6ms rh=1/3086.9ms
+[disrupt_i059] p=0.75,closure reenc=0/65.4ms frozen=0/81.6ms rh=1/490.3ms
+[disrupt_i059] p=0.75,window reenc=1/68.4ms frozen=0/69.0ms rh=1/455.8ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i060] p=0.25,closure reenc=1/65.8ms frozen=0/67.9ms rh=1/5455.3ms
+[disrupt_i060] p=0.25,window reenc=1/66.1ms frozen=0/63.6ms rh=1/4708.7ms
+[disrupt_i060] p=0.5,closure reenc=0/60.0ms frozen=0/64.7ms rh=1/2533.4ms
+[disrupt_i060] p=0.5,window reenc=1/63.0ms frozen=0/63.7ms rh=1/2580.1ms
+[disrupt_i060] p=0.75,closure reenc=1/62.2ms frozen=0/58.9ms rh=1/669.2ms
+[disrupt_i060] p=0.75,window reenc=1/67.6ms frozen=0/60.7ms rh=1/880.7ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i061] p=0.25,closure reenc=1/59.6ms frozen=0/64.7ms rh=1/4751.4ms
+[disrupt_i061] p=0.25,window reenc=1/63.2ms frozen=0/60.4ms rh=1/3776.7ms
+[disrupt_i061] p=0.5,closure reenc=1/63.5ms frozen=0/56.2ms rh=1/3735.3ms
+[disrupt_i061] p=0.5,window reenc=1/62.7ms frozen=0/64.9ms rh=1/3868.0ms
+[disrupt_i061] p=0.75,closure reenc=1/57.9ms frozen=0/59.8ms rh=1/639.2ms
+[disrupt_i061] p=0.75,window reenc=1/59.1ms frozen=0/57.5ms rh=1/645.7ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i062] p=0.25,closure reenc=1/67.4ms frozen=0/60.9ms rh=1/5446.3ms
+[disrupt_i062] p=0.25,window reenc=1/60.8ms frozen=0/61.5ms rh=1/6028.3ms
+[disrupt_i062] p=0.5,closure reenc=1/61.2ms frozen=0/57.3ms rh=1/4269.3ms
+[disrupt_i062] p=0.5,window reenc=1/60.4ms frozen=0/61.5ms rh=1/4331.9ms
+[disrupt_i062] p=0.75,closure reenc=0/60.2ms frozen=0/63.0ms rh=1/2580.1ms
+[disrupt_i062] p=0.75,window reenc=1/63.9ms frozen=0/69.0ms rh=1/2727.1ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i063] p=0.25,closure reenc=1/57.5ms frozen=0/59.9ms rh=1/6943.6ms
+[disrupt_i063] p=0.25,window reenc=1/69.1ms frozen=0/59.1ms rh=1/6629.6ms
+[disrupt_i063] p=0.5,closure reenc=1/63.4ms frozen=0/61.8ms rh=1/3819.9ms
+[disrupt_i063] p=0.5,window reenc=1/63.2ms frozen=0/63.9ms rh=1/3874.5ms
+[disrupt_i063] p=0.75,closure reenc=1/59.4ms frozen=0/62.2ms rh=1/1007.5ms
+[disrupt_i063] p=0.75,window reenc=1/61.7ms frozen=0/65.7ms rh=1/981.2ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i064] p=0.25,closure reenc=1/60.6ms frozen=0/61.9ms rh=1/6609.6ms
+[disrupt_i064] p=0.25,window reenc=1/65.4ms frozen=0/64.6ms rh=1/6436.1ms
+[disrupt_i064] p=0.5,closure reenc=0/65.0ms frozen=0/61.4ms rh=1/5245.1ms
+[disrupt_i064] p=0.5,window reenc=1/61.4ms frozen=0/63.4ms rh=1/5479.4ms
+[disrupt_i064] p=0.75,closure reenc=0/67.7ms frozen=0/75.8ms rh=1/2067.1ms
+[disrupt_i064] p=0.75,window reenc=1/66.4ms frozen=0/66.2ms rh=1/1694.1ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i065] p=0.25,closure reenc=0/57.4ms frozen=0/61.6ms rh=1/3989.3ms
+[disrupt_i065] p=0.25,window reenc=1/60.4ms frozen=0/59.7ms rh=1/4967.8ms
+[disrupt_i065] p=0.5,closure reenc=1/68.0ms frozen=0/66.3ms rh=1/4026.2ms
+[disrupt_i065] p=0.5,window reenc=1/69.6ms frozen=0/73.1ms rh=1/4146.2ms
+[disrupt_i065] p=0.75,closure reenc=1/69.9ms frozen=0/72.8ms rh=1/1463.0ms
+[disrupt_i065] p=0.75,window reenc=1/64.7ms frozen=0/65.3ms rh=1/1571.5ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i066] p=0.25,closure reenc=1/68.0ms frozen=0/69.9ms rh=1/7079.1ms
+[disrupt_i066] p=0.25,window reenc=1/69.7ms frozen=0/71.9ms rh=1/5029.9ms
+[disrupt_i066] p=0.5,closure reenc=1/63.8ms frozen=0/66.4ms rh=1/3989.1ms
+[disrupt_i066] p=0.5,window reenc=1/70.0ms frozen=0/69.6ms rh=1/4146.6ms
+[disrupt_i066] p=0.75,closure reenc=0/69.0ms frozen=0/60.8ms rh=1/815.4ms
+[disrupt_i066] p=0.75,window reenc=1/60.3ms frozen=0/65.6ms rh=1/781.5ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i067] p=0.25,closure reenc=1/68.2ms frozen=0/59.3ms rh=1/5669.2ms
+[disrupt_i067] p=0.25,window reenc=1/64.7ms frozen=0/63.0ms rh=1/5610.5ms
+[disrupt_i067] p=0.5,closure reenc=1/65.4ms frozen=0/62.0ms rh=1/3641.9ms
+[disrupt_i067] p=0.5,window reenc=1/62.3ms frozen=0/64.6ms rh=1/3470.7ms
+[disrupt_i067] p=0.75,closure reenc=1/57.5ms frozen=0/67.9ms rh=1/1702.9ms
+[disrupt_i067] p=0.75,window reenc=1/59.1ms frozen=0/77.4ms rh=1/1619.1ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i068] p=0.25,closure reenc=1/59.0ms frozen=0/59.2ms rh=1/5738.7ms
+[disrupt_i068] p=0.25,window reenc=1/62.3ms frozen=0/63.8ms rh=1/5362.9ms
+[disrupt_i068] p=0.5,closure reenc=1/74.5ms frozen=0/64.2ms rh=1/3924.8ms
+[disrupt_i068] p=0.5,window reenc=1/76.7ms frozen=0/70.9ms rh=1/3395.0ms
+[disrupt_i068] p=0.75,closure reenc=1/59.9ms frozen=0/72.6ms rh=1/3010.3ms
+[disrupt_i068] p=0.75,window reenc=1/63.7ms frozen=0/62.5ms rh=1/3155.1ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i069] p=0.25,closure reenc=1/60.9ms frozen=0/61.9ms rh=1/5109.7ms
+[disrupt_i069] p=0.25,window reenc=1/61.9ms frozen=0/62.8ms rh=1/5119.6ms
+[disrupt_i069] p=0.5,closure reenc=1/58.9ms frozen=0/63.7ms rh=1/3303.8ms
+[disrupt_i069] p=0.5,window reenc=1/62.9ms frozen=0/62.9ms rh=1/3362.6ms
+[disrupt_i069] p=0.75,closure reenc=0/54.0ms frozen=0/57.1ms rh=1/528.0ms
+[disrupt_i069] p=0.75,window reenc=1/57.2ms frozen=0/66.4ms rh=1/523.6ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i070] p=0.25,closure reenc=0/57.3ms frozen=0/59.7ms rh=0/5033.1ms
+[disrupt_i070] p=0.25,window reenc=1/57.9ms frozen=0/60.5ms rh=1/5223.9ms
+[disrupt_i070] p=0.5,closure reenc=0/60.9ms frozen=0/58.8ms rh=1/1526.5ms
+[disrupt_i070] p=0.5,window reenc=1/60.3ms frozen=0/57.5ms rh=1/1596.5ms
+[disrupt_i070] p=0.75,closure reenc=1/59.2ms frozen=0/62.3ms rh=1/764.9ms
+[disrupt_i070] p=0.75,window reenc=1/59.2ms frozen=0/58.3ms rh=1/745.1ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i071] p=0.25,closure reenc=1/60.6ms frozen=0/59.6ms rh=1/4676.0ms
+[disrupt_i071] p=0.25,window reenc=1/60.9ms frozen=0/60.5ms rh=1/4732.5ms
+[disrupt_i071] p=0.5,closure reenc=1/60.2ms frozen=0/63.9ms rh=1/4376.4ms
+[disrupt_i071] p=0.5,window reenc=1/61.4ms frozen=0/61.3ms rh=1/4485.7ms
+[disrupt_i071] p=0.75,closure reenc=1/56.4ms frozen=0/60.9ms rh=1/1578.5ms
+[disrupt_i071] p=0.75,window reenc=1/63.7ms frozen=0/61.3ms rh=1/1732.6ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i072] p=0.25,closure reenc=0/62.7ms frozen=0/59.4ms rh=1/5049.6ms
+[disrupt_i072] p=0.25,window reenc=1/61.3ms frozen=0/61.7ms rh=1/4435.2ms
+[disrupt_i072] p=0.5,closure reenc=1/59.8ms frozen=0/61.5ms rh=1/4490.6ms
+[disrupt_i072] p=0.5,window reenc=1/64.0ms frozen=0/62.3ms rh=1/4044.3ms
+[disrupt_i072] p=0.75,closure reenc=1/60.3ms frozen=0/54.3ms rh=1/2443.2ms
+[disrupt_i072] p=0.75,window reenc=1/59.8ms frozen=0/60.9ms rh=1/2579.6ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i073] p=0.25,closure reenc=1/58.1ms frozen=0/60.1ms rh=0/3963.6ms
+[disrupt_i073] p=0.25,window reenc=1/60.7ms frozen=0/61.5ms rh=0/4448.1ms
+[disrupt_i073] p=0.5,closure reenc=1/65.5ms frozen=0/61.7ms rh=1/1043.2ms
+[disrupt_i073] p=0.5,window reenc=1/64.4ms frozen=0/66.0ms rh=1/1288.5ms
+[disrupt_i073] p=0.75,closure reenc=0/64.3ms frozen=0/72.5ms rh=1/594.1ms
+[disrupt_i073] p=0.75,window reenc=1/61.5ms frozen=0/66.8ms rh=1/570.4ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i074] p=0.25,closure reenc=0/62.9ms frozen=0/60.8ms rh=1/5256.1ms
+[disrupt_i074] p=0.25,window reenc=1/58.8ms frozen=0/60.6ms rh=1/4600.8ms
+[disrupt_i074] p=0.5,closure reenc=0/63.9ms frozen=0/64.5ms rh=1/2031.4ms
+[disrupt_i074] p=0.5,window reenc=1/63.4ms frozen=0/58.0ms rh=1/1861.4ms
+[disrupt_i074] p=0.75,closure reenc=1/60.5ms frozen=0/60.9ms rh=1/208.6ms
+[disrupt_i074] p=0.75,window reenc=0/60.7ms frozen=0/61.3ms rh=1/216.1ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i075] p=0.25,closure reenc=1/69.7ms frozen=0/73.3ms rh=1/5809.0ms
+[disrupt_i075] p=0.25,window reenc=1/63.5ms frozen=0/57.3ms rh=1/5177.3ms
+[disrupt_i075] p=0.5,closure reenc=1/61.4ms frozen=0/59.5ms rh=1/2862.2ms
+[disrupt_i075] p=0.5,window reenc=1/59.5ms frozen=0/57.8ms rh=1/2667.3ms
+[disrupt_i075] p=0.75,closure reenc=0/58.5ms frozen=0/58.2ms rh=1/908.0ms
+[disrupt_i075] p=0.75,window reenc=1/64.8ms frozen=0/62.6ms rh=1/881.5ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i076] p=0.25,closure reenc=1/68.1ms frozen=0/71.1ms rh=1/7320.0ms
+[disrupt_i076] p=0.25,window reenc=1/68.2ms frozen=0/75.2ms rh=1/6732.2ms
+[disrupt_i076] p=0.5,closure reenc=1/72.8ms frozen=0/69.0ms rh=1/4496.5ms
+[disrupt_i076] p=0.5,window reenc=1/63.9ms frozen=0/66.7ms rh=1/4593.8ms
+[disrupt_i076] p=0.75,closure reenc=1/63.1ms frozen=0/71.4ms rh=1/1948.4ms
+[disrupt_i076] p=0.75,window reenc=1/61.9ms frozen=0/68.8ms rh=1/2121.4ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i077] p=0.25,closure reenc=0/64.4ms frozen=0/59.9ms rh=1/4886.6ms
+[disrupt_i077] p=0.25,window reenc=1/60.4ms frozen=0/66.5ms rh=1/5186.8ms
+[disrupt_i077] p=0.5,closure reenc=0/63.1ms frozen=0/60.4ms rh=1/3288.6ms
+[disrupt_i077] p=0.5,window reenc=1/58.5ms frozen=0/64.9ms rh=1/3106.0ms
+[disrupt_i077] p=0.75,closure reenc=1/62.9ms frozen=0/63.6ms rh=1/895.8ms
+[disrupt_i077] p=0.75,window reenc=1/59.8ms frozen=0/60.5ms rh=1/796.4ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i078] p=0.25,closure reenc=1/60.5ms frozen=0/64.8ms rh=1/4899.5ms
+[disrupt_i078] p=0.25,window reenc=1/62.5ms frozen=0/62.2ms rh=1/4758.5ms
+[disrupt_i078] p=0.5,closure reenc=1/64.5ms frozen=0/63.3ms rh=1/3067.0ms
+[disrupt_i078] p=0.5,window reenc=1/63.8ms frozen=0/62.9ms rh=1/3014.9ms
+[disrupt_i078] p=0.75,closure reenc=1/62.6ms frozen=0/59.7ms rh=1/1830.2ms
+[disrupt_i078] p=0.75,window reenc=1/60.4ms frozen=0/56.7ms rh=1/1844.2ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i079] 计划不可行, 跳过扰动
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i080] p=0.25,closure reenc=0/60.3ms frozen=0/60.9ms rh=1/4786.1ms
+[disrupt_i080] p=0.25,window reenc=0/60.9ms frozen=0/62.0ms rh=1/5232.0ms
+[disrupt_i080] p=0.5,closure reenc=1/62.1ms frozen=0/62.4ms rh=1/3863.6ms
+[disrupt_i080] p=0.5,window reenc=1/61.4ms frozen=0/63.9ms rh=1/3962.9ms
+[disrupt_i080] p=0.75,closure reenc=0/63.3ms frozen=0/62.5ms rh=1/999.7ms
+[disrupt_i080] p=0.75,window reenc=1/62.8ms frozen=0/64.1ms rh=1/1018.3ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i081] p=0.25,closure reenc=1/60.5ms frozen=0/65.7ms rh=1/5830.2ms
+[disrupt_i081] p=0.25,window reenc=1/58.8ms frozen=0/68.8ms rh=1/5851.4ms
+[disrupt_i081] p=0.5,closure reenc=1/61.2ms frozen=0/63.1ms rh=1/4930.3ms
+[disrupt_i081] p=0.5,window reenc=1/64.4ms frozen=0/67.0ms rh=1/4913.7ms
+[disrupt_i081] p=0.75,closure reenc=1/66.4ms frozen=0/63.8ms rh=1/2557.9ms
+[disrupt_i081] p=0.75,window reenc=1/62.7ms frozen=0/63.4ms rh=1/2629.5ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i082] p=0.25,closure reenc=1/64.0ms frozen=0/59.6ms rh=1/5097.0ms
+[disrupt_i082] p=0.25,window reenc=1/60.2ms frozen=0/61.8ms rh=1/5015.5ms
+[disrupt_i082] p=0.5,closure reenc=1/59.5ms frozen=0/60.6ms rh=1/3477.1ms
+[disrupt_i082] p=0.5,window reenc=1/60.7ms frozen=0/61.6ms rh=1/3675.3ms
+[disrupt_i082] p=0.75,closure reenc=0/65.9ms frozen=0/68.8ms rh=1/2454.9ms
+[disrupt_i082] p=0.75,window reenc=1/67.1ms frozen=0/68.9ms rh=1/2249.8ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i083] p=0.25,closure reenc=0/64.7ms frozen=0/63.4ms rh=1/5760.1ms
+[disrupt_i083] p=0.25,window reenc=0/66.3ms frozen=0/67.9ms rh=1/6196.2ms
+[disrupt_i083] p=0.5,closure reenc=0/67.6ms frozen=0/70.7ms rh=1/5386.2ms
+[disrupt_i083] p=0.5,window reenc=0/69.8ms frozen=0/70.6ms rh=1/5449.6ms
+[disrupt_i083] p=0.75,closure reenc=0/74.5ms frozen=0/62.2ms rh=1/1720.2ms
+[disrupt_i083] p=0.75,window reenc=1/66.5ms frozen=0/65.4ms rh=1/1711.8ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i084] p=0.25,closure reenc=0/65.3ms frozen=0/73.8ms rh=1/4888.7ms
+[disrupt_i084] p=0.25,window reenc=1/63.4ms frozen=0/70.0ms rh=1/5092.8ms
+[disrupt_i084] p=0.5,closure reenc=0/65.9ms frozen=0/64.8ms rh=1/3340.4ms
+[disrupt_i084] p=0.5,window reenc=1/68.2ms frozen=0/67.5ms rh=1/3548.8ms
+[disrupt_i084] p=0.75,closure reenc=1/70.7ms frozen=0/66.2ms rh=1/852.4ms
+[disrupt_i084] p=0.75,window reenc=1/68.8ms frozen=0/65.4ms rh=1/904.7ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i085] p=0.25,closure reenc=1/73.9ms frozen=0/69.9ms rh=1/6564.1ms
+[disrupt_i085] p=0.25,window reenc=1/63.5ms frozen=0/66.8ms rh=1/6495.3ms
+[disrupt_i085] p=0.5,closure reenc=1/70.1ms frozen=0/66.2ms rh=1/4197.1ms
+[disrupt_i085] p=0.5,window reenc=1/66.4ms frozen=0/69.2ms rh=1/4153.3ms
+[disrupt_i085] p=0.75,closure reenc=1/63.9ms frozen=0/65.5ms rh=1/900.9ms
+[disrupt_i085] p=0.75,window reenc=1/67.8ms frozen=0/68.9ms rh=1/932.6ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i086] p=0.25,closure reenc=1/69.3ms frozen=0/70.7ms rh=1/6548.5ms
+[disrupt_i086] p=0.25,window reenc=1/67.9ms frozen=0/67.4ms rh=1/5801.6ms
+[disrupt_i086] p=0.5,closure reenc=1/220.8ms frozen=0/69.0ms rh=1/3754.4ms
+[disrupt_i086] p=0.5,window reenc=1/65.2ms frozen=0/67.6ms rh=1/3737.6ms
+[disrupt_i086] p=0.75,closure reenc=1/68.6ms frozen=0/70.5ms rh=1/1040.1ms
+[disrupt_i086] p=0.75,window reenc=1/67.3ms frozen=0/71.2ms rh=1/991.9ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i087] p=0.25,closure reenc=1/70.1ms frozen=0/67.7ms rh=1/5093.4ms
+[disrupt_i087] p=0.25,window reenc=1/68.3ms frozen=0/72.5ms rh=1/4916.9ms
+[disrupt_i087] p=0.5,closure reenc=0/68.5ms frozen=0/68.1ms rh=1/2483.7ms
+[disrupt_i087] p=0.5,window reenc=1/66.6ms frozen=0/64.2ms rh=1/2463.8ms
+[disrupt_i087] p=0.75,closure reenc=1/78.1ms frozen=0/65.0ms rh=1/905.8ms
+[disrupt_i087] p=0.75,window reenc=1/66.0ms frozen=0/69.2ms rh=1/721.5ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i088] p=0.25,closure reenc=1/72.7ms frozen=0/67.1ms rh=1/5704.4ms
+[disrupt_i088] p=0.25,window reenc=1/71.8ms frozen=0/70.7ms rh=1/5917.1ms
+[disrupt_i088] p=0.5,closure reenc=1/67.5ms frozen=0/64.2ms rh=0/2608.0ms
+[disrupt_i088] p=0.5,window reenc=1/65.1ms frozen=0/70.5ms rh=0/1442.0ms
+[disrupt_i088] p=0.75,closure reenc=1/69.1ms frozen=0/65.7ms rh=1/1410.8ms
+[disrupt_i088] p=0.75,window reenc=1/61.2ms frozen=0/72.6ms rh=1/1333.5ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i089] p=0.25,closure reenc=1/67.5ms frozen=0/68.4ms rh=1/6100.6ms
+[disrupt_i089] p=0.25,window reenc=1/64.7ms frozen=0/68.7ms rh=1/5773.2ms
+[disrupt_i089] p=0.5,closure reenc=1/63.2ms frozen=0/64.6ms rh=1/2907.9ms
+[disrupt_i089] p=0.5,window reenc=1/65.8ms frozen=0/70.1ms rh=1/4246.2ms
+[disrupt_i089] p=0.75,closure reenc=0/64.0ms frozen=0/73.2ms rh=1/1159.3ms
+[disrupt_i089] p=0.75,window reenc=1/67.2ms frozen=0/75.5ms rh=1/1187.1ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i090] p=0.25,closure reenc=1/66.4ms frozen=0/73.7ms rh=1/6737.9ms
+[disrupt_i090] p=0.25,window reenc=1/70.3ms frozen=0/67.8ms rh=1/6816.5ms
+[disrupt_i090] p=0.5,closure reenc=1/67.5ms frozen=0/68.0ms rh=1/4630.1ms
+[disrupt_i090] p=0.5,window reenc=1/65.5ms frozen=0/69.3ms rh=1/4498.1ms
+[disrupt_i090] p=0.75,closure reenc=1/64.3ms frozen=0/64.4ms rh=1/1097.7ms
+[disrupt_i090] p=0.75,window reenc=1/64.8ms frozen=0/69.8ms rh=1/1141.1ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i091] 计划不可行, 跳过扰动
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i092] p=0.25,closure reenc=1/68.5ms frozen=0/74.2ms rh=1/6272.4ms
+[disrupt_i092] p=0.25,window reenc=1/73.0ms frozen=0/66.4ms rh=1/6411.7ms
+[disrupt_i092] p=0.5,closure reenc=1/67.7ms frozen=0/71.2ms rh=1/4752.3ms
+[disrupt_i092] p=0.5,window reenc=1/66.3ms frozen=0/69.1ms rh=1/4087.8ms
+[disrupt_i092] p=0.75,closure reenc=1/62.8ms frozen=0/67.4ms rh=1/1583.8ms
+[disrupt_i092] p=0.75,window reenc=1/72.7ms frozen=0/67.3ms rh=1/1495.8ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i093] p=0.25,closure reenc=1/72.9ms frozen=0/71.7ms rh=1/6908.3ms
+[disrupt_i093] p=0.25,window reenc=1/65.4ms frozen=0/69.6ms rh=1/6689.6ms
+[disrupt_i093] p=0.5,closure reenc=1/66.8ms frozen=0/78.5ms rh=1/3590.9ms
+[disrupt_i093] p=0.5,window reenc=1/69.3ms frozen=0/69.9ms rh=1/3517.4ms
+[disrupt_i093] p=0.75,closure reenc=1/70.9ms frozen=0/66.0ms rh=1/1752.5ms
+[disrupt_i093] p=0.75,window reenc=1/69.4ms frozen=0/64.5ms rh=1/1728.5ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i094] p=0.25,closure reenc=1/67.5ms frozen=0/70.1ms rh=1/4995.9ms
+[disrupt_i094] p=0.25,window reenc=1/71.3ms frozen=0/71.7ms rh=1/4821.7ms
+[disrupt_i094] p=0.5,closure reenc=1/68.1ms frozen=0/71.7ms rh=1/2899.2ms
+[disrupt_i094] p=0.5,window reenc=1/68.5ms frozen=0/72.2ms rh=1/2666.0ms
+[disrupt_i094] p=0.75,closure reenc=1/68.7ms frozen=0/72.6ms rh=1/951.0ms
+[disrupt_i094] p=0.75,window reenc=1/74.8ms frozen=0/69.1ms rh=1/861.6ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i095] p=0.25,closure reenc=0/64.3ms frozen=0/69.4ms rh=1/8620.1ms
+[disrupt_i095] p=0.25,window reenc=1/66.2ms frozen=0/68.3ms rh=1/6575.0ms
+[disrupt_i095] p=0.5,closure reenc=1/65.1ms frozen=0/71.5ms rh=1/5870.3ms
+[disrupt_i095] p=0.5,window reenc=1/67.7ms frozen=0/65.5ms rh=1/5833.0ms
+[disrupt_i095] p=0.75,closure reenc=0/69.9ms frozen=0/67.9ms rh=1/3098.0ms
+[disrupt_i095] p=0.75,window reenc=1/70.8ms frozen=0/66.8ms rh=1/2897.8ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i096] p=0.25,closure reenc=0/68.2ms frozen=0/61.6ms rh=1/8055.7ms
+[disrupt_i096] p=0.25,window reenc=1/63.6ms frozen=0/70.5ms rh=1/8025.2ms
+[disrupt_i096] p=0.5,closure reenc=1/69.4ms frozen=0/63.0ms rh=1/3421.3ms
+[disrupt_i096] p=0.5,window reenc=1/69.7ms frozen=0/76.2ms rh=1/3510.5ms
+[disrupt_i096] p=0.75,closure reenc=1/70.3ms frozen=0/67.0ms rh=1/3029.1ms
+[disrupt_i096] p=0.75,window reenc=1/71.5ms frozen=0/70.4ms rh=1/3235.0ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i097] p=0.25,closure reenc=1/64.3ms frozen=0/65.0ms rh=1/7600.1ms
+[disrupt_i097] p=0.25,window reenc=1/61.9ms frozen=0/73.6ms rh=1/7592.8ms
+[disrupt_i097] p=0.5,closure reenc=0/65.1ms frozen=0/64.3ms rh=1/5252.4ms
+[disrupt_i097] p=0.5,window reenc=1/64.3ms frozen=0/70.1ms rh=1/5371.9ms
+[disrupt_i097] p=0.75,closure reenc=1/68.5ms frozen=0/67.7ms rh=1/2492.0ms
+[disrupt_i097] p=0.75,window reenc=1/66.4ms frozen=0/69.8ms rh=1/2491.9ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i098] p=0.25,closure reenc=0/67.6ms frozen=0/71.0ms rh=1/6993.4ms
+[disrupt_i098] p=0.25,window reenc=1/68.0ms frozen=0/65.9ms rh=1/6705.6ms
+[disrupt_i098] p=0.5,closure reenc=1/70.4ms frozen=0/77.3ms rh=1/4749.3ms
+[disrupt_i098] p=0.5,window reenc=1/64.0ms frozen=0/73.6ms rh=1/4848.7ms
+[disrupt_i098] p=0.75,closure reenc=0/65.8ms frozen=0/69.1ms rh=1/1062.4ms
+[disrupt_i098] p=0.75,window reenc=1/71.6ms frozen=0/71.3ms rh=1/1038.0ms
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\instances (1 个)
+[disrupt_i099] p=0.25,closure reenc=1/67.4ms frozen=0/68.9ms rh=1/7153.3ms
+[disrupt_i099] p=0.25,window reenc=1/69.8ms frozen=0/71.5ms rh=1/6635.1ms
+[disrupt_i099] p=0.5,closure reenc=1/66.1ms frozen=0/74.1ms rh=1/4055.1ms
+[disrupt_i099] p=0.5,window reenc=1/70.7ms frozen=0/71.6ms rh=1/4019.5ms
+[disrupt_i099] p=0.75,closure reenc=1/66.3ms frozen=0/68.8ms rh=1/1970.2ms
+[disrupt_i099] p=0.75,window reenc=1/65.9ms frozen=0/70.7ms rh=1/1986.4ms
+写出: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\per_instance.csv
+写出: C:\Users\26659\Desktop\ASOC测试\test\results\exp4_disruption\summary.csv
+
+=== 汇总（可行率 / 增量成本 / 重规划延迟） ===
+    p=0.25,closure       EFEDQN(frozen) | feas=0.000 | incr=nan | latency=70.1ms
+    p=0.25,closure  EFEDQN(re-encoding) | feas=0.747 | incr=57.27 | latency=68.0ms
+    p=0.25,closure       RollingHorizon | feas=0.958 | incr=51.86 | latency=6086.5ms
+     p=0.25,window       EFEDQN(frozen) | feas=0.000 | incr=nan | latency=69.7ms
+     p=0.25,window  EFEDQN(re-encoding) | feas=0.979 | incr=-11.10 | latency=67.9ms
+     p=0.25,window       RollingHorizon | feas=0.958 | incr=38.43 | latency=5892.0ms
+     p=0.5,closure       EFEDQN(frozen) | feas=0.000 | incr=nan | latency=69.0ms
+     p=0.5,closure  EFEDQN(re-encoding) | feas=0.821 | incr=123.94 | latency=68.0ms
+     p=0.5,closure       RollingHorizon | feas=0.947 | incr=35.00 | latency=3924.8ms
+      p=0.5,window       EFEDQN(frozen) | feas=0.000 | incr=nan | latency=70.0ms
+      p=0.5,window  EFEDQN(re-encoding) | feas=0.989 | incr=17.22 | latency=68.5ms
+      p=0.5,window       RollingHorizon | feas=0.958 | incr=23.43 | latency=3874.5ms
+    p=0.75,closure       EFEDQN(frozen) | feas=0.000 | incr=nan | latency=69.8ms
+    p=0.75,closure  EFEDQN(re-encoding) | feas=0.663 | incr=130.38 | latency=68.2ms
+    p=0.75,closure       RollingHorizon | feas=0.979 | incr=26.89 | latency=1424.6ms
+     p=0.75,window       EFEDQN(frozen) | feas=0.000 | incr=nan | latency=69.0ms
+     p=0.75,window  EFEDQN(re-encoding) | feas=0.989 | incr=14.55 | latency=67.9ms
+     p=0.75,window       RollingHorizon | feas=0.989 | incr=11.36 | latency=1389.4ms

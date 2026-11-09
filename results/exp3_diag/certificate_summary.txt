@@ -1,0 +1,3 @@
+certificate (i): static optimum infeasible under windows
+pool_size=200
+note: enforced at pool generation (instances.py), window_gap = tw_opt - free_opt > 0 certified per instance

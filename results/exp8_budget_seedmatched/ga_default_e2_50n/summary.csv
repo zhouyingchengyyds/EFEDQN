@@ -1,0 +1,2 @@
+condition,protocol,n_instances,pass_rate,n_feasible,mean_cost_all,mean_cost_feasible,mean_fitness,mean_gap_pct,n_gap,mean_time_ms,median_time_ms
+n50,GA[K=1],50,0.58,29,1584.7,1580.0,0.04117010544978661,153.52267915501167,29,4685.200975999999,4557.037999999999

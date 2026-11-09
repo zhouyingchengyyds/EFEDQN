@@ -1,0 +1,6 @@
+variant,n_seeds,seeds,pass_rate_mean,pass_rate_std,cost_feas_mean,cost_feas_std
+EFormer-K1,1,['single'],0.0,0.0,nan,0.0
+EFormer-K2,1,['single'],0.0,0.0,nan,0.0
+EFormer-K5,1,['single'],0.0,0.0,nan,0.0
+EFormer-K10,1,['single'],0.0,0.0,nan,0.0
+EFormer-K20,1,['single'],0.0,0.0,nan,0.0

@@ -1,0 +1,112 @@
+
+########## 块 A: 规模外推 (['GA']) ##########
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\_jobs\exp6ext_GA\instances\150n_96tw (30 个)
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\_jobs\exp6ext_GA\instances\200n_128tw (30 个)
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\_jobs\exp6ext_GA\instances\300n_192tw (30 个)
+
+=== [150n_96tw] ===
+[150n_96tw] 150n_96tw_i000 GA: feasible=0 cost=5362.0 steps=200 t=79915ms
+[150n_96tw] 150n_96tw_i001 GA: feasible=0 cost=4799.0 steps=200 t=42618ms
+[150n_96tw] 150n_96tw_i002 GA: feasible=0 cost=4729.0 steps=200 t=40981ms
+[150n_96tw] 150n_96tw_i003 GA: feasible=0 cost=5108.0 steps=200 t=51651ms
+[150n_96tw] 150n_96tw_i004 GA: feasible=0 cost=6809.0 steps=200 t=43465ms
+[150n_96tw] 150n_96tw_i005 GA: feasible=0 cost=5081.0 steps=200 t=47783ms
+[150n_96tw] 150n_96tw_i006 GA: feasible=0 cost=7174.0 steps=200 t=57334ms
+[150n_96tw] 150n_96tw_i007 GA: feasible=0 cost=4660.0 steps=200 t=47081ms
+[150n_96tw] 150n_96tw_i008 GA: feasible=0 cost=4858.0 steps=200 t=47874ms
+[150n_96tw] 150n_96tw_i009 GA: feasible=0 cost=5234.0 steps=200 t=50639ms
+[150n_96tw] 150n_96tw_i010 GA: feasible=0 cost=4866.0 steps=200 t=51232ms
+[150n_96tw] 150n_96tw_i011 GA: feasible=0 cost=4604.0 steps=200 t=46867ms
+[150n_96tw] 150n_96tw_i012 GA: feasible=0 cost=5080.0 steps=200 t=53100ms
+[150n_96tw] 150n_96tw_i013 GA: feasible=0 cost=4928.0 steps=200 t=73152ms
+[150n_96tw] 150n_96tw_i014 GA: feasible=0 cost=5437.0 steps=200 t=52428ms
+[150n_96tw] 150n_96tw_i015 GA: feasible=0 cost=5180.0 steps=200 t=48875ms
+[150n_96tw] 150n_96tw_i016 GA: feasible=0 cost=5181.0 steps=200 t=34779ms
+[150n_96tw] 150n_96tw_i017 GA: feasible=0 cost=4865.0 steps=200 t=54796ms
+[150n_96tw] 150n_96tw_i018 GA: feasible=0 cost=4956.0 steps=200 t=42267ms
+[150n_96tw] 150n_96tw_i019 GA: feasible=0 cost=4733.0 steps=200 t=66414ms
+[150n_96tw] 150n_96tw_i020 GA: feasible=0 cost=4978.0 steps=200 t=52172ms
+[150n_96tw] 150n_96tw_i021 GA: feasible=0 cost=5035.0 steps=200 t=55634ms
+[150n_96tw] 150n_96tw_i022 GA: feasible=0 cost=5366.0 steps=200 t=58944ms
+[150n_96tw] 150n_96tw_i023 GA: feasible=0 cost=7958.0 steps=200 t=76933ms
+[150n_96tw] 150n_96tw_i024 GA: feasible=0 cost=4881.0 steps=200 t=51178ms
+[150n_96tw] 150n_96tw_i025 GA: feasible=0 cost=4969.0 steps=200 t=51816ms
+[150n_96tw] 150n_96tw_i026 GA: feasible=0 cost=5488.0 steps=200 t=50094ms
+[150n_96tw] 150n_96tw_i027 GA: feasible=0 cost=4955.0 steps=200 t=36605ms
+[150n_96tw] 150n_96tw_i028 GA: feasible=0 cost=5086.0 steps=200 t=41500ms
+[150n_96tw] 150n_96tw_i029 GA: feasible=0 cost=4885.0 steps=200 t=64693ms
+
+=== 汇总（pass rate / fitness / 条件成本 / gap / 平均时间） ===
+   150n_96tw               GA | pass=0.000 | fit=0.0189 | cost(feas)=nan | gap=nan% (n=0) | time=52427.4ms
+
+=== [200n_128tw] ===
+[200n_128tw] 200n_128tw_i000 GA: feasible=0 cost=5255.0 steps=200 t=88851ms
+[200n_128tw] 200n_128tw_i001 GA: feasible=0 cost=4873.0 steps=200 t=136243ms
+[200n_128tw] 200n_128tw_i002 GA: feasible=0 cost=4532.0 steps=200 t=95817ms
+[200n_128tw] 200n_128tw_i003 GA: feasible=0 cost=5379.0 steps=200 t=87254ms
+[200n_128tw] 200n_128tw_i004 GA: feasible=0 cost=5141.0 steps=200 t=80947ms
+[200n_128tw] 200n_128tw_i005 GA: feasible=0 cost=10054.0 steps=200 t=140479ms
+[200n_128tw] 200n_128tw_i006 GA: feasible=0 cost=5039.0 steps=200 t=99902ms
+[200n_128tw] 200n_128tw_i007 GA: feasible=0 cost=4915.0 steps=200 t=106031ms
+[200n_128tw] 200n_128tw_i008 GA: feasible=0 cost=5213.0 steps=200 t=86428ms
+[200n_128tw] 200n_128tw_i009 GA: feasible=0 cost=5847.0 steps=200 t=82040ms
+[200n_128tw] 200n_128tw_i010 GA: feasible=0 cost=5498.0 steps=200 t=116473ms
+[200n_128tw] 200n_128tw_i011 GA: feasible=0 cost=5271.0 steps=200 t=60725ms
+[200n_128tw] 200n_128tw_i012 GA: feasible=0 cost=4836.0 steps=200 t=84813ms
+[200n_128tw] 200n_128tw_i013 GA: feasible=0 cost=5357.0 steps=200 t=103393ms
+[200n_128tw] 200n_128tw_i014 GA: feasible=0 cost=5176.0 steps=200 t=109911ms
+[200n_128tw] 200n_128tw_i015 GA: feasible=0 cost=5157.0 steps=200 t=82278ms
+[200n_128tw] 200n_128tw_i016 GA: feasible=0 cost=4797.0 steps=200 t=100899ms
+[200n_128tw] 200n_128tw_i017 GA: feasible=0 cost=4802.0 steps=200 t=62976ms
+[200n_128tw] 200n_128tw_i018 GA: feasible=0 cost=4938.0 steps=200 t=80344ms
+[200n_128tw] 200n_128tw_i019 GA: feasible=0 cost=6200.0 steps=200 t=69314ms
+[200n_128tw] 200n_128tw_i020 GA: feasible=0 cost=4562.0 steps=200 t=84659ms
+[200n_128tw] 200n_128tw_i021 GA: feasible=0 cost=8618.0 steps=200 t=102276ms
+[200n_128tw] 200n_128tw_i022 GA: feasible=0 cost=5056.0 steps=200 t=90373ms
+[200n_128tw] 200n_128tw_i023 GA: feasible=0 cost=5213.0 steps=200 t=76871ms
+[200n_128tw] 200n_128tw_i024 GA: feasible=0 cost=4909.0 steps=200 t=85692ms
+[200n_128tw] 200n_128tw_i025 GA: feasible=0 cost=5677.0 steps=200 t=90014ms
+[200n_128tw] 200n_128tw_i026 GA: feasible=0 cost=6607.0 steps=200 t=76772ms
+[200n_128tw] 200n_128tw_i027 GA: feasible=0 cost=5053.0 steps=200 t=84488ms
+[200n_128tw] 200n_128tw_i028 GA: feasible=0 cost=4982.0 steps=200 t=105731ms
+[200n_128tw] 200n_128tw_i029 GA: feasible=0 cost=5766.0 steps=200 t=189224ms
+
+=== 汇总（pass rate / fitness / 条件成本 / gap / 平均时间） ===
+  200n_128tw               GA | pass=0.000 | fit=0.0249 | cost(feas)=nan | gap=nan% (n=0) | time=95373.9ms
+
+=== [300n_192tw] ===
+[300n_192tw] 300n_192tw_i000 GA: feasible=0 cost=5348.0 steps=200 t=220612ms
+[300n_192tw] 300n_192tw_i001 GA: feasible=0 cost=5051.0 steps=200 t=219262ms
+[300n_192tw] 300n_192tw_i002 GA: feasible=0 cost=5029.0 steps=200 t=355725ms
+[300n_192tw] 300n_192tw_i003 GA: feasible=0 cost=5003.0 steps=200 t=409321ms
+[300n_192tw] 300n_192tw_i004 GA: feasible=0 cost=5247.0 steps=200 t=344231ms
+[300n_192tw] 300n_192tw_i005 GA: feasible=0 cost=5029.0 steps=200 t=198005ms
+[300n_192tw] 300n_192tw_i006 GA: feasible=0 cost=5137.0 steps=200 t=174833ms
+[300n_192tw] 300n_192tw_i007 GA: feasible=0 cost=5325.0 steps=200 t=239915ms
+[300n_192tw] 300n_192tw_i008 GA: feasible=0 cost=6053.0 steps=200 t=255130ms
+[300n_192tw] 300n_192tw_i009 GA: feasible=0 cost=5273.0 steps=200 t=246739ms
+[300n_192tw] 300n_192tw_i010 GA: feasible=0 cost=4998.0 steps=200 t=153840ms
+[300n_192tw] 300n_192tw_i011 GA: feasible=0 cost=5215.0 steps=200 t=202672ms
+[300n_192tw] 300n_192tw_i012 GA: feasible=0 cost=4962.0 steps=200 t=328191ms
+[300n_192tw] 300n_192tw_i013 GA: feasible=0 cost=5209.0 steps=200 t=205229ms
+[300n_192tw] 300n_192tw_i014 GA: feasible=0 cost=5203.0 steps=200 t=229954ms
+[300n_192tw] 300n_192tw_i015 GA: feasible=0 cost=5066.0 steps=200 t=251789ms
+[300n_192tw] 300n_192tw_i016 GA: feasible=0 cost=4661.0 steps=200 t=369774ms
+[300n_192tw] 300n_192tw_i017 GA: feasible=0 cost=5791.0 steps=200 t=190800ms
+[300n_192tw] 300n_192tw_i018 GA: feasible=0 cost=5246.0 steps=200 t=235315ms
+[300n_192tw] 300n_192tw_i019 GA: feasible=0 cost=4847.0 steps=200 t=186016ms
+[300n_192tw] 300n_192tw_i020 GA: feasible=0 cost=5017.0 steps=200 t=181388ms
+[300n_192tw] 300n_192tw_i021 GA: feasible=0 cost=4975.0 steps=200 t=162878ms
+[300n_192tw] 300n_192tw_i022 GA: feasible=0 cost=5077.0 steps=200 t=165429ms
+[300n_192tw] 300n_192tw_i023 GA: feasible=0 cost=5264.0 steps=200 t=158519ms
+[300n_192tw] 300n_192tw_i024 GA: feasible=0 cost=4865.0 steps=200 t=261889ms
+[300n_192tw] 300n_192tw_i025 GA: feasible=0 cost=4933.0 steps=200 t=174501ms
+[300n_192tw] 300n_192tw_i026 GA: feasible=0 cost=5092.0 steps=200 t=215375ms
+[300n_192tw] 300n_192tw_i027 GA: feasible=0 cost=6112.0 steps=200 t=138913ms
+[300n_192tw] 300n_192tw_i028 GA: feasible=0 cost=5024.0 steps=200 t=172023ms
+[300n_192tw] 300n_192tw_i029 GA: feasible=0 cost=4726.0 steps=200 t=179988ms
+
+=== 汇总（pass rate / fitness / 条件成本 / gap / 平均时间） ===
+  300n_192tw               GA | pass=0.000 | fit=0.0380 | cost(feas)=nan | gap=nan% (n=0) | time=227608.5ms
+写出: C:\Users\26659\Desktop\ASOC测试\test\results\_jobs\exp6ext_GA\extrap_per_instance.csv
+写出: C:\Users\26659\Desktop\ASOC测试\test\results\_jobs\exp6ext_GA\extrap_summary.csv

@@ -1,0 +1,6 @@
+variant,n_seeds,seeds,pass_rate_mean,pass_rate_std,cost_feas_mean,cost_feas_std
+EFEDQN-K1,1,['single'],0.95,0.0,1524.157894736842,0.0
+EFEDQN-K2,1,['single'],0.98,0.0,1473.6326530612246,0.0
+EFEDQN-K5,1,['single'],0.99,0.0,1429.4747474747476,0.0
+EFEDQN-K10,1,['single'],0.99,0.0,1403.9292929292928,0.0
+EFEDQN-K20,1,['single'],0.99,0.0,1387.989898989899,0.0

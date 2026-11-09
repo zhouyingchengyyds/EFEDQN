@@ -1,0 +1,454 @@
+C:\Users\26659\Desktop\ASOC测试\test\exp_common.py:561: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  ckpt = torch.load(ckpt_path, map_location=self.device)
+
+########## 块 B: 分布偏移 (['EFormer']) ##########
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\_jobs\exp6ds_eformer\instances\no-shift(ref) (50 个)
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\_jobs\exp6ds_eformer\instances\target-ratio-0.1 (50 个)
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\_jobs\exp6ds_eformer\instances\target-ratio-0.5 (50 个)
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\_jobs\exp6ds_eformer\instances\restr-dense-16 (50 个)
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\_jobs\exp6ds_eformer\instances\restr-dense-192 (50 个)
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\_jobs\exp6ds_eformer\instances\win-short (50 个)
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\_jobs\exp6ds_eformer\instances\win-long (50 个)
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\_jobs\exp6ds_eformer\instances\degree-thin (50 个)
+
+=== [no-shift(ref)] ===
+[no-shift(ref)] no-shift(ref)_i000 EFormer: feasible=0 cost=4800.0 steps=200 t=1014ms
+[no-shift(ref)] no-shift(ref)_i001 EFormer: feasible=0 cost=6000.0 steps=200 t=970ms
+[no-shift(ref)] no-shift(ref)_i002 EFormer: feasible=0 cost=2800.0 steps=200 t=970ms
+[no-shift(ref)] no-shift(ref)_i003 EFormer: feasible=0 cost=2700.0 steps=200 t=918ms
+[no-shift(ref)] no-shift(ref)_i004 EFormer: feasible=0 cost=5382.0 steps=200 t=1000ms
+[no-shift(ref)] no-shift(ref)_i005 EFormer: feasible=0 cost=7600.0 steps=200 t=949ms
+[no-shift(ref)] no-shift(ref)_i006 EFormer: feasible=0 cost=4840.0 steps=200 t=918ms
+[no-shift(ref)] no-shift(ref)_i007 EFormer: feasible=0 cost=5589.0 steps=200 t=956ms
+[no-shift(ref)] no-shift(ref)_i008 EFormer: feasible=0 cost=5954.0 steps=200 t=938ms
+[no-shift(ref)] no-shift(ref)_i009 EFormer: feasible=0 cost=3307.0 steps=200 t=940ms
+[no-shift(ref)] no-shift(ref)_i010 EFormer: feasible=0 cost=5200.0 steps=200 t=921ms
+[no-shift(ref)] no-shift(ref)_i011 EFormer: feasible=0 cost=5200.0 steps=200 t=926ms
+[no-shift(ref)] no-shift(ref)_i012 EFormer: feasible=0 cost=2400.0 steps=200 t=973ms
+[no-shift(ref)] no-shift(ref)_i013 EFormer: feasible=0 cost=5890.0 steps=200 t=958ms
+[no-shift(ref)] no-shift(ref)_i014 EFormer: feasible=0 cost=7800.0 steps=200 t=942ms
+[no-shift(ref)] no-shift(ref)_i015 EFormer: feasible=0 cost=1600.0 steps=200 t=949ms
+[no-shift(ref)] no-shift(ref)_i016 EFormer: feasible=0 cost=4000.0 steps=200 t=924ms
+[no-shift(ref)] no-shift(ref)_i017 EFormer: feasible=0 cost=3400.0 steps=200 t=927ms
+[no-shift(ref)] no-shift(ref)_i018 EFormer: feasible=0 cost=7100.0 steps=200 t=974ms
+[no-shift(ref)] no-shift(ref)_i019 EFormer: feasible=0 cost=4200.0 steps=200 t=925ms
+[no-shift(ref)] no-shift(ref)_i020 EFormer: feasible=0 cost=4100.0 steps=200 t=915ms
+[no-shift(ref)] no-shift(ref)_i021 EFormer: feasible=0 cost=1800.0 steps=200 t=927ms
+[no-shift(ref)] no-shift(ref)_i022 EFormer: feasible=0 cost=5364.0 steps=200 t=933ms
+[no-shift(ref)] no-shift(ref)_i023 EFormer: feasible=0 cost=4400.0 steps=200 t=919ms
+[no-shift(ref)] no-shift(ref)_i024 EFormer: feasible=0 cost=3300.0 steps=200 t=942ms
+[no-shift(ref)] no-shift(ref)_i025 EFormer: feasible=0 cost=6200.0 steps=200 t=949ms
+[no-shift(ref)] no-shift(ref)_i026 EFormer: feasible=0 cost=7400.0 steps=200 t=933ms
+[no-shift(ref)] no-shift(ref)_i027 EFormer: feasible=0 cost=6800.0 steps=200 t=958ms
+[no-shift(ref)] no-shift(ref)_i028 EFormer: feasible=0 cost=7034.0 steps=200 t=932ms
+[no-shift(ref)] no-shift(ref)_i029 EFormer: feasible=0 cost=4600.0 steps=200 t=969ms
+[no-shift(ref)] no-shift(ref)_i030 EFormer: feasible=0 cost=5193.0 steps=200 t=945ms
+[no-shift(ref)] no-shift(ref)_i031 EFormer: feasible=0 cost=4324.0 steps=200 t=928ms
+[no-shift(ref)] no-shift(ref)_i032 EFormer: feasible=0 cost=2085.0 steps=200 t=953ms
+[no-shift(ref)] no-shift(ref)_i033 EFormer: feasible=0 cost=5600.0 steps=200 t=982ms
+[no-shift(ref)] no-shift(ref)_i034 EFormer: feasible=0 cost=6440.0 steps=200 t=972ms
+[no-shift(ref)] no-shift(ref)_i035 EFormer: feasible=0 cost=5900.0 steps=200 t=965ms
+[no-shift(ref)] no-shift(ref)_i036 EFormer: feasible=0 cost=3700.0 steps=200 t=944ms
+[no-shift(ref)] no-shift(ref)_i037 EFormer: feasible=0 cost=3792.0 steps=200 t=948ms
+[no-shift(ref)] no-shift(ref)_i038 EFormer: feasible=0 cost=5100.0 steps=200 t=961ms
+[no-shift(ref)] no-shift(ref)_i039 EFormer: feasible=0 cost=3800.0 steps=200 t=971ms
+[no-shift(ref)] no-shift(ref)_i040 EFormer: feasible=0 cost=9900.0 steps=200 t=930ms
+[no-shift(ref)] no-shift(ref)_i041 EFormer: feasible=0 cost=1600.0 steps=200 t=969ms
+[no-shift(ref)] no-shift(ref)_i042 EFormer: feasible=0 cost=6400.0 steps=200 t=944ms
+[no-shift(ref)] no-shift(ref)_i043 EFormer: feasible=0 cost=7600.0 steps=200 t=935ms
+[no-shift(ref)] no-shift(ref)_i044 EFormer: feasible=0 cost=2600.0 steps=200 t=938ms
+[no-shift(ref)] no-shift(ref)_i045 EFormer: feasible=0 cost=7500.0 steps=200 t=960ms
+[no-shift(ref)] no-shift(ref)_i046 EFormer: feasible=0 cost=3200.0 steps=200 t=975ms
+[no-shift(ref)] no-shift(ref)_i047 EFormer: feasible=0 cost=6600.0 steps=200 t=957ms
+[no-shift(ref)] no-shift(ref)_i048 EFormer: feasible=0 cost=7200.0 steps=200 t=957ms
+[no-shift(ref)] no-shift(ref)_i049 EFormer: feasible=0 cost=3900.0 steps=200 t=941ms
+
+=== 汇总（pass rate / fitness / 条件成本 / gap / 平均时间） ===
+no-shift(ref)          EFormer | pass=0.000 | fit=0.0130 | cost(feas)=nan | gap=nan% (n=0) | time=948.9ms
+
+=== [target-ratio-0.1] ===
+[target-ratio-0.1] target-ratio-0.1_i000 EFormer: feasible=0 cost=3500.0 steps=200 t=945ms
+[target-ratio-0.1] target-ratio-0.1_i001 EFormer: feasible=0 cost=5600.0 steps=200 t=952ms
+[target-ratio-0.1] target-ratio-0.1_i002 EFormer: feasible=0 cost=6300.0 steps=200 t=945ms
+[target-ratio-0.1] target-ratio-0.1_i003 EFormer: feasible=0 cost=8800.0 steps=200 t=941ms
+[target-ratio-0.1] target-ratio-0.1_i004 EFormer: feasible=0 cost=4196.0 steps=200 t=955ms
+[target-ratio-0.1] target-ratio-0.1_i005 EFormer: feasible=0 cost=3900.0 steps=200 t=946ms
+[target-ratio-0.1] target-ratio-0.1_i006 EFormer: feasible=0 cost=6400.0 steps=200 t=928ms
+[target-ratio-0.1] target-ratio-0.1_i007 EFormer: feasible=0 cost=4300.0 steps=200 t=983ms
+[target-ratio-0.1] target-ratio-0.1_i008 EFormer: feasible=0 cost=4420.0 steps=200 t=964ms
+[target-ratio-0.1] target-ratio-0.1_i009 EFormer: feasible=0 cost=7458.0 steps=200 t=961ms
+[target-ratio-0.1] target-ratio-0.1_i010 EFormer: feasible=0 cost=7600.0 steps=200 t=952ms
+[target-ratio-0.1] target-ratio-0.1_i011 EFormer: feasible=0 cost=5600.0 steps=200 t=963ms
+[target-ratio-0.1] target-ratio-0.1_i012 EFormer: feasible=0 cost=5800.0 steps=200 t=971ms
+[target-ratio-0.1] target-ratio-0.1_i013 EFormer: feasible=0 cost=230.0 steps=10 t=395ms
+[target-ratio-0.1] target-ratio-0.1_i014 EFormer: feasible=0 cost=4797.0 steps=200 t=954ms
+[target-ratio-0.1] target-ratio-0.1_i015 EFormer: feasible=0 cost=1480.0 steps=200 t=943ms
+[target-ratio-0.1] target-ratio-0.1_i016 EFormer: feasible=0 cost=5300.0 steps=200 t=944ms
+[target-ratio-0.1] target-ratio-0.1_i017 EFormer: feasible=0 cost=8957.0 steps=200 t=972ms
+[target-ratio-0.1] target-ratio-0.1_i018 EFormer: feasible=0 cost=2955.0 steps=200 t=970ms
+[target-ratio-0.1] target-ratio-0.1_i019 EFormer: feasible=0 cost=4200.0 steps=200 t=960ms
+[target-ratio-0.1] target-ratio-0.1_i020 EFormer: feasible=0 cost=7500.0 steps=200 t=957ms
+[target-ratio-0.1] target-ratio-0.1_i021 EFormer: feasible=0 cost=5451.0 steps=200 t=978ms
+[target-ratio-0.1] target-ratio-0.1_i022 EFormer: feasible=0 cost=3560.0 steps=200 t=968ms
+[target-ratio-0.1] target-ratio-0.1_i023 EFormer: feasible=0 cost=7030.0 steps=200 t=988ms
+[target-ratio-0.1] target-ratio-0.1_i024 EFormer: feasible=0 cost=7916.0 steps=200 t=980ms
+[target-ratio-0.1] target-ratio-0.1_i025 EFormer: feasible=0 cost=8000.0 steps=200 t=988ms
+[target-ratio-0.1] target-ratio-0.1_i026 EFormer: feasible=0 cost=8400.0 steps=200 t=980ms
+[target-ratio-0.1] target-ratio-0.1_i027 EFormer: feasible=0 cost=5174.0 steps=200 t=963ms
+[target-ratio-0.1] target-ratio-0.1_i028 EFormer: feasible=0 cost=4300.0 steps=200 t=960ms
+[target-ratio-0.1] target-ratio-0.1_i029 EFormer: feasible=0 cost=2280.0 steps=200 t=995ms
+[target-ratio-0.1] target-ratio-0.1_i030 EFormer: feasible=0 cost=7100.0 steps=200 t=971ms
+[target-ratio-0.1] target-ratio-0.1_i031 EFormer: feasible=0 cost=2981.0 steps=200 t=976ms
+[target-ratio-0.1] target-ratio-0.1_i032 EFormer: feasible=0 cost=7400.0 steps=200 t=980ms
+[target-ratio-0.1] target-ratio-0.1_i033 EFormer: feasible=0 cost=3100.0 steps=200 t=1008ms
+[target-ratio-0.1] target-ratio-0.1_i034 EFormer: feasible=0 cost=0.0 steps=0 t=392ms
+[target-ratio-0.1] target-ratio-0.1_i035 EFormer: feasible=0 cost=3600.0 steps=200 t=954ms
+[target-ratio-0.1] target-ratio-0.1_i036 EFormer: feasible=0 cost=5400.0 steps=200 t=950ms
+[target-ratio-0.1] target-ratio-0.1_i037 EFormer: feasible=0 cost=3520.0 steps=200 t=969ms
+[target-ratio-0.1] target-ratio-0.1_i038 EFormer: feasible=0 cost=1000.0 steps=200 t=973ms
+[target-ratio-0.1] target-ratio-0.1_i039 EFormer: feasible=0 cost=6400.0 steps=200 t=952ms
+[target-ratio-0.1] target-ratio-0.1_i040 EFormer: feasible=0 cost=5532.0 steps=200 t=963ms
+[target-ratio-0.1] target-ratio-0.1_i041 EFormer: feasible=0 cost=3500.0 steps=200 t=943ms
+[target-ratio-0.1] target-ratio-0.1_i042 EFormer: feasible=0 cost=7600.0 steps=200 t=989ms
+[target-ratio-0.1] target-ratio-0.1_i043 EFormer: feasible=0 cost=3700.0 steps=200 t=1038ms
+[target-ratio-0.1] target-ratio-0.1_i044 EFormer: feasible=0 cost=6500.0 steps=200 t=979ms
+[target-ratio-0.1] target-ratio-0.1_i045 EFormer: feasible=0 cost=2890.0 steps=200 t=970ms
+[target-ratio-0.1] target-ratio-0.1_i046 EFormer: feasible=0 cost=5515.0 steps=200 t=996ms
+[target-ratio-0.1] target-ratio-0.1_i047 EFormer: feasible=0 cost=5786.0 steps=200 t=989ms
+[target-ratio-0.1] target-ratio-0.1_i048 EFormer: feasible=0 cost=4300.0 steps=200 t=969ms
+[target-ratio-0.1] target-ratio-0.1_i049 EFormer: feasible=0 cost=6354.0 steps=200 t=964ms
+
+=== 汇总（pass rate / fitness / 条件成本 / gap / 平均时间） ===
+target-ratio-0.1          EFormer | pass=0.000 | fit=0.0041 | cost(feas)=nan | gap=nan% (n=0) | time=944.6ms
+
+=== [target-ratio-0.5] ===
+[target-ratio-0.5] target-ratio-0.5_i000 EFormer: feasible=0 cost=4450.0 steps=200 t=969ms
+[target-ratio-0.5] target-ratio-0.5_i001 EFormer: feasible=0 cost=7600.0 steps=200 t=980ms
+[target-ratio-0.5] target-ratio-0.5_i002 EFormer: feasible=0 cost=5000.0 steps=200 t=926ms
+[target-ratio-0.5] target-ratio-0.5_i003 EFormer: feasible=0 cost=6900.0 steps=200 t=987ms
+[target-ratio-0.5] target-ratio-0.5_i004 EFormer: feasible=0 cost=5531.0 steps=200 t=959ms
+[target-ratio-0.5] target-ratio-0.5_i005 EFormer: feasible=0 cost=4000.0 steps=200 t=947ms
+[target-ratio-0.5] target-ratio-0.5_i006 EFormer: feasible=0 cost=4784.0 steps=200 t=971ms
+[target-ratio-0.5] target-ratio-0.5_i007 EFormer: feasible=0 cost=3500.0 steps=200 t=947ms
+[target-ratio-0.5] target-ratio-0.5_i008 EFormer: feasible=0 cost=6800.0 steps=200 t=968ms
+[target-ratio-0.5] target-ratio-0.5_i009 EFormer: feasible=0 cost=8400.0 steps=200 t=967ms
+[target-ratio-0.5] target-ratio-0.5_i010 EFormer: feasible=0 cost=3400.0 steps=200 t=973ms
+[target-ratio-0.5] target-ratio-0.5_i011 EFormer: feasible=0 cost=5700.0 steps=200 t=970ms
+[target-ratio-0.5] target-ratio-0.5_i012 EFormer: feasible=0 cost=4606.0 steps=200 t=954ms
+[target-ratio-0.5] target-ratio-0.5_i013 EFormer: feasible=0 cost=9016.0 steps=200 t=955ms
+[target-ratio-0.5] target-ratio-0.5_i014 EFormer: feasible=0 cost=6700.0 steps=200 t=992ms
+[target-ratio-0.5] target-ratio-0.5_i015 EFormer: feasible=0 cost=8000.0 steps=200 t=941ms
+[target-ratio-0.5] target-ratio-0.5_i016 EFormer: feasible=0 cost=4100.0 steps=200 t=950ms
+[target-ratio-0.5] target-ratio-0.5_i017 EFormer: feasible=0 cost=4900.0 steps=200 t=959ms
+[target-ratio-0.5] target-ratio-0.5_i018 EFormer: feasible=0 cost=5900.0 steps=200 t=965ms
+[target-ratio-0.5] target-ratio-0.5_i019 EFormer: feasible=0 cost=7200.0 steps=200 t=956ms
+[target-ratio-0.5] target-ratio-0.5_i020 EFormer: feasible=0 cost=5100.0 steps=200 t=956ms
+[target-ratio-0.5] target-ratio-0.5_i021 EFormer: feasible=0 cost=9600.0 steps=200 t=963ms
+[target-ratio-0.5] target-ratio-0.5_i022 EFormer: feasible=0 cost=6292.0 steps=200 t=961ms
+[target-ratio-0.5] target-ratio-0.5_i023 EFormer: feasible=0 cost=6200.0 steps=200 t=1023ms
+[target-ratio-0.5] target-ratio-0.5_i024 EFormer: feasible=0 cost=8381.0 steps=200 t=959ms
+[target-ratio-0.5] target-ratio-0.5_i025 EFormer: feasible=0 cost=5755.0 steps=200 t=936ms
+[target-ratio-0.5] target-ratio-0.5_i026 EFormer: feasible=0 cost=5700.0 steps=200 t=959ms
+[target-ratio-0.5] target-ratio-0.5_i027 EFormer: feasible=0 cost=1000.0 steps=200 t=969ms
+[target-ratio-0.5] target-ratio-0.5_i028 EFormer: feasible=0 cost=5000.0 steps=200 t=963ms
+[target-ratio-0.5] target-ratio-0.5_i029 EFormer: feasible=0 cost=8800.0 steps=200 t=925ms
+[target-ratio-0.5] target-ratio-0.5_i030 EFormer: feasible=0 cost=7700.0 steps=200 t=962ms
+[target-ratio-0.5] target-ratio-0.5_i031 EFormer: feasible=0 cost=6031.0 steps=200 t=952ms
+[target-ratio-0.5] target-ratio-0.5_i032 EFormer: feasible=0 cost=7500.0 steps=200 t=941ms
+[target-ratio-0.5] target-ratio-0.5_i033 EFormer: feasible=0 cost=2884.0 steps=200 t=916ms
+[target-ratio-0.5] target-ratio-0.5_i034 EFormer: feasible=0 cost=8100.0 steps=200 t=927ms
+[target-ratio-0.5] target-ratio-0.5_i035 EFormer: feasible=0 cost=6482.0 steps=200 t=938ms
+[target-ratio-0.5] target-ratio-0.5_i036 EFormer: feasible=0 cost=3500.0 steps=200 t=967ms
+[target-ratio-0.5] target-ratio-0.5_i037 EFormer: feasible=0 cost=900.0 steps=200 t=953ms
+[target-ratio-0.5] target-ratio-0.5_i038 EFormer: feasible=0 cost=5000.0 steps=200 t=963ms
+[target-ratio-0.5] target-ratio-0.5_i039 EFormer: feasible=0 cost=7400.0 steps=200 t=911ms
+[target-ratio-0.5] target-ratio-0.5_i040 EFormer: feasible=0 cost=3000.0 steps=200 t=973ms
+[target-ratio-0.5] target-ratio-0.5_i041 EFormer: feasible=0 cost=6900.0 steps=200 t=958ms
+[target-ratio-0.5] target-ratio-0.5_i042 EFormer: feasible=0 cost=6000.0 steps=200 t=934ms
+[target-ratio-0.5] target-ratio-0.5_i043 EFormer: feasible=0 cost=7300.0 steps=200 t=903ms
+[target-ratio-0.5] target-ratio-0.5_i044 EFormer: feasible=0 cost=7400.0 steps=200 t=930ms
+[target-ratio-0.5] target-ratio-0.5_i045 EFormer: feasible=0 cost=7949.0 steps=200 t=927ms
+[target-ratio-0.5] target-ratio-0.5_i046 EFormer: feasible=0 cost=7400.0 steps=200 t=975ms
+[target-ratio-0.5] target-ratio-0.5_i047 EFormer: feasible=0 cost=3700.0 steps=200 t=965ms
+[target-ratio-0.5] target-ratio-0.5_i048 EFormer: feasible=0 cost=3038.0 steps=200 t=955ms
+[target-ratio-0.5] target-ratio-0.5_i049 EFormer: feasible=0 cost=5200.0 steps=200 t=967ms
+
+=== 汇总（pass rate / fitness / 条件成本 / gap / 平均时间） ===
+target-ratio-0.5          EFormer | pass=0.000 | fit=0.0193 | cost(feas)=nan | gap=nan% (n=0) | time=955.3ms
+
+=== [restr-dense-16] ===
+[restr-dense-16] restr-dense-16_i000 EFormer: feasible=0 cost=6700.0 steps=200 t=945ms
+[restr-dense-16] restr-dense-16_i001 EFormer: feasible=0 cost=6500.0 steps=200 t=928ms
+[restr-dense-16] restr-dense-16_i002 EFormer: feasible=0 cost=4300.0 steps=200 t=966ms
+[restr-dense-16] restr-dense-16_i003 EFormer: feasible=0 cost=8400.0 steps=200 t=984ms
+[restr-dense-16] restr-dense-16_i004 EFormer: feasible=0 cost=5700.0 steps=200 t=972ms
+[restr-dense-16] restr-dense-16_i005 EFormer: feasible=0 cost=7800.0 steps=200 t=939ms
+[restr-dense-16] restr-dense-16_i006 EFormer: feasible=0 cost=3100.0 steps=200 t=952ms
+[restr-dense-16] restr-dense-16_i007 EFormer: feasible=0 cost=4700.0 steps=200 t=946ms
+[restr-dense-16] restr-dense-16_i008 EFormer: feasible=0 cost=9400.0 steps=200 t=953ms
+[restr-dense-16] restr-dense-16_i009 EFormer: feasible=0 cost=2600.0 steps=200 t=947ms
+[restr-dense-16] restr-dense-16_i010 EFormer: feasible=0 cost=6500.0 steps=200 t=949ms
+[restr-dense-16] restr-dense-16_i011 EFormer: feasible=0 cost=8200.0 steps=200 t=971ms
+[restr-dense-16] restr-dense-16_i012 EFormer: feasible=0 cost=5900.0 steps=200 t=995ms
+[restr-dense-16] restr-dense-16_i013 EFormer: feasible=0 cost=7000.0 steps=200 t=936ms
+[restr-dense-16] restr-dense-16_i014 EFormer: feasible=0 cost=4800.0 steps=200 t=938ms
+[restr-dense-16] restr-dense-16_i015 EFormer: feasible=0 cost=5500.0 steps=200 t=944ms
+[restr-dense-16] restr-dense-16_i016 EFormer: feasible=0 cost=5600.0 steps=200 t=966ms
+[restr-dense-16] restr-dense-16_i017 EFormer: feasible=0 cost=8500.0 steps=200 t=968ms
+[restr-dense-16] restr-dense-16_i018 EFormer: feasible=0 cost=7800.0 steps=200 t=953ms
+[restr-dense-16] restr-dense-16_i019 EFormer: feasible=0 cost=4200.0 steps=200 t=951ms
+[restr-dense-16] restr-dense-16_i020 EFormer: feasible=0 cost=6100.0 steps=200 t=919ms
+[restr-dense-16] restr-dense-16_i021 EFormer: feasible=0 cost=8200.0 steps=200 t=997ms
+[restr-dense-16] restr-dense-16_i022 EFormer: feasible=0 cost=8500.0 steps=200 t=932ms
+[restr-dense-16] restr-dense-16_i023 EFormer: feasible=0 cost=4700.0 steps=200 t=947ms
+[restr-dense-16] restr-dense-16_i024 EFormer: feasible=0 cost=2500.0 steps=200 t=946ms
+[restr-dense-16] restr-dense-16_i025 EFormer: feasible=0 cost=3100.0 steps=200 t=963ms
+[restr-dense-16] restr-dense-16_i026 EFormer: feasible=0 cost=6800.0 steps=200 t=1006ms
+[restr-dense-16] restr-dense-16_i027 EFormer: feasible=0 cost=3600.0 steps=200 t=962ms
+[restr-dense-16] restr-dense-16_i028 EFormer: feasible=0 cost=2700.0 steps=200 t=960ms
+[restr-dense-16] restr-dense-16_i029 EFormer: feasible=0 cost=1300.0 steps=200 t=950ms
+[restr-dense-16] restr-dense-16_i030 EFormer: feasible=0 cost=4500.0 steps=200 t=968ms
+[restr-dense-16] restr-dense-16_i031 EFormer: feasible=0 cost=6500.0 steps=200 t=946ms
+[restr-dense-16] restr-dense-16_i032 EFormer: feasible=0 cost=5200.0 steps=200 t=975ms
+[restr-dense-16] restr-dense-16_i033 EFormer: feasible=0 cost=6100.0 steps=200 t=946ms
+[restr-dense-16] restr-dense-16_i034 EFormer: feasible=0 cost=3600.0 steps=200 t=992ms
+[restr-dense-16] restr-dense-16_i035 EFormer: feasible=0 cost=7300.0 steps=200 t=964ms
+[restr-dense-16] restr-dense-16_i036 EFormer: feasible=0 cost=5800.0 steps=200 t=970ms
+[restr-dense-16] restr-dense-16_i037 EFormer: feasible=0 cost=5300.0 steps=200 t=927ms
+[restr-dense-16] restr-dense-16_i038 EFormer: feasible=0 cost=3624.0 steps=200 t=954ms
+[restr-dense-16] restr-dense-16_i039 EFormer: feasible=0 cost=5000.0 steps=200 t=944ms
+[restr-dense-16] restr-dense-16_i040 EFormer: feasible=0 cost=5600.0 steps=200 t=974ms
+[restr-dense-16] restr-dense-16_i041 EFormer: feasible=0 cost=5500.0 steps=200 t=911ms
+[restr-dense-16] restr-dense-16_i042 EFormer: feasible=0 cost=5400.0 steps=200 t=972ms
+[restr-dense-16] restr-dense-16_i043 EFormer: feasible=0 cost=6700.0 steps=200 t=946ms
+[restr-dense-16] restr-dense-16_i044 EFormer: feasible=0 cost=5114.0 steps=200 t=935ms
+[restr-dense-16] restr-dense-16_i045 EFormer: feasible=0 cost=1000.0 steps=200 t=981ms
+[restr-dense-16] restr-dense-16_i046 EFormer: feasible=0 cost=6682.0 steps=200 t=976ms
+[restr-dense-16] restr-dense-16_i047 EFormer: feasible=0 cost=2200.0 steps=200 t=936ms
+[restr-dense-16] restr-dense-16_i048 EFormer: feasible=0 cost=5300.0 steps=200 t=960ms
+[restr-dense-16] restr-dense-16_i049 EFormer: feasible=0 cost=8000.0 steps=200 t=940ms
+
+=== 汇总（pass rate / fitness / 条件成本 / gap / 平均时间） ===
+restr-dense-16          EFormer | pass=0.000 | fit=0.0126 | cost(feas)=nan | gap=nan% (n=0) | time=956.0ms
+
+=== [restr-dense-192] ===
+[restr-dense-192] restr-dense-192_i000 EFormer: feasible=0 cost=4766.0 steps=200 t=953ms
+[restr-dense-192] restr-dense-192_i001 EFormer: feasible=0 cost=6464.0 steps=200 t=944ms
+[restr-dense-192] restr-dense-192_i002 EFormer: feasible=0 cost=9357.0 steps=200 t=986ms
+[restr-dense-192] restr-dense-192_i003 EFormer: feasible=0 cost=4570.0 steps=200 t=947ms
+[restr-dense-192] restr-dense-192_i004 EFormer: feasible=0 cost=2212.0 steps=82 t=621ms
+[restr-dense-192] restr-dense-192_i005 EFormer: feasible=0 cost=4187.0 steps=200 t=964ms
+[restr-dense-192] restr-dense-192_i006 EFormer: feasible=0 cost=4532.0 steps=200 t=958ms
+[restr-dense-192] restr-dense-192_i007 EFormer: feasible=0 cost=4396.0 steps=200 t=952ms
+[restr-dense-192] restr-dense-192_i008 EFormer: feasible=0 cost=5696.0 steps=200 t=926ms
+[restr-dense-192] restr-dense-192_i009 EFormer: feasible=0 cost=7144.0 steps=200 t=969ms
+[restr-dense-192] restr-dense-192_i010 EFormer: feasible=0 cost=2495.0 steps=200 t=937ms
+[restr-dense-192] restr-dense-192_i011 EFormer: feasible=0 cost=4140.0 steps=200 t=973ms
+[restr-dense-192] restr-dense-192_i012 EFormer: feasible=0 cost=7330.0 steps=200 t=968ms
+[restr-dense-192] restr-dense-192_i013 EFormer: feasible=0 cost=4980.0 steps=200 t=964ms
+[restr-dense-192] restr-dense-192_i014 EFormer: feasible=0 cost=6419.0 steps=200 t=952ms
+[restr-dense-192] restr-dense-192_i015 EFormer: feasible=0 cost=4500.0 steps=200 t=980ms
+[restr-dense-192] restr-dense-192_i016 EFormer: feasible=0 cost=3332.0 steps=200 t=961ms
+[restr-dense-192] restr-dense-192_i017 EFormer: feasible=0 cost=7415.0 steps=200 t=961ms
+[restr-dense-192] restr-dense-192_i018 EFormer: feasible=0 cost=7300.0 steps=200 t=988ms
+[restr-dense-192] restr-dense-192_i019 EFormer: feasible=0 cost=6275.0 steps=200 t=954ms
+[restr-dense-192] restr-dense-192_i020 EFormer: feasible=0 cost=3529.0 steps=200 t=959ms
+[restr-dense-192] restr-dense-192_i021 EFormer: feasible=0 cost=2300.0 steps=200 t=951ms
+[restr-dense-192] restr-dense-192_i022 EFormer: feasible=0 cost=5979.0 steps=200 t=975ms
+[restr-dense-192] restr-dense-192_i023 EFormer: feasible=0 cost=7194.0 steps=200 t=952ms
+[restr-dense-192] restr-dense-192_i024 EFormer: feasible=0 cost=2100.0 steps=200 t=952ms
+[restr-dense-192] restr-dense-192_i025 EFormer: feasible=0 cost=5292.0 steps=200 t=944ms
+[restr-dense-192] restr-dense-192_i026 EFormer: feasible=0 cost=6128.0 steps=200 t=938ms
+[restr-dense-192] restr-dense-192_i027 EFormer: feasible=0 cost=900.0 steps=200 t=937ms
+[restr-dense-192] restr-dense-192_i028 EFormer: feasible=0 cost=2049.0 steps=64 t=546ms
+[restr-dense-192] restr-dense-192_i029 EFormer: feasible=0 cost=5683.0 steps=200 t=928ms
+[restr-dense-192] restr-dense-192_i030 EFormer: feasible=0 cost=6539.0 steps=200 t=982ms
+[restr-dense-192] restr-dense-192_i031 EFormer: feasible=0 cost=7496.0 steps=200 t=970ms
+[restr-dense-192] restr-dense-192_i032 EFormer: feasible=0 cost=3228.0 steps=200 t=930ms
+[restr-dense-192] restr-dense-192_i033 EFormer: feasible=0 cost=5600.0 steps=200 t=940ms
+[restr-dense-192] restr-dense-192_i034 EFormer: feasible=0 cost=4494.0 steps=200 t=940ms
+[restr-dense-192] restr-dense-192_i035 EFormer: feasible=0 cost=3823.0 steps=200 t=969ms
+[restr-dense-192] restr-dense-192_i036 EFormer: feasible=0 cost=4604.0 steps=200 t=964ms
+[restr-dense-192] restr-dense-192_i037 EFormer: feasible=0 cost=4404.0 steps=200 t=967ms
+[restr-dense-192] restr-dense-192_i038 EFormer: feasible=0 cost=4930.0 steps=200 t=908ms
+[restr-dense-192] restr-dense-192_i039 EFormer: feasible=0 cost=5563.0 steps=200 t=937ms
+[restr-dense-192] restr-dense-192_i040 EFormer: feasible=0 cost=6081.0 steps=200 t=941ms
+[restr-dense-192] restr-dense-192_i041 EFormer: feasible=0 cost=5800.0 steps=200 t=925ms
+[restr-dense-192] restr-dense-192_i042 EFormer: feasible=0 cost=3256.0 steps=200 t=963ms
+[restr-dense-192] restr-dense-192_i043 EFormer: feasible=0 cost=9500.0 steps=200 t=954ms
+[restr-dense-192] restr-dense-192_i044 EFormer: feasible=0 cost=5484.0 steps=200 t=944ms
+[restr-dense-192] restr-dense-192_i045 EFormer: feasible=0 cost=5200.0 steps=200 t=923ms
+[restr-dense-192] restr-dense-192_i046 EFormer: feasible=0 cost=6542.0 steps=200 t=961ms
+[restr-dense-192] restr-dense-192_i047 EFormer: feasible=0 cost=2544.0 steps=200 t=984ms
+[restr-dense-192] restr-dense-192_i048 EFormer: feasible=0 cost=6400.0 steps=200 t=959ms
+[restr-dense-192] restr-dense-192_i049 EFormer: feasible=0 cost=3740.0 steps=200 t=925ms
+
+=== 汇总（pass rate / fitness / 条件成本 / gap / 平均时间） ===
+restr-dense-192          EFormer | pass=0.000 | fit=0.0129 | cost(feas)=nan | gap=nan% (n=0) | time=938.5ms
+
+=== [win-short] ===
+[win-short] win-short_i000 EFormer: feasible=0 cost=4300.0 steps=200 t=919ms
+[win-short] win-short_i001 EFormer: feasible=0 cost=5800.0 steps=200 t=919ms
+[win-short] win-short_i002 EFormer: feasible=0 cost=600.0 steps=200 t=948ms
+[win-short] win-short_i003 EFormer: feasible=0 cost=8300.0 steps=200 t=931ms
+[win-short] win-short_i004 EFormer: feasible=0 cost=1300.0 steps=200 t=929ms
+[win-short] win-short_i005 EFormer: feasible=0 cost=3017.0 steps=200 t=931ms
+[win-short] win-short_i006 EFormer: feasible=0 cost=9400.0 steps=200 t=932ms
+[win-short] win-short_i007 EFormer: feasible=0 cost=2200.0 steps=200 t=939ms
+[win-short] win-short_i008 EFormer: feasible=0 cost=3400.0 steps=200 t=897ms
+[win-short] win-short_i009 EFormer: feasible=0 cost=4100.0 steps=200 t=929ms
+[win-short] win-short_i010 EFormer: feasible=0 cost=6100.0 steps=200 t=926ms
+[win-short] win-short_i011 EFormer: feasible=0 cost=5500.0 steps=200 t=926ms
+[win-short] win-short_i012 EFormer: feasible=0 cost=5300.0 steps=200 t=935ms
+[win-short] win-short_i013 EFormer: feasible=0 cost=5868.0 steps=200 t=943ms
+[win-short] win-short_i014 EFormer: feasible=0 cost=5600.0 steps=200 t=984ms
+[win-short] win-short_i015 EFormer: feasible=0 cost=5800.0 steps=200 t=934ms
+[win-short] win-short_i016 EFormer: feasible=0 cost=2600.0 steps=200 t=969ms
+[win-short] win-short_i017 EFormer: feasible=0 cost=2438.0 steps=200 t=928ms
+[win-short] win-short_i018 EFormer: feasible=0 cost=6618.0 steps=200 t=944ms
+[win-short] win-short_i019 EFormer: feasible=0 cost=4699.0 steps=200 t=957ms
+[win-short] win-short_i020 EFormer: feasible=0 cost=5600.0 steps=200 t=960ms
+[win-short] win-short_i021 EFormer: feasible=0 cost=6700.0 steps=200 t=983ms
+[win-short] win-short_i022 EFormer: feasible=0 cost=6433.0 steps=200 t=1006ms
+[win-short] win-short_i023 EFormer: feasible=0 cost=4542.0 steps=200 t=978ms
+[win-short] win-short_i024 EFormer: feasible=0 cost=7500.0 steps=200 t=982ms
+[win-short] win-short_i025 EFormer: feasible=0 cost=9500.0 steps=200 t=975ms
+[win-short] win-short_i026 EFormer: feasible=0 cost=3300.0 steps=200 t=967ms
+[win-short] win-short_i027 EFormer: feasible=0 cost=2500.0 steps=200 t=952ms
+[win-short] win-short_i028 EFormer: feasible=0 cost=1700.0 steps=200 t=934ms
+[win-short] win-short_i029 EFormer: feasible=0 cost=4900.0 steps=200 t=921ms
+[win-short] win-short_i030 EFormer: feasible=0 cost=4784.0 steps=200 t=964ms
+[win-short] win-short_i031 EFormer: feasible=0 cost=4502.0 steps=200 t=931ms
+[win-short] win-short_i032 EFormer: feasible=0 cost=4175.0 steps=200 t=967ms
+[win-short] win-short_i033 EFormer: feasible=0 cost=5121.0 steps=200 t=957ms
+[win-short] win-short_i034 EFormer: feasible=0 cost=5900.0 steps=200 t=958ms
+[win-short] win-short_i035 EFormer: feasible=0 cost=4000.0 steps=200 t=980ms
+[win-short] win-short_i036 EFormer: feasible=0 cost=6400.0 steps=200 t=962ms
+[win-short] win-short_i037 EFormer: feasible=0 cost=7800.0 steps=200 t=963ms
+[win-short] win-short_i038 EFormer: feasible=0 cost=6400.0 steps=200 t=932ms
+[win-short] win-short_i039 EFormer: feasible=0 cost=6300.0 steps=200 t=943ms
+[win-short] win-short_i040 EFormer: feasible=0 cost=4304.0 steps=200 t=956ms
+[win-short] win-short_i041 EFormer: feasible=0 cost=8400.0 steps=200 t=959ms
+[win-short] win-short_i042 EFormer: feasible=0 cost=1600.0 steps=200 t=934ms
+[win-short] win-short_i043 EFormer: feasible=0 cost=2263.0 steps=200 t=950ms
+[win-short] win-short_i044 EFormer: feasible=0 cost=5500.0 steps=200 t=955ms
+[win-short] win-short_i045 EFormer: feasible=0 cost=1300.0 steps=200 t=940ms
+[win-short] win-short_i046 EFormer: feasible=0 cost=5800.0 steps=200 t=961ms
+[win-short] win-short_i047 EFormer: feasible=0 cost=4000.0 steps=200 t=972ms
+[win-short] win-short_i048 EFormer: feasible=0 cost=6400.0 steps=200 t=950ms
+[win-short] win-short_i049 EFormer: feasible=0 cost=3500.0 steps=200 t=954ms
+
+=== 汇总（pass rate / fitness / 条件成本 / gap / 平均时间） ===
+   win-short          EFormer | pass=0.000 | fit=0.0132 | cost(feas)=nan | gap=nan% (n=0) | time=949.3ms
+
+=== [win-long] ===
+[win-long] win-long_i000 EFormer: feasible=0 cost=6500.0 steps=200 t=957ms
+[win-long] win-long_i001 EFormer: feasible=0 cost=2800.0 steps=200 t=964ms
+[win-long] win-long_i002 EFormer: feasible=0 cost=4908.0 steps=200 t=940ms
+[win-long] win-long_i003 EFormer: feasible=0 cost=6600.0 steps=200 t=977ms
+[win-long] win-long_i004 EFormer: feasible=0 cost=1600.0 steps=200 t=964ms
+[win-long] win-long_i005 EFormer: feasible=0 cost=4200.0 steps=200 t=954ms
+[win-long] win-long_i006 EFormer: feasible=0 cost=4900.0 steps=200 t=965ms
+[win-long] win-long_i007 EFormer: feasible=0 cost=8800.0 steps=200 t=979ms
+[win-long] win-long_i008 EFormer: feasible=0 cost=2200.0 steps=200 t=949ms
+[win-long] win-long_i009 EFormer: feasible=0 cost=5370.0 steps=200 t=974ms
+[win-long] win-long_i010 EFormer: feasible=0 cost=83.0 steps=10 t=401ms
+[win-long] win-long_i011 EFormer: feasible=0 cost=3500.0 steps=200 t=936ms
+[win-long] win-long_i012 EFormer: feasible=0 cost=6123.0 steps=200 t=953ms
+[win-long] win-long_i013 EFormer: feasible=0 cost=4744.0 steps=200 t=957ms
+[win-long] win-long_i014 EFormer: feasible=0 cost=268.0 steps=7 t=384ms
+[win-long] win-long_i015 EFormer: feasible=0 cost=4556.0 steps=200 t=913ms
+[win-long] win-long_i016 EFormer: feasible=0 cost=9500.0 steps=200 t=929ms
+[win-long] win-long_i017 EFormer: feasible=0 cost=3900.0 steps=200 t=946ms
+[win-long] win-long_i018 EFormer: feasible=0 cost=4324.0 steps=200 t=945ms
+[win-long] win-long_i019 EFormer: feasible=0 cost=5500.0 steps=200 t=951ms
+[win-long] win-long_i020 EFormer: feasible=0 cost=9300.0 steps=200 t=981ms
+[win-long] win-long_i021 EFormer: feasible=0 cost=6500.0 steps=200 t=951ms
+[win-long] win-long_i022 EFormer: feasible=0 cost=7400.0 steps=200 t=942ms
+[win-long] win-long_i023 EFormer: feasible=0 cost=5100.0 steps=200 t=969ms
+[win-long] win-long_i024 EFormer: feasible=0 cost=3480.0 steps=200 t=959ms
+[win-long] win-long_i025 EFormer: feasible=0 cost=7788.0 steps=200 t=931ms
+[win-long] win-long_i026 EFormer: feasible=0 cost=9500.0 steps=200 t=945ms
+[win-long] win-long_i027 EFormer: feasible=0 cost=5200.0 steps=200 t=935ms
+[win-long] win-long_i028 EFormer: feasible=0 cost=6300.0 steps=200 t=948ms
+[win-long] win-long_i029 EFormer: feasible=0 cost=3952.0 steps=200 t=934ms
+[win-long] win-long_i030 EFormer: feasible=0 cost=1100.0 steps=200 t=927ms
+[win-long] win-long_i031 EFormer: feasible=0 cost=5100.0 steps=200 t=935ms
+[win-long] win-long_i032 EFormer: feasible=0 cost=2900.0 steps=200 t=931ms
+[win-long] win-long_i033 EFormer: feasible=0 cost=4800.0 steps=200 t=926ms
+[win-long] win-long_i034 EFormer: feasible=0 cost=6013.0 steps=200 t=937ms
+[win-long] win-long_i035 EFormer: feasible=0 cost=4600.0 steps=200 t=935ms
+[win-long] win-long_i036 EFormer: feasible=0 cost=6700.0 steps=200 t=923ms
+[win-long] win-long_i037 EFormer: feasible=0 cost=3200.0 steps=200 t=952ms
+[win-long] win-long_i038 EFormer: feasible=0 cost=3900.0 steps=200 t=1002ms
+[win-long] win-long_i039 EFormer: feasible=0 cost=7280.0 steps=200 t=954ms
+[win-long] win-long_i040 EFormer: feasible=0 cost=8000.0 steps=200 t=964ms
+[win-long] win-long_i041 EFormer: feasible=0 cost=7302.0 steps=200 t=958ms
+[win-long] win-long_i042 EFormer: feasible=0 cost=4800.0 steps=200 t=947ms
+[win-long] win-long_i043 EFormer: feasible=0 cost=3700.0 steps=200 t=959ms
+[win-long] win-long_i044 EFormer: feasible=0 cost=3300.0 steps=200 t=957ms
+[win-long] win-long_i045 EFormer: feasible=0 cost=4300.0 steps=200 t=952ms
+[win-long] win-long_i046 EFormer: feasible=0 cost=1472.0 steps=200 t=947ms
+[win-long] win-long_i047 EFormer: feasible=0 cost=4900.0 steps=200 t=926ms
+[win-long] win-long_i048 EFormer: feasible=0 cost=5600.0 steps=200 t=960ms
+[win-long] win-long_i049 EFormer: feasible=0 cost=5900.0 steps=200 t=930ms
+
+=== 汇总（pass rate / fitness / 条件成本 / gap / 平均时间） ===
+    win-long          EFormer | pass=0.000 | fit=0.0131 | cost(feas)=nan | gap=nan% (n=0) | time=927.1ms
+
+=== [degree-thin] ===
+[degree-thin] degree-thin_i000 EFormer: feasible=0 cost=1300.0 steps=200 t=954ms
+[degree-thin] degree-thin_i001 EFormer: feasible=0 cost=682.0 steps=25 t=448ms
+[degree-thin] degree-thin_i002 EFormer: feasible=0 cost=3053.0 steps=200 t=953ms
+[degree-thin] degree-thin_i003 EFormer: feasible=0 cost=5100.0 steps=200 t=931ms
+[degree-thin] degree-thin_i004 EFormer: feasible=0 cost=6453.0 steps=200 t=959ms
+[degree-thin] degree-thin_i005 EFormer: feasible=0 cost=5680.0 steps=200 t=954ms
+[degree-thin] degree-thin_i006 EFormer: feasible=0 cost=280.0 steps=10 t=414ms
+[degree-thin] degree-thin_i007 EFormer: feasible=0 cost=7400.0 steps=200 t=936ms
+[degree-thin] degree-thin_i008 EFormer: feasible=0 cost=1339.0 steps=47 t=501ms
+[degree-thin] degree-thin_i009 EFormer: feasible=0 cost=3905.0 steps=200 t=900ms
+[degree-thin] degree-thin_i010 EFormer: feasible=0 cost=7300.0 steps=200 t=957ms
+[degree-thin] degree-thin_i011 EFormer: feasible=0 cost=0.0 steps=0 t=392ms
+[degree-thin] degree-thin_i012 EFormer: feasible=0 cost=4107.0 steps=200 t=937ms
+[degree-thin] degree-thin_i013 EFormer: feasible=0 cost=3652.0 steps=200 t=959ms
+[degree-thin] degree-thin_i014 EFormer: feasible=0 cost=7300.0 steps=200 t=957ms
+[degree-thin] degree-thin_i015 EFormer: feasible=0 cost=387.0 steps=14 t=397ms
+[degree-thin] degree-thin_i016 EFormer: feasible=0 cost=0.0 steps=0 t=342ms
+[degree-thin] degree-thin_i017 EFormer: feasible=0 cost=43.0 steps=1 t=340ms
+[degree-thin] degree-thin_i018 EFormer: feasible=0 cost=49.0 steps=1 t=330ms
+[degree-thin] degree-thin_i019 EFormer: feasible=0 cost=4225.0 steps=200 t=944ms
+[degree-thin] degree-thin_i020 EFormer: feasible=0 cost=587.0 steps=35 t=466ms
+[degree-thin] degree-thin_i021 EFormer: feasible=0 cost=1794.0 steps=42 t=477ms
+[degree-thin] degree-thin_i022 EFormer: feasible=0 cost=5750.0 steps=200 t=949ms
+[degree-thin] degree-thin_i023 EFormer: feasible=0 cost=3100.0 steps=200 t=935ms
+[degree-thin] degree-thin_i024 EFormer: feasible=0 cost=0.0 steps=0 t=330ms
+[degree-thin] degree-thin_i025 EFormer: feasible=0 cost=7400.0 steps=200 t=908ms
+[degree-thin] degree-thin_i026 EFormer: feasible=0 cost=9.0 steps=1 t=332ms
+[degree-thin] degree-thin_i027 EFormer: feasible=0 cost=5900.0 steps=200 t=931ms
+[degree-thin] degree-thin_i028 EFormer: feasible=0 cost=7200.0 steps=200 t=958ms
+[degree-thin] degree-thin_i029 EFormer: feasible=0 cost=29.0 steps=1 t=342ms
+[degree-thin] degree-thin_i030 EFormer: feasible=0 cost=2000.0 steps=200 t=946ms
+[degree-thin] degree-thin_i031 EFormer: feasible=0 cost=4063.0 steps=200 t=921ms
+[degree-thin] degree-thin_i032 EFormer: feasible=0 cost=12.0 steps=1 t=345ms
+[degree-thin] degree-thin_i033 EFormer: feasible=0 cost=12.0 steps=1 t=365ms
+[degree-thin] degree-thin_i034 EFormer: feasible=0 cost=4872.0 steps=200 t=963ms
+[degree-thin] degree-thin_i035 EFormer: feasible=0 cost=1897.0 steps=200 t=951ms
+[degree-thin] degree-thin_i036 EFormer: feasible=0 cost=812.0 steps=39 t=480ms
+[degree-thin] degree-thin_i037 EFormer: feasible=0 cost=498.0 steps=17 t=442ms
+[degree-thin] degree-thin_i038 EFormer: feasible=0 cost=1076.0 steps=46 t=496ms
+[degree-thin] degree-thin_i039 EFormer: feasible=0 cost=96.0 steps=3 t=347ms
+[degree-thin] degree-thin_i040 EFormer: feasible=0 cost=251.0 steps=19 t=390ms
+[degree-thin] degree-thin_i041 EFormer: feasible=0 cost=284.0 steps=14 t=395ms
+[degree-thin] degree-thin_i042 EFormer: feasible=0 cost=42.0 steps=1 t=355ms
+[degree-thin] degree-thin_i043 EFormer: feasible=0 cost=7600.0 steps=200 t=935ms
+[degree-thin] degree-thin_i044 EFormer: feasible=0 cost=4000.0 steps=200 t=934ms
+[degree-thin] degree-thin_i045 EFormer: feasible=0 cost=300.0 steps=200 t=966ms
+[degree-thin] degree-thin_i046 EFormer: feasible=0 cost=4400.0 steps=200 t=943ms
+[degree-thin] degree-thin_i047 EFormer: feasible=0 cost=9200.0 steps=200 t=891ms
+[degree-thin] degree-thin_i048 EFormer: feasible=0 cost=5553.0 steps=200 t=941ms
+[degree-thin] degree-thin_i049 EFormer: feasible=0 cost=6993.0 steps=200 t=947ms
+
+=== 汇总（pass rate / fitness / 条件成本 / gap / 平均时间） ===
+ degree-thin          EFormer | pass=0.000 | fit=0.0155 | cost(feas)=nan | gap=nan% (n=0) | time=701.7ms
+写出: C:\Users\26659\Desktop\ASOC测试\test\results\_jobs\exp6ds_eformer\distshift_per_instance.csv
+写出: C:\Users\26659\Desktop\ASOC测试\test\results\_jobs\exp6ds_eformer\distshift_summary.csv

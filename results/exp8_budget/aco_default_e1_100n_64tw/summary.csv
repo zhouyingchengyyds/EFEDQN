@@ -1,0 +1,2 @@
+condition,protocol,n_instances,pass_rate,n_feasible,mean_cost_all,mean_cost_feasible,mean_fitness,mean_gap_pct,n_gap,mean_time_ms,median_time_ms
+100n_64tw,TD-ACO,50,0.0,0,898.36,nan,0.018050173272850734,nan,0,22762.850570000013,22817.656199999987

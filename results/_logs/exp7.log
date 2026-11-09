@@ -1,0 +1,81 @@
+C:\Users\26659\Desktop\ASOC测试\test\exp_common.py:561: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  ckpt = torch.load(ckpt_path, map_location=self.device)
+真实路网: 20 节点(6 配送点), 58 有向弧, 16 条限行有向弧
+
+=== 出发时刻 06:30 ===
+[depart_0630] luoyang_0630 TD-ACO: feasible=1 cost=94.4 steps=16 t=5466ms
+[depart_0630] luoyang_0630 GA: feasible=1 cost=163.6 steps=30 t=1480ms
+[depart_0630] luoyang_0630 PSO: feasible=1 cost=131.2 steps=24 t=5110ms
+[depart_0630] luoyang_0630 EFormer: feasible=0 cost=1038.0 steps=200 t=517ms
+[depart_0630] luoyang_0630 EFormer-K10: feasible=1 cost=490.7 steps=82 t=770ms
+[depart_0630] luoyang_0630 EFEDQN: feasible=0 cost=515.9 steps=200 t=5194ms
+[depart_0630] luoyang_0630 EFEDQN-E: feasible=1 cost=101.1 steps=18 t=17349ms
+
+=== 汇总（pass rate / fitness / 条件成本 / gap / 平均时间） ===
+ depart_0630           EFEDQN | pass=0.000 | fit=0.0034 | cost(feas)=nan | gap=nan% (n=0) | time=5194.3ms
+ depart_0630         EFEDQN-E | pass=1.000 | fit=0.3559 | cost(feas)=101.14 | gap=nan% (n=0) | time=17349.1ms
+ depart_0630          EFormer | pass=0.000 | fit=0.0033 | cost(feas)=nan | gap=nan% (n=0) | time=516.5ms
+ depart_0630      EFormer-K10 | pass=1.000 | fit=0.0734 | cost(feas)=490.71 | gap=nan% (n=0) | time=770.0ms
+ depart_0630               GA | pass=1.000 | fit=0.2201 | cost(feas)=163.56 | gap=nan% (n=0) | time=1480.5ms
+ depart_0630              PSO | pass=1.000 | fit=0.2744 | cost(feas)=131.20 | gap=nan% (n=0) | time=5109.9ms
+ depart_0630           TD-ACO | pass=1.000 | fit=0.3814 | cost(feas)=94.40 | gap=nan% (n=0) | time=5466.0ms
+[保存] C:\Users\26659\Desktop\ASOC测试\test\results\exp7_real\fig3-1.png/.svg/.pdf
+
+=== 出发时刻 08:00 ===
+[depart_0800] luoyang_0800 TD-ACO: feasible=1 cost=125.0 steps=26 t=7235ms
+[depart_0800] luoyang_0800 GA: feasible=0 cost=195.5 steps=36 t=1661ms
+[depart_0800] luoyang_0800 PSO: feasible=0 cost=323.6 steps=64 t=5738ms
+[depart_0800] luoyang_0800 EFormer: feasible=0 cost=1038.0 steps=200 t=550ms
+[depart_0800] luoyang_0800 EFormer-K10: feasible=1 cost=517.8 steps=96 t=723ms
+[depart_0800] luoyang_0800 EFEDQN: feasible=1 cost=183.0 steps=44 t=1141ms
+[depart_0800] luoyang_0800 EFEDQN-E: feasible=1 cost=101.2 steps=18 t=14228ms
+
+=== 汇总（pass rate / fitness / 条件成本 / gap / 平均时间） ===
+ depart_0800           EFEDQN | pass=1.000 | fit=0.1967 | cost(feas)=182.99 | gap=nan% (n=0) | time=1141.4ms
+ depart_0800         EFEDQN-E | pass=1.000 | fit=0.3556 | cost(feas)=101.23 | gap=nan% (n=0) | time=14228.4ms
+ depart_0800          EFormer | pass=0.000 | fit=0.0033 | cost(feas)=nan | gap=nan% (n=0) | time=550.4ms
+ depart_0800      EFormer-K10 | pass=1.000 | fit=0.0695 | cost(feas)=517.81 | gap=nan% (n=0) | time=723.1ms
+ depart_0800               GA | pass=0.000 | fit=0.0035 | cost(feas)=nan | gap=nan% (n=0) | time=1661.2ms
+ depart_0800              PSO | pass=0.000 | fit=0.0035 | cost(feas)=nan | gap=nan% (n=0) | time=5738.0ms
+ depart_0800           TD-ACO | pass=1.000 | fit=0.2880 | cost(feas)=124.99 | gap=nan% (n=0) | time=7235.3ms
+[保存] C:\Users\26659\Desktop\ASOC测试\test\results\exp7_real\fig3-2.png/.svg/.pdf
+
+=== 出发时刻 12:00 ===
+[depart_1200] luoyang_1200 TD-ACO: feasible=1 cost=94.4 steps=16 t=5940ms
+[depart_1200] luoyang_1200 GA: feasible=1 cost=129.5 steps=26 t=1242ms
+[depart_1200] luoyang_1200 PSO: feasible=1 cost=105.9 steps=20 t=4959ms
+[depart_1200] luoyang_1200 EFormer: feasible=0 cost=1038.0 steps=200 t=521ms
+[depart_1200] luoyang_1200 EFormer-K10: feasible=1 cost=659.6 steps=138 t=754ms
+[depart_1200] luoyang_1200 EFEDQN: feasible=1 cost=106.5 steps=20 t=519ms
+[depart_1200] luoyang_1200 EFEDQN-E: feasible=1 cost=102.0 steps=18 t=4756ms
+
+=== 汇总（pass rate / fitness / 条件成本 / gap / 平均时间） ===
+ depart_1200           EFEDQN | pass=1.000 | fit=0.3380 | cost(feas)=106.50 | gap=nan% (n=0) | time=519.0ms
+ depart_1200         EFEDQN-E | pass=1.000 | fit=0.3529 | cost(feas)=102.00 | gap=nan% (n=0) | time=4756.0ms
+ depart_1200          EFormer | pass=0.000 | fit=0.0033 | cost(feas)=nan | gap=nan% (n=0) | time=521.2ms
+ depart_1200      EFormer-K10 | pass=1.000 | fit=0.0546 | cost(feas)=659.55 | gap=nan% (n=0) | time=753.7ms
+ depart_1200               GA | pass=1.000 | fit=0.2779 | cost(feas)=129.53 | gap=nan% (n=0) | time=1242.3ms
+ depart_1200              PSO | pass=1.000 | fit=0.3400 | cost(feas)=105.88 | gap=nan% (n=0) | time=4958.5ms
+ depart_1200           TD-ACO | pass=1.000 | fit=0.3814 | cost(feas)=94.40 | gap=nan% (n=0) | time=5940.3ms
+[保存] C:\Users\26659\Desktop\ASOC测试\test\results\exp7_real\fig3-3.png/.svg/.pdf
+
+=== 出发时刻 18:00 ===
+[depart_1800] luoyang_1800 TD-ACO: feasible=1 cost=101.0 steps=18 t=6403ms
+[depart_1800] luoyang_1800 GA: feasible=1 cost=129.3 steps=28 t=1413ms
+[depart_1800] luoyang_1800 PSO: feasible=1 cost=149.7 steps=28 t=5283ms
+[depart_1800] luoyang_1800 EFormer: feasible=0 cost=1038.0 steps=200 t=498ms
+[depart_1800] luoyang_1800 EFormer-K10: feasible=1 cost=522.9 steps=90 t=724ms
+[depart_1800] luoyang_1800 EFEDQN: feasible=1 cost=102.0 steps=18 t=458ms
+[depart_1800] luoyang_1800 EFEDQN-E: feasible=1 cost=101.5 steps=18 t=25135ms
+
+=== 汇总（pass rate / fitness / 条件成本 / gap / 平均时间） ===
+ depart_1800           EFEDQN | pass=1.000 | fit=0.3529 | cost(feas)=102.00 | gap=nan% (n=0) | time=458.0ms
+ depart_1800         EFEDQN-E | pass=1.000 | fit=0.3547 | cost(feas)=101.50 | gap=nan% (n=0) | time=25135.2ms
+ depart_1800          EFormer | pass=0.000 | fit=0.0033 | cost(feas)=nan | gap=nan% (n=0) | time=498.3ms
+ depart_1800      EFormer-K10 | pass=1.000 | fit=0.0688 | cost(feas)=522.91 | gap=nan% (n=0) | time=723.8ms
+ depart_1800               GA | pass=1.000 | fit=0.2784 | cost(feas)=129.29 | gap=nan% (n=0) | time=1413.3ms
+ depart_1800              PSO | pass=1.000 | fit=0.2404 | cost(feas)=149.73 | gap=nan% (n=0) | time=5282.9ms
+ depart_1800           TD-ACO | pass=1.000 | fit=0.3564 | cost(feas)=101.01 | gap=nan% (n=0) | time=6403.5ms
+[保存] C:\Users\26659\Desktop\ASOC测试\test\results\exp7_real\fig3-4.png/.svg/.pdf
+写出: C:\Users\26659\Desktop\ASOC测试\test\results\exp7_real\per_instance.csv
+写出: C:\Users\26659\Desktop\ASOC测试\test\results\exp7_real\summary.csv

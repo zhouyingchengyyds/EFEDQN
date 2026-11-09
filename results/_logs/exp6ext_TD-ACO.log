@@ -1,0 +1,112 @@
+
+########## 块 A: 规模外推 (['TD-ACO']) ##########
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\_jobs\exp6ext_TD-ACO\instances\150n_96tw (30 个)
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\_jobs\exp6ext_TD-ACO\instances\200n_128tw (30 个)
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\_jobs\exp6ext_TD-ACO\instances\300n_192tw (30 个)
+
+=== [150n_96tw] ===
+[150n_96tw] 150n_96tw_i000 TD-ACO: feasible=0 cost=0.0 steps=0 t=77411ms
+[150n_96tw] 150n_96tw_i001 TD-ACO: feasible=0 cost=0.0 steps=0 t=78450ms
+[150n_96tw] 150n_96tw_i002 TD-ACO: feasible=0 cost=0.0 steps=0 t=79076ms
+[150n_96tw] 150n_96tw_i003 TD-ACO: feasible=0 cost=0.0 steps=0 t=79457ms
+[150n_96tw] 150n_96tw_i004 TD-ACO: feasible=0 cost=0.0 steps=0 t=78798ms
+[150n_96tw] 150n_96tw_i005 TD-ACO: feasible=0 cost=0.0 steps=0 t=79312ms
+[150n_96tw] 150n_96tw_i006 TD-ACO: feasible=0 cost=0.0 steps=0 t=78830ms
+[150n_96tw] 150n_96tw_i007 TD-ACO: feasible=0 cost=0.0 steps=0 t=78893ms
+[150n_96tw] 150n_96tw_i008 TD-ACO: feasible=0 cost=0.0 steps=0 t=80752ms
+[150n_96tw] 150n_96tw_i009 TD-ACO: feasible=0 cost=0.0 steps=0 t=77811ms
+[150n_96tw] 150n_96tw_i010 TD-ACO: feasible=0 cost=0.0 steps=0 t=74552ms
+[150n_96tw] 150n_96tw_i011 TD-ACO: feasible=0 cost=0.0 steps=0 t=75519ms
+[150n_96tw] 150n_96tw_i012 TD-ACO: feasible=0 cost=0.0 steps=0 t=79674ms
+[150n_96tw] 150n_96tw_i013 TD-ACO: feasible=0 cost=0.0 steps=0 t=80828ms
+[150n_96tw] 150n_96tw_i014 TD-ACO: feasible=0 cost=0.0 steps=0 t=79273ms
+[150n_96tw] 150n_96tw_i015 TD-ACO: feasible=0 cost=0.0 steps=0 t=77758ms
+[150n_96tw] 150n_96tw_i016 TD-ACO: feasible=0 cost=0.0 steps=0 t=79305ms
+[150n_96tw] 150n_96tw_i017 TD-ACO: feasible=0 cost=0.0 steps=0 t=73556ms
+[150n_96tw] 150n_96tw_i018 TD-ACO: feasible=0 cost=0.0 steps=0 t=74479ms
+[150n_96tw] 150n_96tw_i019 TD-ACO: feasible=0 cost=0.0 steps=0 t=73257ms
+[150n_96tw] 150n_96tw_i020 TD-ACO: feasible=0 cost=0.0 steps=0 t=79943ms
+[150n_96tw] 150n_96tw_i021 TD-ACO: feasible=0 cost=0.0 steps=0 t=80166ms
+[150n_96tw] 150n_96tw_i022 TD-ACO: feasible=0 cost=0.0 steps=0 t=80639ms
+[150n_96tw] 150n_96tw_i023 TD-ACO: feasible=0 cost=0.0 steps=0 t=79870ms
+[150n_96tw] 150n_96tw_i024 TD-ACO: feasible=0 cost=0.0 steps=0 t=74997ms
+[150n_96tw] 150n_96tw_i025 TD-ACO: feasible=0 cost=0.0 steps=0 t=73561ms
+[150n_96tw] 150n_96tw_i026 TD-ACO: feasible=0 cost=0.0 steps=0 t=71368ms
+[150n_96tw] 150n_96tw_i027 TD-ACO: feasible=0 cost=0.0 steps=0 t=78402ms
+[150n_96tw] 150n_96tw_i028 TD-ACO: feasible=0 cost=0.0 steps=0 t=78038ms
+[150n_96tw] 150n_96tw_i029 TD-ACO: feasible=0 cost=0.0 steps=0 t=77993ms
+
+=== 汇总（pass rate / fitness / 条件成本 / gap / 平均时间） ===
+   150n_96tw           TD-ACO | pass=0.000 | fit=0.0288 | cost(feas)=nan | gap=nan% (n=0) | time=77732.3ms
+
+=== [200n_128tw] ===
+[200n_128tw] 200n_128tw_i000 TD-ACO: feasible=0 cost=0.0 steps=0 t=128933ms
+[200n_128tw] 200n_128tw_i001 TD-ACO: feasible=0 cost=0.0 steps=0 t=115383ms
+[200n_128tw] 200n_128tw_i002 TD-ACO: feasible=0 cost=0.0 steps=0 t=120441ms
+[200n_128tw] 200n_128tw_i003 TD-ACO: feasible=0 cost=0.0 steps=0 t=136270ms
+[200n_128tw] 200n_128tw_i004 TD-ACO: feasible=0 cost=0.0 steps=0 t=141159ms
+[200n_128tw] 200n_128tw_i005 TD-ACO: feasible=0 cost=0.0 steps=0 t=130353ms
+[200n_128tw] 200n_128tw_i006 TD-ACO: feasible=0 cost=0.0 steps=0 t=139955ms
+[200n_128tw] 200n_128tw_i007 TD-ACO: feasible=0 cost=0.0 steps=0 t=137444ms
+[200n_128tw] 200n_128tw_i008 TD-ACO: feasible=0 cost=0.0 steps=0 t=107793ms
+[200n_128tw] 200n_128tw_i009 TD-ACO: feasible=0 cost=0.0 steps=0 t=114260ms
+[200n_128tw] 200n_128tw_i010 TD-ACO: feasible=0 cost=0.0 steps=0 t=111601ms
+[200n_128tw] 200n_128tw_i011 TD-ACO: feasible=0 cost=0.0 steps=0 t=124527ms
+[200n_128tw] 200n_128tw_i012 TD-ACO: feasible=0 cost=0.0 steps=0 t=112679ms
+[200n_128tw] 200n_128tw_i013 TD-ACO: feasible=0 cost=0.0 steps=0 t=106761ms
+[200n_128tw] 200n_128tw_i014 TD-ACO: feasible=0 cost=0.0 steps=0 t=108167ms
+[200n_128tw] 200n_128tw_i015 TD-ACO: feasible=0 cost=0.0 steps=0 t=111897ms
+[200n_128tw] 200n_128tw_i016 TD-ACO: feasible=0 cost=0.0 steps=0 t=116529ms
+[200n_128tw] 200n_128tw_i017 TD-ACO: feasible=0 cost=0.0 steps=0 t=125913ms
+[200n_128tw] 200n_128tw_i018 TD-ACO: feasible=0 cost=0.0 steps=0 t=112318ms
+[200n_128tw] 200n_128tw_i019 TD-ACO: feasible=0 cost=0.0 steps=0 t=110218ms
+[200n_128tw] 200n_128tw_i020 TD-ACO: feasible=0 cost=0.0 steps=0 t=128616ms
+[200n_128tw] 200n_128tw_i021 TD-ACO: feasible=0 cost=0.0 steps=0 t=144016ms
+[200n_128tw] 200n_128tw_i022 TD-ACO: feasible=0 cost=0.0 steps=0 t=138502ms
+[200n_128tw] 200n_128tw_i023 TD-ACO: feasible=0 cost=0.0 steps=0 t=139207ms
+[200n_128tw] 200n_128tw_i024 TD-ACO: feasible=0 cost=0.0 steps=0 t=141576ms
+[200n_128tw] 200n_128tw_i025 TD-ACO: feasible=0 cost=0.0 steps=0 t=140992ms
+[200n_128tw] 200n_128tw_i026 TD-ACO: feasible=0 cost=0.0 steps=0 t=141410ms
+[200n_128tw] 200n_128tw_i027 TD-ACO: feasible=0 cost=0.0 steps=0 t=138643ms
+[200n_128tw] 200n_128tw_i028 TD-ACO: feasible=0 cost=0.0 steps=0 t=139429ms
+[200n_128tw] 200n_128tw_i029 TD-ACO: feasible=0 cost=0.0 steps=0 t=139294ms
+
+=== 汇总（pass rate / fitness / 条件成本 / gap / 平均时间） ===
+  200n_128tw           TD-ACO | pass=0.000 | fit=0.0384 | cost(feas)=nan | gap=nan% (n=0) | time=126809.5ms
+
+=== [300n_192tw] ===
+[300n_192tw] 300n_192tw_i000 TD-ACO: feasible=0 cost=0.0 steps=0 t=302102ms
+[300n_192tw] 300n_192tw_i001 TD-ACO: feasible=0 cost=0.0 steps=0 t=305017ms
+[300n_192tw] 300n_192tw_i002 TD-ACO: feasible=0 cost=0.0 steps=0 t=282669ms
+[300n_192tw] 300n_192tw_i003 TD-ACO: feasible=0 cost=0.0 steps=0 t=263593ms
+[300n_192tw] 300n_192tw_i004 TD-ACO: feasible=0 cost=0.0 steps=0 t=226467ms
+[300n_192tw] 300n_192tw_i005 TD-ACO: feasible=0 cost=0.0 steps=0 t=232687ms
+[300n_192tw] 300n_192tw_i006 TD-ACO: feasible=0 cost=0.0 steps=0 t=229668ms
+[300n_192tw] 300n_192tw_i007 TD-ACO: feasible=0 cost=0.0 steps=0 t=227897ms
+[300n_192tw] 300n_192tw_i008 TD-ACO: feasible=0 cost=0.0 steps=0 t=226301ms
+[300n_192tw] 300n_192tw_i009 TD-ACO: feasible=0 cost=0.0 steps=0 t=217605ms
+[300n_192tw] 300n_192tw_i010 TD-ACO: feasible=0 cost=0.0 steps=0 t=218477ms
+[300n_192tw] 300n_192tw_i011 TD-ACO: feasible=0 cost=0.0 steps=0 t=216967ms
+[300n_192tw] 300n_192tw_i012 TD-ACO: feasible=0 cost=0.0 steps=0 t=217922ms
+[300n_192tw] 300n_192tw_i013 TD-ACO: feasible=0 cost=0.0 steps=0 t=220573ms
+[300n_192tw] 300n_192tw_i014 TD-ACO: feasible=0 cost=0.0 steps=0 t=219121ms
+[300n_192tw] 300n_192tw_i015 TD-ACO: feasible=0 cost=0.0 steps=0 t=220965ms
+[300n_192tw] 300n_192tw_i016 TD-ACO: feasible=0 cost=0.0 steps=0 t=219665ms
+[300n_192tw] 300n_192tw_i017 TD-ACO: feasible=0 cost=0.0 steps=0 t=215555ms
+[300n_192tw] 300n_192tw_i018 TD-ACO: feasible=0 cost=0.0 steps=0 t=211975ms
+[300n_192tw] 300n_192tw_i019 TD-ACO: feasible=0 cost=0.0 steps=0 t=206566ms
+[300n_192tw] 300n_192tw_i020 TD-ACO: feasible=0 cost=0.0 steps=0 t=206838ms
+[300n_192tw] 300n_192tw_i021 TD-ACO: feasible=0 cost=0.0 steps=0 t=208124ms
+[300n_192tw] 300n_192tw_i022 TD-ACO: feasible=0 cost=0.0 steps=0 t=205439ms
+[300n_192tw] 300n_192tw_i023 TD-ACO: feasible=0 cost=0.0 steps=0 t=209357ms
+[300n_192tw] 300n_192tw_i024 TD-ACO: feasible=0 cost=0.0 steps=0 t=207690ms
+[300n_192tw] 300n_192tw_i025 TD-ACO: feasible=0 cost=0.0 steps=0 t=201674ms
+[300n_192tw] 300n_192tw_i026 TD-ACO: feasible=0 cost=0.0 steps=0 t=202322ms
+[300n_192tw] 300n_192tw_i027 TD-ACO: feasible=0 cost=0.0 steps=0 t=202556ms
+[300n_192tw] 300n_192tw_i028 TD-ACO: feasible=0 cost=0.0 steps=0 t=203249ms
+[300n_192tw] 300n_192tw_i029 TD-ACO: feasible=0 cost=0.0 steps=0 t=203532ms
+
+=== 汇总（pass rate / fitness / 条件成本 / gap / 平均时间） ===
+  300n_192tw           TD-ACO | pass=0.000 | fit=0.0576 | cost(feas)=nan | gap=nan% (n=0) | time=224419.1ms
+写出: C:\Users\26659\Desktop\ASOC测试\test\results\_jobs\exp6ext_TD-ACO\extrap_per_instance.csv
+写出: C:\Users\26659\Desktop\ASOC测试\test\results\_jobs\exp6ext_TD-ACO\extrap_summary.csv

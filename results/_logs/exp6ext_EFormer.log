@@ -1,0 +1,114 @@
+C:\Users\26659\Desktop\ASOC测试\test\exp_common.py:561: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  ckpt = torch.load(ckpt_path, map_location=self.device)
+
+########## 块 A: 规模外推 (['EFormer']) ##########
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\_jobs\exp6ext_EFormer\instances\150n_96tw (30 个)
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\_jobs\exp6ext_EFormer\instances\200n_128tw (30 个)
+实例池已固化: C:\Users\26659\Desktop\ASOC测试\test\results\_jobs\exp6ext_EFormer\instances\300n_192tw (30 个)
+
+=== [150n_96tw] ===
+[150n_96tw] 150n_96tw_i000 EFormer: feasible=0 cost=1968.0 steps=200 t=1459ms
+[150n_96tw] 150n_96tw_i001 EFormer: feasible=0 cost=4884.0 steps=200 t=1419ms
+[150n_96tw] 150n_96tw_i002 EFormer: feasible=0 cost=8000.0 steps=200 t=1434ms
+[150n_96tw] 150n_96tw_i003 EFormer: feasible=0 cost=6700.0 steps=200 t=1440ms
+[150n_96tw] 150n_96tw_i004 EFormer: feasible=0 cost=3900.0 steps=200 t=1431ms
+[150n_96tw] 150n_96tw_i005 EFormer: feasible=0 cost=5200.0 steps=200 t=1426ms
+[150n_96tw] 150n_96tw_i006 EFormer: feasible=0 cost=7600.0 steps=200 t=1376ms
+[150n_96tw] 150n_96tw_i007 EFormer: feasible=0 cost=4900.0 steps=200 t=1418ms
+[150n_96tw] 150n_96tw_i008 EFormer: feasible=0 cost=2400.0 steps=200 t=1363ms
+[150n_96tw] 150n_96tw_i009 EFormer: feasible=0 cost=3364.0 steps=200 t=1455ms
+[150n_96tw] 150n_96tw_i010 EFormer: feasible=0 cost=8712.0 steps=200 t=1402ms
+[150n_96tw] 150n_96tw_i011 EFormer: feasible=0 cost=4900.0 steps=200 t=1435ms
+[150n_96tw] 150n_96tw_i012 EFormer: feasible=0 cost=6800.0 steps=200 t=1439ms
+[150n_96tw] 150n_96tw_i013 EFormer: feasible=0 cost=3000.0 steps=200 t=1438ms
+[150n_96tw] 150n_96tw_i014 EFormer: feasible=0 cost=5000.0 steps=200 t=1414ms
+[150n_96tw] 150n_96tw_i015 EFormer: feasible=0 cost=5857.0 steps=200 t=1439ms
+[150n_96tw] 150n_96tw_i016 EFormer: feasible=0 cost=2400.0 steps=200 t=1471ms
+[150n_96tw] 150n_96tw_i017 EFormer: feasible=0 cost=3400.0 steps=200 t=1407ms
+[150n_96tw] 150n_96tw_i018 EFormer: feasible=0 cost=6600.0 steps=200 t=1421ms
+[150n_96tw] 150n_96tw_i019 EFormer: feasible=0 cost=6444.0 steps=200 t=1430ms
+[150n_96tw] 150n_96tw_i020 EFormer: feasible=0 cost=8400.0 steps=200 t=1495ms
+[150n_96tw] 150n_96tw_i021 EFormer: feasible=0 cost=4800.0 steps=200 t=1436ms
+[150n_96tw] 150n_96tw_i022 EFormer: feasible=0 cost=4700.0 steps=200 t=1420ms
+[150n_96tw] 150n_96tw_i023 EFormer: feasible=0 cost=5440.0 steps=200 t=1431ms
+[150n_96tw] 150n_96tw_i024 EFormer: feasible=0 cost=4500.0 steps=200 t=1435ms
+[150n_96tw] 150n_96tw_i025 EFormer: feasible=0 cost=5000.0 steps=200 t=1429ms
+[150n_96tw] 150n_96tw_i026 EFormer: feasible=0 cost=4500.0 steps=200 t=1461ms
+[150n_96tw] 150n_96tw_i027 EFormer: feasible=0 cost=2084.0 steps=200 t=1448ms
+[150n_96tw] 150n_96tw_i028 EFormer: feasible=0 cost=7900.0 steps=200 t=1442ms
+[150n_96tw] 150n_96tw_i029 EFormer: feasible=0 cost=4161.0 steps=200 t=1476ms
+
+=== 汇总（pass rate / fitness / 条件成本 / gap / 平均时间） ===
+   150n_96tw          EFormer | pass=0.000 | fit=0.0193 | cost(feas)=nan | gap=nan% (n=0) | time=1433.0ms
+
+=== [200n_128tw] ===
+[200n_128tw] 200n_128tw_i000 EFormer: feasible=0 cost=3379.0 steps=200 t=2237ms
+[200n_128tw] 200n_128tw_i001 EFormer: feasible=0 cost=6205.0 steps=200 t=2234ms
+[200n_128tw] 200n_128tw_i002 EFormer: feasible=0 cost=2700.0 steps=200 t=2209ms
+[200n_128tw] 200n_128tw_i003 EFormer: feasible=0 cost=7300.0 steps=200 t=2196ms
+[200n_128tw] 200n_128tw_i004 EFormer: feasible=0 cost=6300.0 steps=200 t=2246ms
+[200n_128tw] 200n_128tw_i005 EFormer: feasible=0 cost=4900.0 steps=200 t=2286ms
+[200n_128tw] 200n_128tw_i006 EFormer: feasible=0 cost=6922.0 steps=200 t=2200ms
+[200n_128tw] 200n_128tw_i007 EFormer: feasible=0 cost=6200.0 steps=200 t=2245ms
+[200n_128tw] 200n_128tw_i008 EFormer: feasible=0 cost=6678.0 steps=200 t=2211ms
+[200n_128tw] 200n_128tw_i009 EFormer: feasible=0 cost=4490.0 steps=200 t=2248ms
+[200n_128tw] 200n_128tw_i010 EFormer: feasible=0 cost=4232.0 steps=200 t=2259ms
+[200n_128tw] 200n_128tw_i011 EFormer: feasible=0 cost=7000.0 steps=200 t=2278ms
+[200n_128tw] 200n_128tw_i012 EFormer: feasible=0 cost=2800.0 steps=200 t=2284ms
+[200n_128tw] 200n_128tw_i013 EFormer: feasible=0 cost=8200.0 steps=200 t=2302ms
+[200n_128tw] 200n_128tw_i014 EFormer: feasible=0 cost=1300.0 steps=200 t=2299ms
+[200n_128tw] 200n_128tw_i015 EFormer: feasible=0 cost=4900.0 steps=200 t=2289ms
+[200n_128tw] 200n_128tw_i016 EFormer: feasible=0 cost=1800.0 steps=200 t=2313ms
+[200n_128tw] 200n_128tw_i017 EFormer: feasible=0 cost=5996.0 steps=200 t=2363ms
+[200n_128tw] 200n_128tw_i018 EFormer: feasible=0 cost=6900.0 steps=200 t=2231ms
+[200n_128tw] 200n_128tw_i019 EFormer: feasible=0 cost=6700.0 steps=200 t=2190ms
+[200n_128tw] 200n_128tw_i020 EFormer: feasible=0 cost=4400.0 steps=200 t=2203ms
+[200n_128tw] 200n_128tw_i021 EFormer: feasible=0 cost=4700.0 steps=200 t=2212ms
+[200n_128tw] 200n_128tw_i022 EFormer: feasible=0 cost=6100.0 steps=200 t=2181ms
+[200n_128tw] 200n_128tw_i023 EFormer: feasible=0 cost=6836.0 steps=200 t=2276ms
+[200n_128tw] 200n_128tw_i024 EFormer: feasible=0 cost=7200.0 steps=200 t=2256ms
+[200n_128tw] 200n_128tw_i025 EFormer: feasible=0 cost=4700.0 steps=200 t=2235ms
+[200n_128tw] 200n_128tw_i026 EFormer: feasible=0 cost=5400.0 steps=200 t=2251ms
+[200n_128tw] 200n_128tw_i027 EFormer: feasible=0 cost=5091.0 steps=200 t=2209ms
+[200n_128tw] 200n_128tw_i028 EFormer: feasible=0 cost=6309.0 steps=200 t=2241ms
+[200n_128tw] 200n_128tw_i029 EFormer: feasible=0 cost=4300.0 steps=200 t=2266ms
+
+=== 汇总（pass rate / fitness / 条件成本 / gap / 平均时间） ===
+  200n_128tw          EFormer | pass=0.000 | fit=0.0254 | cost(feas)=nan | gap=nan% (n=0) | time=2248.3ms
+
+=== [300n_192tw] ===
+[300n_192tw] 300n_192tw_i000 EFormer: feasible=0 cost=6854.0 steps=200 t=4380ms
+[300n_192tw] 300n_192tw_i001 EFormer: feasible=0 cost=4900.0 steps=200 t=4426ms
+[300n_192tw] 300n_192tw_i002 EFormer: feasible=0 cost=5100.0 steps=200 t=4309ms
+[300n_192tw] 300n_192tw_i003 EFormer: feasible=0 cost=2828.0 steps=200 t=4534ms
+[300n_192tw] 300n_192tw_i004 EFormer: feasible=0 cost=1800.0 steps=200 t=4278ms
+[300n_192tw] 300n_192tw_i005 EFormer: feasible=0 cost=4560.0 steps=200 t=4361ms
+[300n_192tw] 300n_192tw_i006 EFormer: feasible=0 cost=5300.0 steps=200 t=4271ms
+[300n_192tw] 300n_192tw_i007 EFormer: feasible=0 cost=2730.0 steps=200 t=4331ms
+[300n_192tw] 300n_192tw_i008 EFormer: feasible=0 cost=2200.0 steps=200 t=4282ms
+[300n_192tw] 300n_192tw_i009 EFormer: feasible=0 cost=3200.0 steps=200 t=4282ms
+[300n_192tw] 300n_192tw_i010 EFormer: feasible=0 cost=7200.0 steps=200 t=4217ms
+[300n_192tw] 300n_192tw_i011 EFormer: feasible=0 cost=3800.0 steps=200 t=4225ms
+[300n_192tw] 300n_192tw_i012 EFormer: feasible=0 cost=5000.0 steps=200 t=4125ms
+[300n_192tw] 300n_192tw_i013 EFormer: feasible=0 cost=5376.0 steps=200 t=3938ms
+[300n_192tw] 300n_192tw_i014 EFormer: feasible=0 cost=9300.0 steps=200 t=3501ms
+[300n_192tw] 300n_192tw_i015 EFormer: feasible=0 cost=6200.0 steps=200 t=3896ms
+[300n_192tw] 300n_192tw_i016 EFormer: feasible=0 cost=1200.0 steps=200 t=4082ms
+[300n_192tw] 300n_192tw_i017 EFormer: feasible=0 cost=8100.0 steps=200 t=3723ms
+[300n_192tw] 300n_192tw_i018 EFormer: feasible=0 cost=5524.0 steps=200 t=3715ms
+[300n_192tw] 300n_192tw_i019 EFormer: feasible=0 cost=5352.0 steps=200 t=3824ms
+[300n_192tw] 300n_192tw_i020 EFormer: feasible=0 cost=3800.0 steps=200 t=3829ms
+[300n_192tw] 300n_192tw_i021 EFormer: feasible=0 cost=5300.0 steps=200 t=3978ms
+[300n_192tw] 300n_192tw_i022 EFormer: feasible=0 cost=3900.0 steps=200 t=3894ms
+[300n_192tw] 300n_192tw_i023 EFormer: feasible=0 cost=6600.0 steps=200 t=3816ms
+[300n_192tw] 300n_192tw_i024 EFormer: feasible=0 cost=5100.0 steps=200 t=3942ms
+[300n_192tw] 300n_192tw_i025 EFormer: feasible=0 cost=5368.0 steps=200 t=4571ms
+[300n_192tw] 300n_192tw_i026 EFormer: feasible=0 cost=5500.0 steps=200 t=4484ms
+[300n_192tw] 300n_192tw_i027 EFormer: feasible=0 cost=5600.0 steps=200 t=4457ms
+[300n_192tw] 300n_192tw_i028 EFormer: feasible=0 cost=1100.0 steps=200 t=4354ms
+[300n_192tw] 300n_192tw_i029 EFormer: feasible=0 cost=7700.0 steps=200 t=4451ms
+
+=== 汇总（pass rate / fitness / 条件成本 / gap / 平均时间） ===
+  300n_192tw          EFormer | pass=0.000 | fit=0.0394 | cost(feas)=nan | gap=nan% (n=0) | time=4149.2ms
+写出: C:\Users\26659\Desktop\ASOC测试\test\results\_jobs\exp6ext_EFormer\extrap_per_instance.csv
+写出: C:\Users\26659\Desktop\ASOC测试\test\results\_jobs\exp6ext_EFormer\extrap_summary.csv
